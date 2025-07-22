@@ -76,3 +76,15 @@ Make sure your Excel file (search_keywords.xlsx) has keywords in Column A.
 python search.py
 ```
 Matched PDFs will be copied to filtered/ under each keyword-named folder.
+
+##  Notes
+Rotation is automatically corrected based on Tesseract's orientation detection.
+
+OCR accuracy is improved with grayscale, contrast enhancement, and upscaling.
+
+Make sure scanned PDFs are clean and legible.
+
+## Credits
+Developed by Jirawat Petcharoen
+
+For personal document digitization and filtering
