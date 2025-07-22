@@ -6,7 +6,7 @@ from pathlib import Path
 # --- CONFIGURATION ---
 tesseract_path = r"C:\Users\user\AppData\Local\Programs\Tesseract-OCR\tesseract.exe"
 poppler_path = r"C:\Users\user\Downloads\Release-24.08.0-0\poppler-24.08.0\Library\bin"
-pdf_folder = Path(r"C:\Users\user\Desktop\pdf2txt\test_pdf_folder")
+pdf_folder = Path(r"C:\Users\user\Desktop\pdf2txt\pdf_folder")
 output_folder = Path(r"C:\Users\user\Desktop\pdf2txt\output")
 
 # Ensure output folder exists
