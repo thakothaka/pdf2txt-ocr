@@ -3,7 +3,7 @@
 This project consists of two Python scripts to automate OCR conversion of Thai/English PDFs and filter them by keywords from Excel.
 
 ## 📁 Project Structure
-```
+```bash
 pdf2txt/
 ├── convert_pdf2txt.py         # Convert scanned PDFs to text with auto-rotation and preprocessing
 ├── search.py                  # Search text files for keywords from Excel and copy matching PDFs
@@ -34,26 +34,28 @@ pdf2txt/
 ## Requirements
 
 Install Python packages:
-
 ```bash
 pip install pytesseract pdf2image pillow openpyxl
 ```
 
 External dependencies
-Tesseract OCR: Download
-Poppler for Windows: Download
+Tesseract OCR: [Download](https://github.com/UB-Mannheim/tesseract/wiki)
+
+for Thai language : https://github.com/tesseract-ocr/tessdata
+
+Poppler for Windows: [Download](https://github.com/oschwartz10612/poppler-windows/releases/)
 
 ## Configuration
 Edit the following paths inside each script to match your system:
 
-in convert_pdf2txt.py
-
+### convert_pdf2txt.py
+```bash
 tesseract_path = r"C:\Users\user\AppData\Local\Programs\Tesseract-OCR\tesseract.exe"
 poppler_path = r"C:\Users\user\Downloads\Release-24.08.0-0\poppler-24.08.0\Library\bin"
 pdf_folder = Path(r"C:\Users\user\Desktop\pdf2txt\pdf_folder")
 output_folder = Path(r"C:\Users\user\Desktop\pdf2txt\output")
-
-in search.py
+```
+### search.py
 ```bash
 txt_folder = Path(r"C:\Users\user\Desktop\pdf2txt\output")
 pdf_folder = Path(r"C:\Users\user\Downloads\Tank Folder")
@@ -62,13 +64,13 @@ filtered_root = Path(r"C:\Users\user\Desktop\pdf2txt\filtered")
 ```
 
 ## How to Use
-Step 1: Convert PDFs to Text
+### Step 1: Convert PDFs to Text
 ```bash
 python convert_pdf2txt.py
 ```
 Output will be in the output/ folder.
 
-Step 2: Search by Excel Keywords
+### Step 2: Search by Excel Keywords
 Make sure your Excel file (search_keywords.xlsx) has keywords in Column A.
 ```bash
 python search.py
