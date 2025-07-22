@@ -2,21 +2,22 @@ from pathlib import Path
 import shutil
 import openpyxl
 
-# 📂 Folder paths
+# --- CONFIGURATION ---
 txt_folder = Path(r"C:\Users\user\Desktop\pdf2txt\output")
 pdf_folder = Path(r"C:\Users\user\Downloads\Tank Folder")
 excel_path = Path(r"C:\Users\user\Desktop\search_keywords.xlsx")
 filtered_root = Path(r"C:\Users\user\Desktop\pdf2txt\filtered")
+# ==================== #
 
 # Ensure root output folder exists
 filtered_root.mkdir(exist_ok=True)
 
-# 📖 Load search words from Excel (column A)
+# Load search words from Excel (column A)
 wb = openpyxl.load_workbook(excel_path)
 ws = wb.active
 search_words = [str(cell.value).strip() for cell in ws['A'] if cell.value]
 
-# ✅ Loop through each search word
+# Loop through each search word
 for search_phrase in search_words:
     matched_files = []
 
@@ -35,7 +36,7 @@ for search_phrase in search_words:
 
         if page_numbers:
             pages = sorted(page_numbers)
-            print(f"✅ Found '{search_phrase}' in {txt_file.name} on pages: {', '.join(map(str, pages))}")
+            print(f"Found '{search_phrase}' in {txt_file.name} on pages: {', '.join(map(str, pages))}")
             matched_files.append((txt_file.stem, pages))
 
     # Only create output folder and copy PDFs if at least one match
@@ -52,4 +53,4 @@ for search_phrase in search_words:
             else:
                 print(f"⚠️ PDF not found for: {base_name}.pdf")
 
-print("\n🎉 All search phrases processed.")
+print("\nAll search phrases processed.")
