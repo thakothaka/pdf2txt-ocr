@@ -1,0 +1,1355 @@
+
+--- Page 1 ---
+                                                                                                                           ORIGINAL 1 OF 3
+ล                         PTT GLOBAL CHEMICAL PUBLIC COMPANY LIMITED
+TANK CALIBRATION TABLE
+[                          AT MAP TA PHUT , RAYONG
+TANK NO. T-5285
+ถู                                                                                                        REPORT NO. 2018-00184-36
+fj            This document is issued by the Company under its General Conditions of Service printed overleaf. Attention is drawn to the limitation of tiability, indemnification and jurisdiction issues
+               defined therein.
+Any holder of this document is advised that information contained hereon reflects the Company's findings at the time of its intervention อทให and within the limits of Client's instructions, if
+any. The Company's sole responsibility is to its Client and this document does not exonerate parties to a transaction from exercising all their nghts and obligations under the transaction
+[              documents. Any unauthorized alteration, forgery or falsification of the content or appearance of this document is unlawful and offenders may be prosecuted to the fullest extent of the taw.
+0  7             3                                                                               565 {Thailand} Limited | Industrial 100 Nanglinchee Road Chongnonsee “อททรเพล Bangkok 10120
+|               0  {       1                                                                                                              t +66 10)2 678 18 13 f +66 (012 678 1504 www.sgs.com
+[                                                                                                                                                                                                                                                               Member of the SGS Group
+
+--- Page 2 ---
+ว่
+|             |
+เเจ   น   af?
+4 "| พ ;
+we ้งั้จ   bee.
+el
+ae     PRS ย      .              เณฒ               PVM cis a Veet I
+ป                             ถนนนครวไขยศา กวงเทพ อด.เทศ
+ln. ลูป Muy เจรบ lesion
+foe หงสือบรวัท พีทีนี่ โกลบอล เคนิคอล She (มหาขนบ) WR MN เอ๓๑/เ๒๐๓6 สาวินท ae มิผุนายน ไยอ้โวด
+คามหนังสืออ้างถึง บริษัทฯ ได้จัดส่งตารางคํานวณปริมาตรความจุประจาดงหมายเสยป [-649๕๐๕
+งจจ        geet | ณุ       «แว      ©        งส        ae      ae  > w   ew we       a      . ‘ -    -.  »  5 144   กเรจกา
+“          ง่โยยออนุบัตเรแป็นเกณฑ์ในการคําบวนณภาษสรรพสามต เน คลงบามนบรษทฯ เดขท ๕ ถนนไอ-แปร ตดําบลบาบตารร6
+¢.     ac    re   a:                ๑3     ง'   8'   ๆ
+|         อําเกอเป็ดง จังหวัดระบอง ความละเเคียดตแจงแลว นัน
+เจ  ฉวม       เวอ     C40, Woe. ae    i? ge          ๐       ๑              5  แ ๓
+ารมสรรพสามิตนิจารเนาแล้ว อนุมัติให้บริษัทฯ ใช้ถังและตารางคํานวณปริมาตรความจุประจําถง
+หมายเลย โ-๕๒๕๕ เป็นเกณฑ์ในการคํานวณปริมาตรความจุเพื่อการค้านวณภาเษผลิตภัณฑ์ FUEL OL ทงน
+2           จ9 68 ล5รั   ย 0ว3ม0 Me  + น)/ «๑# เล จ  ณ7ดจ  ae  af “พ 9 @๑   -r       rH
+มีกําหนดตระยะเวลาไม่เกิน ๕ ปบี นันตังแต่วันทกรมสรรพสามตอนุมต และจะตองเมทําการซอมแซม แกะย
+หรือเปลี่ยนแปลงไดๆ ที่จะเป็นผลให้ตารางคํานวณบปริมาตรความจุประจําถังตังกล่าว คลาดเคลื่อนไปจาก
+<a           ฑ ๒ %4   เกยจังย์| t#   จ is
+ทีกรมสรรพสามิ๓ได้อนุมติเหในครั้งน
+Pe |   ei          “   me:
+จึงเวียนบาเพอทราบ
+๑7 วข
+ขอแสดงความนบถอย
+(นายวรวรวยน์ ภิญโญ)
+รองอธิบต์ ปฏิบติราชการแทน
+อจิบด์กรมสรรพสามต
+กลุ่มพัฒนาและตรวจสอบทางเทคน์ต
+โทร. ๐ ๒๒๕๑ ๕๒๐๐๐-๑๕ HO ๕๕๕๓๒
+โทรสาร ๐ ๒๒๕๓ ๕๕๑๒
+
+--- Page 3 ---
+r                                                        ตารางคํานวณปริมาตรความจประจําถังหมายเลข T-5285
+ad      aw adeaa            P      o fw
+[                     สถานทีตัง : บริษัท win โกลบอล เคมีคอล จํากัด (มหาชน)
+r                                   นิคมอุตสาหกรรมมาบตาพุด ตดําบลมาบตาพุด อําเภอเมือง จังหวัดระยอง
+เด                                     a  a  a a
+1. ตรวจสอบเสนรอบวงภายนอกและตรวจสอบสภาพถงเมองนท 25 พฤษภาคม 2561          i      4      ค
+2. การคํานวณ                                                                             SRNR 25      '
+2.1 คํานวณตามวิธีการของ API MPMS CHAPTER 2A/B                -    เก รื
+°         ae - จ#                                          i a an
+[                              2.2 คํานวณโดยใช้ผลิตภัณฑ์ FUEL OIL                            SO ERS  ๕5
+๐        a                                         GY.     ‘ ม“
+2.3 คํานวณโดยใช้           DENSITY @ 15 DEG.C = 0.9900 - 0.9950         SWS
+๐                     7        P=       a               a
+f                                   2.4 คํานวณความยาวของเสนรอบวงทอุณหภูม 50 องศาเซลเซียส
+3. ปริมาตรความจูทงหมดของถงทิระดบ 19.890 เมตร      = 9,842,064 ลิตร
+[                      4, ระดับสูงสุดของถัง ณ จุดทิงดิง (REFERENCE HEIGHT) = 20.380      เมตร
+[                                                —— .
+[                      คํานวณโดย          //๑6๑  |            ตรวจสอบโดย
+[                              บริษัท เอสจิเชิล<๕ไระเทศไทย) Jana                       เจ้าหน้านีสรรพสามิต
+a     a
+บายสุรศึกดิ จิตรานุกจกภุล
+ถู                      ผู้รับรอง          =
+f                                  บริษัท Win โกลบอล เคมีคอล จํากัด (มหาชน)
+[                                                                                        oe           As ๕จ0
+สูรบวรอง ขะณะจะ22>๓3๒9 ก 7 อดแสเต ตมอดรศศ จ
+(นายสุรศกค์ จิตรานุถกิจกุล)
+[                                                                                                                                                                                             ผู้อําหวยการกลุ่มรตงบา และตรวาจฮอบนทางเทอ%5
+This document ig เรรนยย by the Company under its General Conditions of Service accessible at http/fiwww.sgs.comiterms_and_conditions.htm. Attention is drawn to the limitation of liability, indemnification and jurisdiction issues defined therein.
+Any holder of this document is advised that information contalned hereon reflects the Company's findings at the time of its intervention onty and within the limits of Client's instructions, if any. The Company's sole responsibility is to 4s Client and this
+document does not exonerate parties to a transaction from exercising all their rights and obligations under the transaction documents, Any unauthorized alteration, forgery อ6 falsification of the content or appearance of this document is unlawful and
+[                   offanders may be prosecuted to the fullest extent of the law.
+SGS {Thailand} Limited | Industrial and Technical Staff Services 100 Nanglinchee Road Chongnonsee Yannawa Bangkok 10120
+t +66 (0)2 678 18 13 f +66 (0]2 678 1504 wwwsgs.com
+โ                                                                                                                                                                                                                                                               Member of the SGS Group
+
+--- Page 4 ---
+TANK CALIBRATION TABLE                                           TANK NO. T-5285
+[               PTT GLOBAL CHEMICAL, MAP TA PHUT                             PAGE 1
+TANK VOLUME CORRECTION FACTOR
+|              THE FIGURE WHICH IS READ FROM THE TANK CALIBRATION TABLE MUST BE
+MULTIPLIED BY THE FACTOR BELOW WHEN THE TEMPERATURE OF PRODUCT IS
+LOWER OR HIGHER THAN 50 DEG. C
+ถู                TEMP (C.)     FACTOR    TEMP (C.)    FACTOR   TEMP (C.)    FACTOR
+38.25 0.9997251      46.50 0.9999181      54.75 1.0001112
+[                    38.50 0.9997309      46.75 0.9999240      55.00 1.0001170
+38.75 0.9997368      47.00 0.9999298      55.25 1.0001229
+39.00 0.9997426      47.25 0.9999357      55.50 1.0001287
+ถู                    39.25 0.9997485      47.50 0.9999415      55.75 1.0001346
+39.50 0.9997543      47.75 0.9999474      56.00 1.0001404
+39.75 0.9997602      48.00 0.9999532      56.25 1.0001463
+40.00 0.9997660      48.25 0.9999591      56.50 1.0001521
+fj                     40.25 0.9997719      48.50 0.9999649      56.75 1.0001580
+40.50 0.9997777      48.75 0.9999708      57.00 1.0001638
+40.75 0.9997836      49.00 0.9999766      57.25 1.0001697
+ถู                    41.00 0.9997894      49.25 0.9999825      57.50 1.0001755
+41.25 0.9997953      49.50 0.9999883      57.75 1.0001814
+41.50 0.9998011      49.75 0.9999942      58.00 1.0001872
+ถู                    41.75 0.9998070      50.00 1.0000000      58.25 1.0001931
+42.00 0.9998128      50.25 1.0000059      58.50 1.0001989
+42.25 0.9998187      50.50 1.0000137      58.75 1.0002048
+42.50 0.9998245      50.75 1.0000176      59.00 1.0002106
+ล                    42.75 0.9998304      51.00 1.0000234      59.25 1.0002165
+43.00 0.9998362      51.25 1.0000293      59.50 1.0002223
+43.25 0.9998421      51.50 1.0000351      59.75 1.0002282
+ล                    43.50 0.9998479      51.75 1.0000410      60.00 1.0002340
+43.75 0.9998538      52.00 1.0000468      60.25 1.0002399
+44.00 0.9998596      52.25 1.0000527      60.50 1.0002457
+|                    44.25 0.9998655      52.50 1.0000585      60.75 1.0002516
+ถู                     44.50 0.9998713      52.75 1.0000644      61.00 2.0002574
+44.75 0.9998772      53.00 1.0000702      61.25 1.0002633
+45.00 0.9998830      53.25 1.0000761      61.50 1.0002691
+fj                    45.25 0.9998889      23.50 1.0000819      61.75 1.0002750
+45.50 0.9998947      53.75 1.0000878      62.00 1.0002808
+45.75 0.9999006      54.00 1.0000936      62.25 1.0002867
+[                    46.00 0.9999064      54.25 1.0000995      62.50 1.0002925
+a           46.25 0.9999123      54.50 1.0001053      62.75 1.0002984
+[ 9 /ศม
+fet Sa fie        FOR OTHER TEMPERATURE, CALCULATE BY THE FORMULAR:
+eens eer               FACTOR = 1 + [ 0.0000234 x (T - 50) 3
+ล        ง     ees     @“                   (ROUNDED TO 7(SEVEN) DECIMAL PLACES)
+oN ELAN       T = TEMP or E OF PRODSCT (DEG. C)
+PY Se ARV                                          Fe ๕อบ๕55
+Computed by         i”        Aaa  ,  /      Approved by
+For SGS (TH   AND) LI                   ก maa
+-                                                        ง
+|                hes         นายสุรกักด จิตรานุกิจกุล
+[                Certified by
+For PTT GLOBAL CHEMICAL PUBLIC COMPANY LIMITED
+This document is issued by the Company under its General Conditions of Service accessible at http Jiwww.sgs.comtenns_and_conditions.htm. Attention is drawn 10 the limitation of liability, Indemnification and jurisdiction issues defined therein,
+Offenders may be prosecuted to the fullest extent of the law,
+SGS$ (Thailand) Limited | industrial and Technical Staff Services 100 Nanglinchee Road Chongnonsee Yannawa Bangkok 10120
+[ +66 (0)2 678 18 13 f +66 (0)2 678 1504 wwwssgs.com
+[                                                                                                                                                                                                                                                               Member of the SGS Group
+
+--- Page 5 ---
+TANK CALIBRATION TABLE                                    TANK NO. T+-5285
+PTT GLOBAL CHEMICAL, MAP TA PHUT
+f                                                    PAGE 2
+RRKEEKEEKEKEEEREREKEE EERE EERE AKA RRR KKK
+DIP          VOLUME       DIP          VOLUME       DIP          VOLUME *       FRACTION
+[         CMS     LITRES    CMS     LITRES    cms     LITRES * MM.    LITRES
+\     HREKEKEKEEEKEKEEEKEKEEEKEEREEKEEE EERE EEE ERE EEE REREEEEEAE EKER EACH RRKEE
+*
+0    65,923   40   261,986   80   458,227 *
+[       1    70,825   41   266,890   81   463,133 *
+2    75,725   42   271,795   82   468,039 *
+3    80,626   43   276,700   83   472,945 *
+cr        4    85,527   44   281,604   84    477,851 * FROM   0 CM
+        5    90,427   45   286,507   85   482,757 * TO 1989 CMS
+6    95,328   46    291,410   86   487,663 *
+c        7    100,229   47    296,314   87    492,569 *
+        8    105,129   48    301,217   88    497,475 *
+9   110,030   49   306,120   89   502,380 *
+*
+fi       10    114,931   50    311,023   90    507,286 *
+.      11   119,832   51   315,929   91   512,192 * 1    491
+12   124,733   52   320,835   92   517,098 * 2    983
+r      13   129,635   53   325,741   93   522,004 * 3   1,474
+!      14   134,536   54   330, 647   94   526,910 * 4   1,966
+15   139,437   55   335,553   95   531,816 * 5   2,457
+16   144,339   56   340,460   96   536,721 * 6   2,949
+f      17   149,240   57   345,366   97   541,627 * 7   3,440
+'      18   154,141   58   350,272   98   546,533 * 8   3,932
+19   159,042   59   355,179   99   551,439 * 9   4,423
+*
+[       20   163,944   60   360,085   100   556,343 *
+22   168, 846   61    364,991   101    561,248 *
+22   173,747   62   369,898   102   566,152 *
+ถู       23    178,649   63    374,804   103    571,056 *
+24    183,551   64    379,711   104    575,960 *
+25   188,452   65   384,618   105   580,864 *
+.       26    193,354   66    389,526   106    585,768 *
+|       27    198,255   67    394,433   107    590,671 *        ~
+28   203,157   68    399,341   108   595,575 */ (fim 4 epi
+29  208,059   69   404,248   109    600,479 *  Ned
+30   212,961   70   409,156   110   605,383 *   bo ¢
+31   217,863  71   414,063  111   620,285 *\\ Gig  /p
+|      32   222,765   72   418,970   112   615,187 * VQ\ eS o>
+[       33   227,667   73   423,877   113   620,088 * NQy Aas
+34    232,568   74    428,784   114    624,990 *   RS bs be
+35   237,470   75   433,691   115   629,892 *
+r:       36    242,372   76    438,598   116    634,793 *
+!       37    247,275   77    443,505   117    639,695 *
+38   252,178   78   448,413   118   644,597 *
+|       39    257,082   79    453,320   119    649,498 *
+1                                       *
+f             ***%ววาปว    % *    *%**พจะหบวองวะวะหัวยร วะรวรป วววว๑5 KK
+[      Computed by A 74 % ภร | Approved by      “
+For SGS (THAZLAND) บรหรซ์0          EXCISE OFFICER
+r                                                                                            นายสุรกักดิ์ จิตรานุกิจกุล
+Certified by  - ae
+ล                   For PTT GLOBAL CHEMICAL PUBLIC COMPANY LIMITED
+f                    document does nol exonerate parties to ล transaction from exercising all their rights and obligations under the transaction documents. Any unauthorized alteration, forgery or falsification of the content or appearance of this document is unlawful and
+'  offenders may be prosecuted to the fullest extent of the law.
+SGS {Thailand} Limited | Industria! and Technical Staff Services 100 Nanglinchee Road Chongnonsee Yannawa Bangkok 10120
+t +66 (0}2 678 18 13 f +66 (0)2 678 1504 www.sgs.com
+[                                                                                                                                                                                                                                                               Member of the SGS Group
+
+--- Page 6 ---
+TANK CALIBRATION TABLE                                     TANK NO. T-5285
+PTT GLOBAL CHEMICAL, MAP TA PHUT
+[                                                    PAGE 3
+-     KEREKEKEEKCEREEKEEEKEEEEKEEE KEE ERE ERE EERIE EERE EERIE
+DIP          VOLUME       DIP          VOLUME       DIP          VOLUME *       FRACTION
+ถู         ๓ห๕     LITRES    CMS     LITRES    CMS     LITRES * MM.    LITRES
+     REE KEKKEKEKEKEKEEKEKEE EERE EERE REEK ERE EE EEK KEKE RRR KKK KKK
+*%
+120   654,400   160   850,466   200  1,046,533 *
+ถู       121    659,301   161   855,368   201  1,051,435 *
+122   664,203   162   860,270   202  1,056,337 *
+123    669,105   163    865,171   203  1,061,238 *
+[      124    674,006   164    870,073   204  1,066,140 * FROM   0 cM
+125    678,908   165   874,975   205  1,071,042 * TO  1989 ๓หธ
+126   683,810   166   879,876   206  1,075,943 *
+127    688,711   167    884,778   207  1,080,845 *
+fj      128   693,613   168   889,680   208  1,085,747 *
+129    698,515   169    894,581   209  1,090,648 *
+*
+ถู      130   703,416   170   899,483   210  1,095,550 *
+131   708,318  171   904,385  211  1,100,452 * 1    491
+132   713,220  172   909,286  212  1,105,353 * 2    983
+133   718,121  173   914,188  213  1,110,255 * 3   1,474
+ล     134   723,023  174   919,090  214  1,115,157 * 4   1,966
+135   727,925  175   923,992  215  1,120,058 * 5   2,457
+136   732,826  176   928,893  216  1,124,960 * 6   2,949
+f     137   737,728  177   933,795  217  1,129,862 *  7   3,440
+138   742,630  178   938,697  218  1,134,763 * 8   3,932
+139   747,531  179   943,598  219  1,139,665 * 9   4,423
+*
+J      140   752,433   180   948,500   220  1,144,567 *
+141    757,335   181   953,402   221  1,149,468 *
+142    762,236   182    958,303   222  1,154,370 *
+143   767,138   183   963,205   223  1,159,272 *
+fj      144   772,040   184   968,107   224  1,164,173 *
+145   776,941   185   973,008   225  1,169,075 *
+146   781,843   186   977,910   226  1,173,977 *
+ถู      147   786,745   187   982,812   227  1,178,878 *  om A ai
+148    791,646   188    987,713   228 1,183,780    ee
+149   796,548   189   992,615   229  1,188,682 ¢*  VE   |
+ถู     150   801,450  190   997,517  230  1,193,583 “๑ CED i
+151    806,351   191 1,002,418   231 1,198,488 *\Q\ BS ZS
+152   811,253  192  1,007,320  232  1,203,387 * NY AN
+[      153   816,155   193  1,012,222   233  1,208,288 *   PO BGYNS
+154   821,056   194  1,017,123   234  1,213,190 *
+155   825,958   195  1,022,025   235  1,218,092 *
+156   830,860   196  1,026,927   236  1,222,993 *
+ล      157    835,761   197  1,031,828   237  1,227,895 *
+158   840,663   198  1,036,730   238  1,232,797 *
+159    845,565   199  1,041,632   239  1,237,698 *
+*
+ล    LF    7   ร*%#%*%*%*%ต3 จห*ววงะวะงว รวะ66ววรป
+Computed by    ES.      Approved by         & har
+or SGS      SND    MA TED           EXCISE OFFICER
+ล                                    ff} =                          นายธุรสักดิ์ จิตรานุกิจภุธ
+Certified by
+fj                   For PTT GLOBAL CHEMICAL PUBLIC COMPANY LIMITED
+offenders may be prosecuted 10 the fullest extent of the law.
+SGS {Thailand} Limited | Industrial and Technical Staff Services 160 Nanglinchee Road Chongnonsee Yannawa Bangkok 10120
+[เหรเยตธาธาร1๑เรจารณ www.sgs.com
+[                                                                                                                                                                                                                                                               Member of the SGS Group
+
+--- Page 7 ---
+TANK CALIBRATION TABLE                                  TANK NO. T-5285
+PTT GLOBAL CHEMICAL, MAP TA PHUT
+f                                                     PAGE 4
+HKEEKEEEKERKEEKEKEEEKKEKEEREEKEEEEEEE KERRIER KIRKE
+DIP          VOLUME       DIP          VOLUME       DIP          VOLUME *       FRACTION
+f         CMS     LITRES    CMS     LITRES   CMS     LITRES * MM.    LITRES
+-     HHEKEEKEEKKEEKEEKEEEEEEEKREKREEKEEKE ERE ERE REE 1: 3 ERK KER KEK
+*
+240  1,242,600   280  1,438,673   320  1,635,028 *
+[      241  1,247,502   281  1,443,582   321  1,639,937 *
+242  1,252,403   282  1,448,491   322  1,644,846 *
+243  1,257,305   283  1,453,400   323  1,649,755 *
+[      244  1,262,207   284  1,458,309   324  1,654,664 * FROM   0 cM
+245  1,267,108   285  1,463,218   325  1,659,573 * TO  1989 cMS
+246  1,272,010   286  1,468,127   326  1,664,482 *
+247  1,276,912   287  1,473,036   327  1,669,391 *
+l      248  1,281,813   288  1,477,944   328  1,674,299 *
+249  1,286,715   289  1,482,853   329  1,679,208 *
+*®
+ถู      250  1,291,617   290  1,487,762   330  1,684,117 *
+251  1,296,519  291  1,492,671  331  1,689,026 * 1    491
+252  1,301,420  292  1,497,580  332  1,693,935 * 2    983
+253  1,306,322  293  1,502,489  333  1,698,844 * 3   1,474
+fj     254  1,311,224  294  1,507,398  334  1,703,753 * 4   1,966
+255  1,316,125  295  1,512,307  335  1,708,662 * 5   2,457
+256  1,321,027  296  1,517,215  336  1,733,570 * 6   2,949
+[     257  1,325,929  297  1,522,124  337  1,718,479 * 7   3,440
+258  1,330,830  298  1,527,033  338  1,723,388 * 8   3,932
+259  1,335,732  299  1,531,942  339  1,728,297 * 9   4,423
+*
+fj      260  1,340,634   300  1,536,851   340  1,733,206 *
+261  1,345,535   301  1,541,760   341  1,738,115 *
+262  1,350,437   302  1,546,669   342  1,743,024 *
+263  1,355,339   303  1,551,578   343  1,747,933 *
+ถู      264  1,360,240   304  1,556,486   344  1,752,841 *
+265  1,365,142   305  1,561,395   345  1,757,750 *
+266  1,370,044   306  1,566,304   346  1,762,659 *
+ถู      267 1,374,945   307 1,571,213   347 1,767,568 9  fe  A me
+268  1,379,847  308  1,576,122  348  1,772,477   me ey 2
+269 1,384,749  309 1,581,031  349 1,777,386 |ไ*  ๕/
+[      270  1,389,650   310  1,585,940   350  1,782,295    2 5
+271  1,394,552  311  1,590,849  351  1,787,204 AQ eee, LE
+272  1,399,454   312  1,595,757   352  1,792,113 «ญู ey
+[      273  1,404,355   313  1,600, 666   353  1,797,021 *  ธรรง
+274  1,409,257   314  1,605,575   354  1,801,930 *
+275  1,414,159   315  1,610,484   355  1,806,839 *
+276  1,419,060   316  1,615,393   356  1,811,748 *
+ล      277  1,423,962   317  1,620,302   357  1,816,657 *
+278  1,428,864   318  1,625,211   358  1,821,566 *
+279  1,433,765   319  1,630,120   359  1,826,475 *
+*
+[      KEKEKEKKEKREERKEK KK WH  *  KREKEKKEKESE  *%*#%**%*%หง ว5ว7177 17 66 6 วะ3 ร ว6 KCK
+Computed by ~~”   (/  BO JE   Approved by     a AR
+/ “For SGS (ใชูมซ์พด) LIMT           EXCISE OFFICER
+fa    &
+r                                                 นายธุรกักดี จิตรานูกจภูล
+Certified by -<
+|                   For PTT GLOBAL CHEMICAL PUBLIC COMPANY LIMITED
+Offenders may be prosecuted to the fullest extent of the law.
+SGS (Thailand) Limited | Industrial and Technical Staff Services 160 Nanglinchee Road Chongnonsee Yannawa Bangkok 10120
+1 +66 (0}2 678 18 13 ร +66 (0)2 678 1504 www.sgs.com
+fi                                                                                                                                                                                                                                                               Member of the SGS Group
+
+--- Page 8 ---
+TANK CALIBRATION TABLE                                    TANK NO. T-5285
+PTT GLOBAL CHEMICAL, MAP TA PHUT
+f                                                  PAGE 5
+**%**%**#*%*%*%* 3 **%วหระ*%**าหนาหงจะงวร หหววว%*
+DIP          VOLUME       DIP          VOLUME       DIP          VOLUME *       FRACTION
+[         CMS     LITRES   CMS     LITRES   CMS     LITRES * MM,    LITRES
+HEEKEEEEKEKRKEKEEEEEREEEEER EEE ERICK EEK EKER 005
+*
+360  1,831,384   400  2,027,739   440  2,224,094 *
+ถู      361  1,836,292   401  2,032,647   441,  2,229,002 *
+362  1,841,201   402  2,037,556   442  2,233,911 *
+363  1,846,110   403  2,042,465   443  2,238,820 *
+[      364  1,851,019   404  2,047,374   444  2,243,729 * FROM   0 CM
+365  1,855,928   405  2,052,283   445  2,248,638 * TO  1989 ๕๒5ธ
+366  1,860,837   406  2,057,192   446  2,253,547 *
+367  1,865,746   407  2,062,101   447  2,258,456 *
+      368  1,870,655   408  2,067,010   448  2,263,365 *
+369  1,875,563   409  2,071,918   449  2,268,273 *
+-                     *
+[      370  1,880,472   410  2,076,827   450  2,273,182 *
+371  1,885,381  411  2,081,736  451  2,278,091 *  1    491
+372  1,890,290  412  2,086,645  452  2,283,000 *  2    983
+373  1,895,199  413  2,091,554  453  2,287,909 *  3   1,474
+ล     374  1,900,108  414  2,096,463  454  2,292,818 * 4   1,966
+375  1,905,017  415  2,101,372  455  2,297,727 *  5   2,457
+376  1,909,926  416  2,106,281  456  2,302,636 *  6   2,949
+f     377  1,914,834  417  2,111,189  457  2,307,544 *  7   3,440
+378  1,919,743  418  2,116,098  458  2,312,453 *  8   3,932
+379  1,924,652  419  2,121,007  459  2,317,362 *  9   4,423
+*
+ล      380  1,929,561   420  2,125,916   460  2,322,271 *
+381  1,934,470   421  2,130,825   461  2,327,180 *
+382  1,939,379   422  2,135,734   462  2,332,089 *
+383  1,944,288   423  2,140,643   463  2,336,998 *
+f      384  1,949,197   424  2,145,552   464  2,341,907 *
+385  1,954,105   425  2,150,460   465  2,346,815 *
+386  1,959,014   426  2,155,369   466  2,351,724 *      1
+ถู       387   1,963,923   427   2,160,278   467   2,356,633 + om A. ay)
+388    1,968,832    428    2,165,187    468    2,361,542 fri OS EEG
+389  1,973,741   429  2,170,096   469  2,366,451 | *| Sag
+ถู     390 1,978,650  430 2,175,005  470 2,371,360 เจ ๕9 (๑
+391 1,983,559  431 2,179,914  471 ว2,376,269 AK HRSA
+392  1,988,468   432  2,184,823   472  2,381,178 + Osea
+[      393  1,993,376   433  2,189,731   473  2,386,086 *  ชัว
+394  1,998,285   434  2,194,640   474  2,390,995 *
+395  2,003,194   435  2,199,549   475  2,395,904 *
+396  2,008,103   436  2,204,458   476  2,400,813 *
+f      397  2,013,012   437  2,209,367   477  2,405,722 *
+398  2,017,921   438  2,214,276   478  2,410,631 *
+399  2,022,830   439  2,219,185   479  2,415,540 *
+*
+[      ERKEERREKEEEEKKKRKEEEE WE  REKKKRKEE KR  KRKEEKEKREKEEREEEKERKEREKEEKERKKKKRE KKK KEK
+ถู         Computed by /- ๓     Approved by         + he
+4จ45ว จ อจฝาบรต
+For SGS (‘SHAT on อ      PED           EXCISE OFFICER
+aa  a
+r                                               นายสุรสักดี วิตรานุกจกูล
+Certified by       =H
+[                   For PTT GLOBAL CHEMICAL PUBLIC COMPANY LIMITED
+This document Is issued by the Company under its General Conditions of Service accessible at http-/hwww.sgs.convierms_and_conditions.htm. Attention is drawn to the limitation of liability, indemnffication and jurisdiction issues dafined therein.
+offenders may be prosecuted to the fullest! extent of the law.
+565 {Thailand} Limited | Industrial and Technical Staff Services 100 Nanglinchee Road Chongnonsee Yannawa Bangkok 10120
+ser 1813 1 +66 (0)2 678 1504 wwwsgs.com
+ย                                                                                                                                                                                                                                                               Member of the SGS Group
+
+--- Page 9 ---
+TANK CALIBRATION TABLE                                TANK NO. T-5285
+PTT GLOBAL CHEMICAL, MAP TA PHUT
+ถู                                                   PAGE 6
+แพนนตศ์ตโธ์โนศันธ์ตันนันัตันัศัฑ์พัณัศัฒศ์ตตัฑ์ ฑ์ เค ศัณ์ตต 1: ล 0 ๐๐5๐9๐9๐๐๐๐
+DIP        VOLUME    DIP        VOLUME      DIP        VOLUME *      FRACTION
+[         CMS     LITRES    CMS     LITRES    CMS     LITRES * MM.    LITRES
+HH KK KEKE RE RERE EKER EERE EERE ERIE EEE EKER EERE ARERR KRG
+*
+480  2,420,449   520  2,616,804   560  2,813,159 *
+ถู       481  2,425,357   521  2,621,712   561  2,818,068 *
+482  2,430,266   522  2,626,621   562  2,822,976 *
+483  2,435,175   523  2,631,530   563  2,827,885 *
+[      484  2,440,084   524  2,636,439   564  2,832,794 * FROM   0 CM
+485  2,444,993   525  2,641,348   565  2,837,703 * TO  1989 ๐ห5ธ
+486  2,449,902   526  2,646,257   566  2,842,615 *
+487  2,454,811   527  2,651,166   567  2,847,526 *
+[      488  2,459,720   528  2,656,075   568  2,852,438 *
+489  2,464,628   529  2,660,983   569  2,857,350 *
+*
+f      490  2,469,537   530  2,665,892   570  2,862,262 *
+491  2,474,446  531  2,670,801  571  2,867,174 * 1    491
+492  2,479,355  532  2,675,710  572  2,872,085 * 2    983
+493  2,484,264  533  2,680,619  573  2,876,997 * 3   1,474
+[     494  2,489,173  534  2,685,528  574  2,881,909 * 4   1,966
+495  2,494,082  535  2,690,437  575  2,886,821 * 5   2,457
+496  2,498,991  536  2,695,346  576  2,891,733 * 6   2,949
+f     497  2,503,899  537  2,700,255  577  2,896,644 * 7   3,440
+498  2,508,808  538  2,705,163  578  2,901,556 * 8   3,932
+499  2,513,717  539  2,710,072  579  2,906,468 * 9   4,423
+*
+[      500  2,518,626   540  2,714,981   580  2,911,380 *
+501  2,523,535   541  2,719,890   581  2,916,292 *
+502  2,528,444   542  2,724,799   582  2,921,203 *
+503  2,533,353   543  2,729,708   583  2,926,115 *
+[      504  2,538,262   544  2,734,617   584  2,931,027 *
+505  2,543,170   545  2,739,526   585  2,935,939 *
+506  2,548,079   546  2,744,434   586  2,940,851 *  .
+ลู      507 2,552,988   547 2,749,343   587 2,945,763 *  ง A 0
+508  2,557,897   548  2,754,252   588  2,950,674    a
+509  2,562,806   549 2,759,161   589  2,955,586    เวอ พ4
+ถู     510  2,567,715  550  2,764,070  590  2,960,498 * Ags ง
+511   2,572,624   551   2,768,979   591   2,965,410 *\\ mee 4G
+512  2,577,533   552  2,773,888   592  2,970,322 * NYRR
+ถู      513  2,582,441   553  2,778,797   593  2,975,233 *  STS YLS
+514  2,587,350   554  2,783,705   594  2,980,145 *    -
+515  2,592,259   555  2,788,614   595  2,985,057 *
+516  2,597,168   556  2,793,523   596  2,989,969 *
+ถู      517  2,602,077   557  2,798,432   597  2,994,881 *
+518  2,606,986   558  2,803,341   598  2,999,792 *
+519  2,611,895  559——2,, 808,250   599  3,004,704 *
+*
+ง     **%*%*%*% มหวะว ม ว% ว EK ie:  Dn k & %*%หวว 3 77ป7 07ว 7 6ว 6ไว76 KEKE
+ถู        Computed by /์- / aed   a     Approved by        คศ ศี
+/ For SGS (THAPSLAND}-TIMITED          EXCISE OFFICER
+ล                                                                                           นายสุรสักดิ์ จิตรานุกิจภุ
+Certified by  -ซต๒ะ -
+ถู                   For PTT GLOBAL CHEMICAL PUBLIC COMPANY LIMITED
+offenders may be prosecuted to the fullest extent of the law.
+565 (Thatland) Limited [ Industrial and Technical Staff Services 100 Nanglinchee Road Chongnonsee “ลททลเพล Bangkok 10120
+| t +66 {0)2678 18 13 f +66 (0]2 678 1504 www.sgs.com
+[                                                                                                                                                                                                                                                               Member of the SGS Group
+
+--- Page 10 ---
+TANK CALIBRATION TABLE                                    TANK NO. T-5285
+PTT GLOBAL CHEMICAL, MAP TA PEHUT
+f                                                  PAGE 7
+REKAEKEEEEEEKEKEEEKEKREERERERKEEKEKEEEEREREERERE ERE ERIE 15
+DIP          VOLUME       DIP          VOLUME       DIP          VOLUME *       FRACTION
+[        CMS     LITRES   CMS     LITRES   CMS     LITRES * MM.    LITRES
+*#**%**%**อ4มหหม%** วจมหัวะรพร *%รว ววหพ
+*
+600   3,009,616   640   3,206,088   680   3,402,561 *
+f      601  3,014,528   641  3,211,000   681  3,407,473 *
+602  3,019,440   642  3,215,912   682  3,412,384 *
+603  3,024,351   643  3,220,824   683  3,417,296 *
+l      604  3,029,263   644  3,225,736   684  3,422,208 * FROM   0 cM
+605  3,034,175   645  3,230,647   685  3,427,120 * TO  1989 CMS
+606  3,039,087   646  3,235,559   686  3,432,032 *
+607  3,043,999   647  3,240,471   687  3,436,943 *
+f      608  3,048,911   648  3,245,383   688  3,441,855 *
+609  3,053,822   649  3,250,295   689  3,446,767 *
+*
+[      610  3,058,734   650  3,255,206   690  3,451,679 *
+611  3,063,646  651  3,260,118  691  3,456,591 * 1    491
+612  3,068,558  652  3,265,030  692  3,461,502 * 2    983
+613  3,073,470  653  3,269,942  693  3,466,414 * 3   1,474
+ถู     614  3,078,381  654  3,274,854  694  3,471,326 * 4   1,966
+615  3,083,293  655  3,279,766  695  3,476,238 * 5   2,457
+616  3,088,205  656  3,284,677  696  3,481,150 * 6   2,949
+ถู      617  3,093,117   657  3,289,589  697  3,486,061 * 7   3,440
+618  3,098,029  658  3,294,501  698  3,490,973 * 8   3,932
+619  3,102,940  659  3,299,413  699  3,495,885 * 9   4,423
+*
+ถู      620  3,107,852   660  3,304,325   700  3,500,797 *
+622  3,112,764   661  3,309,236   701  3,505,709 *
+622  3,117,676   662  3,314,148   702  3,510,621 *
+623  3,122,588   663  3,319,060   703  3,515,532 *
+ถู      624  3,127,499   664  3,323,972   704  3,520,444 *
+625  3,132,411   665  3,328,884   705  3,525,356 *
+626  3,137,323   666  3,333,795   706  3,530,268 *        .
+ล       627 3,142,235   667 3,338,707   707 3,535,180   om A ehh
+628  3,147,147   668  3,343,619   708  3,540,091 /*  ง๕5
+629 3,152,058   669 3,348,531   709 %3,545,003 [+ | ซ๊ะ5
+ถู     630  3,156,970  670  3,353,443  710  3,549,915 ¥) เก  o
+631   3,161,882   671   3,358,354   711   3,554,827 ASS ESS lay
+632  3,166,794   672  3,363,266   712  3,559,739 * ๑3 ae
+f      633  3,171,706   673  3,368,178   713 3,564,650 *    ay"
+634  3,176,618   674  3,373,090   714  3,569,562 *
+635  3,181,529   675  3,378,002   715  3,574,474 *
+636  3,186,441   676  3,382,913   716  3,579,386 *
+f      637  3,191,353   677  3,387,825   717  3,584,298 *
+638  3,196,265   678  3,392,737   718  3,589,209 *
+639  3,201,177   679   3,397,649   719  3,594,121 *
+*
+f      KRKEKEKEKEKKEKKEKEKRHK IH:  REEKEREE  *  RXR
+Computed b  fy  6 เจิด,    roved b     as fi
+pu   y         Ga   App    Y
+For SGS (THAILAND) LIMITED          EXCISE OFFICER
+ล =
+[                                                    )                                        นายสุรคักดิ์ จิตรานุถิจภูล
+i
+Certified by    < 1
+ถู                   For PTT GLOBAL CHEMICAL PUBLIC COMPANY LIMITED
+This document is issued by the Company under its General Conditions of Service accessible at hitp:-fAvww.sgs.convierms_and_conditions.him. Attention is drawn to the limitation of liabitity, indemnification and jurisdiction issues defined therein.
+offenders may be prosecuted to the fullest extant of the law,
+SGS$ (Thailand) Limited | Industrial and Technical Staff Services 100 Nanglinchee Road Chongnonsee Yannawa Bangkok 10120
+t +66 (0)2 678 18 13 ธ +66 (0)2 678 1504 www.sgs.com
+ย                                                                                                                                                                                                                                                               Member of the SGS Group
+
+--- Page 11 ---
+TANK CALIBRATION TABLE                                      TANK NO. T-5285
+PTT GLOBAL CHEMICAL, MAP TA PHUT
+|                                                PAGE 8
+KHREEEKEKERKEEEKERRERKEEEKEEKCEKREEREKEEEEEEKEEEERERERKKREKEKEKEEKEEEKEARKR KKK KKK KKK
+DIP          VOLUME       DIP          VOLUME       DIP          VOLUME *       FRACTION
+[         CMS     LITRES    CMS     LITRES    CMS     LITRES * MM.    LITRES
+HHEEKEKEKEKEKKEEEEKEKEEKKEEEEEEEKEEEREEEEHREEKREREE REECE EK EKER KKK
+*
+c       720  3,599,033   760  3,795,505   800  3,991,978 *
+       721  3,603,945   761  3,800,417   801  3,996,890 *
+722  3,608,857   7162  3,805,329   802  4,001,801 *
+723  3,613,768   763  3,810,241   803  4,006,713 *
+f      724  3,618,680   764  3,815,153   804  4,011,625 * FROM   0 cM
+725  3,623,592   765  3,820,064   805  4,016,537 * TO  1989 cMs
+726  3,628,504   766  3,824,976   806  4,021,449 *
+r      727  3,633,416   767  3,829,888   807  4,026,360 *
+!       728  3,638,328   768  3,834,800   808  4,031,272 *
+729  3,643,239   769  3,839,712   809  4,036,184 *
+*
+ถู      730  3,648,351   770  3,844,623   810  4,041,096 *
+731  3,653,063  771  3,849,535  811  4,046,008 * 1    491
+732  3,657,975  172  3,854,447  812  4,050,919 * 2    983
+733  3,662,887  773  3,859,359  813  4,055,831 * 3   1,474
+[     734  3,667,798  774  3,864,271  814  4,060,743 * 4   1,966
+735  3,672,710  775  3,869,183  815  4,065,655 * 65   2,457
+736  3,677,622  776  3,874,094  816  4,070,567 * 6   2,949
+[     737  3,682,534  777  3,879,006  817  4,075,478 * 7   3,440
+     738  3,687,446  778  3,883,918  818  4,080,390 * 8   3,932
+739  3,692,357  779  3,888,830  819  4,085,302 * 9   4,423
+*
+[-      740  3,697,269   780  3,893,742   820  4,090,214 *
+741  3,702,181   781  3,898,653   821  4,095,126 *
+742  3,707,093   782  3,903,565   822  4,100,038 *
+743  3,712,005   783  3,908,477   823  4,104,949 *
+ถู       744   3,716,916   784   3,913,389   824   4,109,861 *
+745  3,721,828   785  3,918,301   825  4,114,773 *
+ก      746  3,726,740   786  3,923,212   826  4,119,685 *   .     .
+[       747   3,731,652   787   3,928,124   827   4,124,597 *   ac A น)
+748 3,736,564   788 3,933,036   828 4,129,508 +*' f จ Se cy
+749 3, 741, 476   789 3,937,948   829 4,134,420 *|
+ถู     750  3,746,387  790  3,942,860  830  4,139,332 * 9  eS kN
+751 3,751,299   791 3,947,771   832 4,144,244 * SN PGES ay
+752 3,756,241   792 3, 952, 683   832 4,149,156 * “ชะ=ะวณี2
+[      753  3,761,123   793  3,957,595   833  4,154,067 *    ง99»
+754  3,766,035   794  3,962,507   834  4,158,979 *
+755  3,770,946   795  3,967,419   835  4,163,891 *
+756  3,775,858   796  3,972,331   836  4,168,803 *
+[      757  3,780,770   797  3,977,242   837  4,173,715 *
+758  3,785,682   798  3,982,154   838  4,178,626 *
+|      759  3,790,594   799  3,987,066   839  4,183,538 *
+*
+[      KRREKKRERKEK KE ท7 Hk kkk wy  KREMER EREKKEKEKEREEERE
+Computed by  YY, 4   “7 Approved by      pe
+For sGs cual ไรโพโจก          EXCISE OFFICER
+7                         <= ๑  ส
+r                                                 นายธุรสักดคิ จิตรานุกิจภูล
+Certified by   he
+ถู                   For PTT GLOBAL CHEMICAL PUBLIC COMPANY LIMITED
+This document is issued by the Company under its General Conditions of Service accessible at bitp:fiwww.sgs.comfierms_and_conditions.htm. Attention is drawn 10 the limitation of liability, indemnffication and jurisdiction issues defined therein.
+offanders may be prosecuted to the fullest extent of the law.
+SGS (Thailand) Limited | Industrial and Technical Staff Services 100 Nanglinchee Road Chongnonsee Yannawa Bangkok 10120
+t +66 (0)2 678 18 13 ธ์ +66 (0)2 678 1504 wwwsgs.com
+[                                                                                                                                                                                                                                                               Member of the SGS Group
+
+--- Page 12 ---
+TANK CALIBRATION TABLE                                TANK NO. T-5285
+PTT GLOBAL CHEMICAL, MAP TA PHUT
+[                                                   PAGE 9
+HEEKKKEKREREKREEKEKREKEEKEEEEEKREKREREEKREEREREKREREEKEEEKEKREEKEKKREK REE EERKEKKGKE KKK
+DIP          VOLUME       DIP          VOLUME       DIP          VOLUME *       FRACTION
+อ        CMS     LITRES   CMS     LITRES   CMS     LITRES * MM.    LITRES
+น     *#%นนอ*%*หจมหจมวเรเห ร%%หงต*%หป ****
+*
+840  4,188,450   880  4,385,029   920  4,581,638 *
+ล      841  4,193,362   881  4,389,944   921  4,586,553 *
+842  4,198,274   882  4,394,860   922  4,591,469 *
+843  4,203,186   883  4,399,775   923  4,596,384 *
+ถู      844  4,208,097   884  4,404,690   924  4,601,299 * FROM   0 CM
+845  4,213,009   885  4,409,605   925  4,606,214 * TO  1989 CMS
+846  4,217,921   886  4,414,521   926  4,611,129 *
+847  4,222,833   887  4,419,436   927  4,616,045 *
+ลู      848  4,227,745   888  4,424,351   928  4,620,960 *
+849  4,232,657   889  4,429,266   929  4,625,875 *
+*
+ถู      850  4,237,573   890  4,434,181   930  4,630,790 *
+851.  4,242,488  891  4,439,097  931  4,635,706 *  1    491
+852  4,247,403  892  4,444,012  932  4,640,621 * 2    983
+853  4,252,318  893  4,448,927  933  4,645,536 * 3   1,474
+f      854  4,257,234   894  4,453,842   934  4,650,451 * 4   1,966
+ห      855  4,262,149  895  4,458,758  935  4,655,366 * 5   2,457
+856  4,267,064  896  4,463,673  936  4,660,282 * 6   2,949
+‘     857  4,271,979  897  4,468,588  937  4,665,197 * 7   3,440
+858  4,276,894  898  4,473,503  938  4,670,112 * 8   3,932
+859  4,281,810  899  4,478,418  939  4,675,027 * 9   4,423
+*
+f      860  4,286,725   900  4,483,334   940  4,679,943 *
+861  4,291,640   901  4,488,249   941  4,684,858 *
+862  4,296,555   902  4,493,164   942  4,689,773 *
+ถู      863  4,301,471   903  4,498,079   943  4,694,688 *
+864  4,306,386   904  4,502,995   944  4,699,603 *
+865  4,311,301   905  4,507,910   945  4,704,519 *
+866  4,316,216   906  4,512,825   946  4,709,434 *     ว
+[     867 4,321,131  907 4,517,740  947 4,714,349 +  fe A น
+'                868     4,326,047       908     4,522,655      948     4,719,264        SNS fees, LEG     \
+869  4,330,962   909  4,527,571   949  4,724,180    0
+|     870  4,335,877  910  4,532,486  950  4,729,095 NPA Kee. Cy
+871  4,340,792  911  4,537,401  951  4,734,010 * \ON as AS
+872 4,345,707   912 4,542,316   952 4,738,925 * “ร3ชรูล
+ถู      873  4,350,623   913  4,547,232   953  4,743,840 *
+874  4,355,538   914  4,552,147   954  4,748,756 *
+875  4,360,453   915  4,557,062   955  4,753,671 *
+876  4,365,368   916  4,561,977   956  4,758,586 *
+ถู      877  4,370,284   917  4,566,892   957  4,763,501 *
+878  4,375,199   918  4,571,808   958  4,768,417 *
+|      879  4,380,114   919  4,576,723   959  4,773,332 *
+f                                       *
+a        RREEREKEKKREKREKEREKE Lane      * ว% *%   **หจนยวงะวะหวววะววะ 3 ว
+ip     nO?) & A
+‘ea     Computed by 7 on    Approved by     4 4
+For SGS ("๒ร7 HAND)” บรม9ลอ          EXCISE OFFICER
+r                     /          -                   นายสุรกักคิ จิตรานุกิจกูล
+Certified by
+[                   For PTT GLOBAL CHEMICAL PUBLIC COMPANY LIMITED
+This document is issued by the Company under its General Conditions of Service accessible al httpyAvww.sgs.comvterms_and_conditions, htm. Attention is drawn to the limitation of liability, indemnification and jurisdiction issues delined therein.
+[  document does not oxonerate patties io a bancaction tom exercising อย ther rights and ยเสตนทร unser he แลทรงนอก decomonta Aer นทอนปทยทสย์ สไนรนอ ในเรยต อ โลทอลน่อก เทล อยกนก วรองอนลพน
+offenders may be prosecuted to the fullest extent of the law.
+ป                                                                             505 (Thatland) Limited | Industrial and Technical Staff Services 100 Nanglinchee Read Chongnonsee Yannawa Bangkok 10120
+| t +66 (0)2 678 18 13 f +66 (0}2 678 1504 wwwsgs.com
+[                                                                                                                                                                                                                                                               Member of the SGS Group
+
+--- Page 13 ---
+|
+TANK CALIBRATION TABLE                                            TANK NO. T-5285
+PTT GLOBAL CHEMICAL, MAP TA PHUT
+[                                                   PAGE 10
+°       KRHEEKKEREKEKREKKEKKEEEEEKEEKEKEKEREKEKEE KEKE EKER KAA HK
+DIP          VOLUME       DIP          VOLUME       DIP          VOLUME *       FRACTION
+fj           CMs      LITRES    CMs      LITRES     CMs      LITRES * MM.      LITRES
+_       RRKEKKEEEEKEKEEKREREEEEKREEEREEEEKEEER EEE ERR ทท1ไ1
+*
+960    4,778,247 1,000    4,974,856 1,040   5,171,465 *
+f         961   4,783,162 1,001   4,979,771 1,041    5,176,380 *
+962   4,788,077 1,002    4,984,686 1,042   5,181,295 *
+963   4,792,993 1,003    4,989,602 1,043   5,186,210 *
+ล        964   4,797,908 1,004   4,994,517 1,044   5,191,126 * FROM   0 CM
+965   4,802,823 1,005   4,999,432 1,045   5,196,041 * TO   1989 CMS
+966  4,807,738 1,006   5,004,347 1,046  5,200,956 *
+967  4,812,654 1,007   5,009,262 1,047   5,205,871 *
+ถู         968   4,817,569 1,008    5,014,178 1,048   5,210,787 *
+969   4,822,484 1,009    5,019,093 1,049    5,215,702 *
+*
+fj         970    4,827,399 1,010    5,024,008 1,050    5,220,617 *
+971   4,832,314 1,011   5,028,923 1,051   5,225,532 *   1       491
+972    4,837,230 1,012    5,033,839 1,052    5,230,447 *   2       983
+973    4,842,145 1,013    5,038,754 1,053    5,235,363 *   3     1,474
+fj         974   4,847,060 1,014    5,043,669 1,054    5,240,278 *   4     1,966
+975   4,851,975 1,015    5,048,584 1,055    5,245,193 *   5     2,457
+976   4,856,891 1,016    5,053,499 1,056    5,250,108 *   6     2,949
+f         977   4,861,806 1,017    5,058,415 1,057    5,255,024 *   7     3,440
+978   4,866,721 1,018    5,063,330 121,058   5,259,939 *   8     3,932
+979   4,871,636 1,019    5,068,245 1,059   5,264,854 *   9     4,423
+*
+ล         980   4,876,551 1, 020    5,073,160 1,060   5,269,769 *
+981   4,881,467 1,021   5,078,076 1,061   5,274,684 *
+982    4,886,382 1,022    5,082,991 1,062    5,279,600 *
+ถู         983    4,891,297 1,023    5,087,906 1,063    5,284,515 *
+984    4,896,212 1,024    5,092,821 1,064    5,289,430 *
+985   4,901,128 1,025   5,097,736 1,065   5,294,345 * .
+986 4,906,043 1,026 5,102,652 1,066 5,299,261 */  as   A จ
+[         987   4,910,958 1,027    5,107,567 1,067    5,304,176 f   cA  1
+-       988  4,915,873 1,028   5,112,482 1,068  5,309,091 *  จ eee
+989  4,920,788 1,029  5,117,397 1,069  5,314,006 ¢   NSS
+990   4,925,704 1,030   5,122,313 1,070   5,318,922 *\Q\ eis 4G
+991  4,930,619 1,031  5,127,228 1,071  5,323,837 * AAG
+992  4,935,534 1,032  5,132,143 1,072  5,328,752 *   YAOSING
+ถู         993    4,940,449 1,033    5,137,058 1,073   5,333,667 *
+994    4,945,365 1,034    5,141,973 1,074   5,338,582 *
+995   4,950,280 1,035    5,146,889 1,075   5,343,498 *
+996   4,955,195 1,036    5,151,804 1,076   5,348,413 *
+ล         997    4,960,110 1,037    5,156,719 1,077    5,353,328 *
+998   4,965,025 1,038   5,161,634 1,078   5,358,243 *
+999   4,969,941 1,039    5,166,550 1,079    5,363,158 *
+*
+ล      แลนันนนว   eX  khekRWEREK เจซา11++50ั0606ไปไบนา 3301ง000'
+Computed b            Z    i "|    Approved b
+For SGS (THAI   ) LIMITED          EXCISE OFFICER
+ล                                                 |                                         นายณุร fi aa จิตรานูกิจภูล
+Certified by       —
+ล                   For PTY GLOBAL CHEMICAL PUBLIC COMPANY LIMITED
+This document is issued by the Company under its General Conditions of Service ลอ0ธรรโชเอ at http:vAvww.sys.convterms_and_conditions.htm. Attention is drawn to the limitation of liability, indemnification and jurisdiction [รรนอร defined therein.
+offenders may be prosecuted to the fullest extent of the law.
+SGS {Thailand} Limited | Industrial and Technical Staff Services 100 Nanglinchee Road Chongnonsee Yannawa Bangkok 10120
+| 1 +66 (0}2 678 1813 1 +66 0]2 678 1504 www.sgs.com
+[                                                                                                                                                                                                                                                               Member of the 555 Group
+
+--- Page 14 ---
+[
+TANK CALIBRATION TABLE                                           TANK NO. T-5285
+PTT GLOBAL CHEMICAL, MAP TA PHUT
+ถู                                                   PAGE 11
+WEEKEKKCEKKEEKEKEKKEEKEKEEKEREREEREREEE RRR REE KEE CK ERE
+DIP         VOLUME      DIP         VOLUME      DIP         VOLUME *      FRACTION
+ถู            CMS       LITRES     CMS       LITRES     CMS       LITRES * MM.      LITRES
+HEHEHE KREREEEREREER EERE REE ตั|เณฑ์ตต1: RKRKREEK
+*%
+1,080    5,368,074   1,120    5,564,683   1,160    5,761,361 *
+ถู         1,081    5,372,989   1,121    5,569,598   1,161    5,766,279 *
+1,082    5,377,904 1,122    5,574,513   1,162    5,771,197 *
+1,083    5,382,819 1,123    5,579,428   1,163    5,776,114 *
+ล       1,084   5,387,735 1,124   5,584,343  1,164   5,781,032 * FROM   0 CM
+1,085   5,392,650 1,125   5,589,259  1,165   5,785,950 * TO   1989 CMS
+1,086    5,397,565   1,126    5,594,174   1,166    5,790,868 *
+r         1,087    5,402,480   1,127    5,599,089   1,167    5,795,786 *
+|          1,088    5,407,395   1,128    5,604,004 1,168    5,800,704 *
+1,089    5,412,311 1,129    5,608,920 1,169    5,805,622 *
+*
+1,090    5,417,226   1,130    5,613,835 1,170    5,810,540 *
+ถู         1,091    5,422,141   1,131    5,618,750   1,171    5,815,458 *   1        491
+1,092    5,427,056   1,132    5,623,665   1,172    5,820,376 *   2        983
+1,093    5,431,972 1,133    5,628,580   1,173    5,825,294 *   3      1,474
+[         1,094    5,436,887   1,134    5,633,496   1,174    5,830,212 *   4      1,966
+1,095    5,441,802   1,135    5,638,412   1,175    5,835,130 *   5      2,457
+1,096    5,446,717   1,136    5,643,330   1,176    5,840,048 *   6      2,949
+1,097    5,451,632   1,137    5,648,248   1,177    5,844,966 *   7      3,440
+ล         1,098    5,456,548 1,138    5,653,166   1,178    5,849,884 *   8      3,932
+1,099    5,461,463   1,139    5,658,083   1,179    5,854,802 *   9      4,423
+*
+[         1,100    5,466,378   1,140    5,663,001 1,180    5,859,720 *
+1,101    5,471,293   1,141    5,667,919 121,181    5,864,638 *
+1,102    5,476,209   1,142    5,672,837   1,182    5,869,556 *
+1,103    5,481,124   1,143    5,677,755 1,183    5,874,474 *
+ถู         1,104    5,486,039   1,144    5,682,673   1,184    5,879,392 *
+1,105    5,490,954 1,145    5,687,591 1,185    5,884,310 *
+1,106    5,495,869 1,146    5,692,509   1,186    5,889,228 *    fom  A "จ
+ถู         1,107    5,500,785 1,147    5,697,427 1,187    5,894,145 *    Wen,
+1,108 5,505,700 1,148 5,702,345 1,188 5,899,063 *    ก AY
+1,109    5,510,615 1,149    5,707,263 1,189    5,903,981 *     ไซร”
+1,130    5,515,530   1,150    5,712,181   1,190    5,908,899 *\h  2 Ac
+1,111 5,520,446 1,151 5,717,099 1,191 5,913,817 * “ญิ 9 ety
+1,112    5,525,361 1,152    5,722,017 1,192    5,918,735 *     SL TUNE
+ถู         1,113    5,530,276   1,153    5,726,935 1,193    5,923,653 *
+1,114    5,535,191   1,154    5,731,853 1,194    5,928,571 *
+1,115    5,540,106 2,155    5,736,771 1,195    5,933,489 *
+1,116    5,545,022   1,156    5,741,689   1,196    5,938,407 *
+ถู         1,117    5,549,937   1,157    5,746,607   1,197    5,943,325 *
+1,118    5,554,852   1,158    5,751,525   1,198    5,948,243 *
+1,119    5,559,767   1,159    5,756,443   1,199    5,953,161 *
+a                             *
+ถู       *ะ*%%ตจวะๆว  **   eka  KREX  RAEEEKRKREEEEKEKEREEKKKKKEKEKEKKKREREEKKKEE
+fj        Computed by         )  IS Approved by        As rhe
+For SGS (  RELAND) LIME ED           EXCISE OFFICER
+--ฒ๑ |
+[                                              -                          หายสุรศักดิ์ จิตรานุถิจกุล
+Certified by
+[                   For PTT GLOBAL CHEMICAL PUBLIC COMPANY LIMITED
+Gocument does not exonerate parties to a transaction from exercising ail their rights and obligations under the transaction documents. Any unauthorized alteration, forgery or falsification of the content or appearance of this document is unlawful and
+l    offenders may ba prosecuted to the fullest extent of the law.
+SGS (Thailand) Limited | Industrial and Technical Staff Services 100 Nanglinchee Road Chongnonsee Yannawa Bangkok 10120
+t +66 (0}2 678 1813 f +66 (0}2 678 1504 www.sgs.com
+[                                                                                                                                                                                                                                                               Member of the SGS Group
+
+--- Page 15 ---
+TANK CALIBRATION TABLE                                            TANK NO. T-5285
+PTT GLOBAL CHEMICAL, MAP TA PHUT
+ถู                                                  PAGE 12
+HREEKKEEREEREEE EEE EERE EEE RE REET RE EKER ฑ์ ฑ ฑ์ ตต KE
+DIP         VOLUME      DIP         VOLUME      DIP         VOLUME *      FRACTION
+ถู            CMS      LITRES    CMS      LITRES    CMS      LITRES * MM.     LITRES
+HREKKEREEKEEEREEEEKEREE KEE KERR ERE ERE KERR ERE EERE REAR 0
+*
+1,200    5,958,079 1,240    6,154,797 1,280    6,351,516 *
+ล         1,202    5,962,997 1,241    6,159,715 1,281    6,356,434 *
+1,202    5,967,915 1,242    6,164,633 1,282    6,361,352 *
+1,203    5,972,833 1,243    6,169,551 1,283    6,366,269 *
+|       1,204   5,977,751 1,244   6,174,469 1,284   6,371,187 * FROM   0 CM
+1,205   5,982,669 1,245   6,179,387 1,285   6,376,105 * TO   1989 ๓๒5ธ
+1,206    5,987,587 1,246    6,184,305 1,286    6,381,023 *
+1,207    5,992,505 1,247    6,189,223 1,287    6,385,941 *
+[         1,208    5,997,423 1,248    6,194,141 1,288    6,390,859 *
+1,209    6,002,341 1,249    6,199,059 1,289    6,395,777 *
+*%
+1,210    6,007,259 1,250    6,203,977 1,290    6,400,695 *
+ถู         1,211    6,012,176 1,251    6,208,895 1,291    6,405,613 *   1        491
+1,212    6,017,094 1,252    6,213,813 1,292    6,410,531 *   2        $83
+1,213    6,022,012 1,253    6,218,731 1,293    6,415,449 *   3      1,474
+f         1,214    6,026,930 1,254    6,223,649 1,294    6,420,367 *   4      1,966
+1,215    6,031,848 1,255    6,228,567 1,295    6,425,285 *   5      2,457
+1,216    6,036,766 1,256    6,233,485 1,296    6,430,203 *   6      2,949
+1,217    6,041,684 1,257    6,238,403 1,297    6,435,121 *   7      3,440
+ถู         1,218    6,046,602 1,258    6,243,321 1,298    6,440,039 *   8      3,932
+1,219    6,051,520 1,259    6,248,238 1,299    6,444,957 *   9      4,423
+*
+f         1,220    6,056,438 1,260    6,253,156 1,300    6,449,875 *
+1,221    6,061,356 1,261    6,258,074 1,301    6,454,793 *
+1,222    6,066,274 1,262    6,262,992 1,302    6,459,711 *
+1,223    6,071,192 1,263    6,267,910 1,303    6,464,629 *
+[         1,224    6,076,110 1,264    6,272,828 1,304    6,469,547 *
+1,225    6,081,028 1,265    6,277,746 1,305    6,474,465 *
+1,226    6,085,946 1,266    6,282,664 1,306    6,479,383 *             ช๊
+ล         1,227    6,090,864 1,267    6,287,582 1,307    6,484,300 *    Mm A รถรย
+1,228 6,095,782 1,268 6,292,500 1,308 6,489,218 *!    Wee    \
+1,229    6,100,700 1,269    6,297,418 1,309    6,494,136  i    55 25559
+[         1,230 6,105,618 1,270 6,302,336 1,310 6,499,054 * On  95   i
+1,231 6,110,536 1,271 = 6,307,254 1,311 6,503,972 * Nien“ Sos
+1,232 6,115,454 1,272 6,312,172 1,312 6,508,890 « NaN
+ถู         1,233 6,120,372 1,273 6,317,090 1,313 6,513,808 *      OPEV Se
+1,234    6,125,290 1,274    6,322,008 1,314    6,518,726 *
+1,235    6,130,207 1,275    6,326,926 1,315    6,523,644 *
+1,236    6,135,125 1,276    6,331,844 1,316    6,528,562 *
+f         1,237    6,140,043 1,277    6,336,762 1,317    6,533,480 *
+1,238    6,144,961 1,278    6,341,680 1,318    6,538,398 *
+1,239    6,149,879 1,279    6,346,598 1,319    6,543,316 *
+.                           *
+[       ะ*ะห*%*%*%วง % ว3  * 4 KeEkKRRE ee EK RREEKEKKKEEEEKEKEEEKKEKEEEKEEEKKEKKK KKK KE
+[        Computed by tt   / AED “ต / / Approved by       ~ Far
+a
+For SGs (T 6 AND) LIMITED         EXCISE OFFICER
+ถู                                   -# =                         นายธุรสักดิ์ จิตรานุกิจภูล
+Certified by
+f                   For PTT GLOBAL CHEMICAL PUBLIC COMPANY LIMITED
+This document Is issued by tha Company under its General Conditions of Service accessible at http-fwww.sgs.convterms_and_conditlons-htm. Altention is drawn to the limitation of liability, indemnification and jurisdiction issues defined therein.
+Any holder of this document is advised that information contained hergon reflecis the Company's findings al the time of its intervention only and within the timits of Client's instructions, if any. The Company's sole responsibility ไร to its Client and this
+document does ทิด1 exonerate parties to a transaction from exercising all their righls and obligations under the transaction documents. Any unauthorized alteration, forgery or falsification of the content or appearance of this document is unlawful and
+fj                   offenders may be prosecuted te the fullest extent of the law,
+9505 (Thailand} Limited | Industrial and Technical Staff Services 100 Nanglinchee Road Chongnonsee Yannawa Bangkok 10120
+t +66 (0)2 678 18 13 ธ์ +66 (0]2 678 1504 www.sgs.com
+[                                                                                                                                                                                                                                                               Member of the SGS Group
+
+--- Page 16 ---
+|
+TANK CALIBRATION TABLE                                           TANK NO. T-5285
+PTT GLOBAL CHEMICAL, MAP TA PHUT
+[        PAGE 13
+RREKEKEKREKEEKEEKEEKERKEEEEREREREEEKEKEREEEEKEEREKERREKEKREEEREKEREKKK KKK RKE
+DIP         VOLUME      DIP         VOLUME      DIP         VOLUME *      FRACTION
+[            CMS      LITRES    CMS      LITRES    CMS      LITRES * MM.     LITRES
+RHEEKKEKEEREKKEREKEEREERERE EERE KEE REE EEE RRR EERE EEE 5๐๐๐๐
+*
+1,320    6,548,234   1,360    6,744,952   1,400    6,941,671 *
+[         1,321    6,553,152   1,361    6,749,870   1,401    6,946,589 *
+1,322    6,558,070   1,362    6,754,788   1,402    6,951,506 *
+1,323    6,562,988   1,363    6,759,706   1,403    6,956,424 *
+ล         1,324    6,567,906 1,364    6,764,624 1,404    6,961,342 * FROM    0 CM
+1,325   6,572,824  1,365   6,769,542  1,405   6,966,260 * TO   1989 CMS
+1,326    6,577,742   1,366    6,774,460   L,406    6,971,178 *
+1,327    6,582,660   1,367    6,779,378   1,407    6,976,096 *
+f         1,328    6,587,578   1,368    6,784,296   1,408    6,981,014 *
+1,329    6,592,496   1,369   - 6,789,214   1,409    6,985,932 *
+*
+1,330    6,597,414   1,370    6,794,132   1,410    6,990,850 *
+1,331    6,602,331   1,371    6,799,050   1,411    6,995,768 *   1        491
+1,332    6,607,249 1,372    6,803,968 1,412    7,000,686 * 2        983
+1,333    6,612,167 12,373    6,808,886 1,413    7,005,604 * 3      1,474
+f         1,334    6,617,085 1,374    6,813,804 1,414    7,010,522 *   4      1,966
+1,335    6,622,003 1,375    6,818,722 1,415    7,015,440 * 5      2,457
+1,336    6,626,921   1,376    6,823,640   1,416    7,020,358 *   6      2,949
+1,337    6,631,839 1,377    6,828,558 1,417    7,025,276 * 7      3,440
+ถู         1,338    6,636,757   1,378    6,833,475   1,418    7,030,194 *   8      3,932
+1,333    6,641,675   1,379    6,838,393   1,419    7,035,112 *   9      4,423
+*
+[         1,340    6,646,593 1,380    6,843,311 1,420    7,040,030 *
+1,341    6,651,511 1,381    6,848,229 1,421    7,044,948 *
+1,342    6,656,429 1,382    6,853,147 1,422    7,049,867 *
+1,343    6,661,347 1,383    6,858,065 1,423    7,054,789 *
+[         1,344    6,666,265   1,384    6,862,983   1,424    7,059,711 *
+1,345    6,671,183   1,385    6,867,901   1,425    7,064,634 *
+1,346    6,676,101   1,386    6,872,819   1,426    7,069,556 *
+ถู      1,347   6,681,019 1,387   6,877,737 1,427   7,074,478 *   Ce ae
+1,348   6,685,937 1,388   6,882,655 1,428   7,079,400 *    Ret Se fod
+1,349    6,690,855 1,389    6,887,573 1,429    7,084,323 *     a
+ถู           1,350     6,695,773    1,390     6,892,491    1,430     7,089,245 * or    อร
+1,351   6,700,691 1,391   6,897,409 1,431   7,094,167 * S\N Ree LEH
+1,352    6,705,609 1,392    6,902,327 1,432    7,099,089 * “itr TS
+ถู       1,353   6,710,527 1,393   6,907,245 1,433   7,104,012 *   น AYGS
+1,354    6,715,444   1,394    6,912,163   1,434    7,108,934 *
+1,355    6,720,362   1,395    6,917,081   1,435    7,113,856 *
+         1,356    6,725,280   1,396    6,921,999   1,436    7,118,778 *
+ถู         L,357    6,730,198   1,397    6,926,917   L,437    7,123,701 *
+1,358    6,735,116   1,398    6,931,835   1,438    7,128,623 *
+1,359    6,740,034   1,399    6,936,753   1,439    7,133,545 *
+ค                                    *
+[      *%**#*#*%**%***%*ว#***3์*%ซ์ก     6 วับ   *%% ว67 7๐7367ว 7 7 ว ร ร ว ท พ * ร % ห ว ท ห 1 ร ป 4 ขั % ๆ ”% ห 3% ท %6
+[         Computed by J    7   Approved by        4” FRR
+    For SGS (TH?   AND    MITED            EXCISE, OFFICER
+a a     &
+r                     -, <             นายธุรสักคิ จิตรานุถิจภูล
+Certified by
+[                  For PTT GLOBAL CHEMICAL PUBLIC COMPANY LIMITED
+This document is issued by the Company under its General Conditions of Service accessible ai httpsAvww.sgs.comferms_and_conditions.htm. Attention Is drawn to the limitation of liability, indemnification and jurisdiction issues defined therein.
+Any holder of this document is advised that information contained hereon reflects the Company's findings at the time of its intervention only and within the limits of Client's instructions, if any. The Company's sole responsibility is te its Client and this
+document does not exonerate parties to a transaction from exercising all their rights and obligations under the transaction documents. Any unauthorized alleration, forgery or falsification of the conlent or appearanca of ths document is unlawful and
+l    offenders may be prosecuted to the fullest extent of the law.
+SGS (Thailand) Limited | tndustrial and Technical Staff Services 100 Nanglinchee Road Chongnonsee Yannawa Bangkok 10120
+| t 466 (0}2 678 18 13 f +66 (0}2 678 1504 www.sgs.com
+a                                                                                                                                                               |                                                                                                                                                                                     Member af the SGS Group
+
+--- Page 17 ---
+| |
+TANK CALIBRATION TABLE                                TANK NO. T-5285
+3        PTT GLOBAL CHEMICAL, MAP TA PHUT
+ถู                                                  PAGE 14
+HEEKEKKEKEEKEEEEKEEEKEEKEEEEEEEEKEEEEEEEREKEKERKEEKE KEE KARR KKK
+DIP          VOLUME       DIP          VOLUME       DIP          VOLUME *       FRACTION
+[         CMS     LITRES   CMS     LITRES   CMS     LITRES * MM.    LITRES
+1      *****%**่เวหองดหอดว% หงวอระปงรรว%*%รววว
+*
+1,440  7,138,467 1,480  7,335,357 1,520  7,532,248 *
+ถู     1,441  7,143,390 1,481  7,340,280 1,521  7,537,170 *
+1,442  7,148,312 1,482  7,345,202 1,522  7,542,092 *
+1,443  7,153,234 1,483  7,350,124 1,523  7,547,014 *
+ล     1,444  7,158,156 1,484  7,355,046 1,524  7,551,937 * FROM   0 cM
+1,445  7,163,079 1,485  7,359,969 1,525  7,556,859 * TO  1989 CMS
+1,446  7,168,001 1,486  7,364,891 1,526  7,561,781 *
+1,447  7,172,923 1,487  7,369,813 1,527  7,566,703 *
+[      1,448   7,177,845 1,488   7,374,735 1,528   7,571,626 *
+      1,449  7,182,768 1,489  7,379,658 1,529  7,576,548 *
+x
+1,450  7,187,690 1,490  7,384,580 1,530  7,581,470 *
+ล     1,451  7,192,612 1,491  7,389,502 1,531  7,586,392 *  1    491
+1,452  7,197,534 1,492  7,394,425 1,532  7,591,315 *  2    983
+1,453  7,202,457 1,493  7,399,347 1,533  7,596,237 *  3   1,474
+[     1,454  7,207,379 1,494  7,404,269 1,534  7,601,159 *  4   1,966
+1,455  7,212,301 1,495  7,409,191 1,535  7,606,081 *  5   2,457
+1,456  7,217,223 1,496  7,414,114 12,536  7,611,004 *  6   2,949
+1,457  7,222,146 1,497  7,419,036 1,537  7,615,926 *  7   3,440
+ถู     1,458  7,227,068 1,498  7,423,958 1,538  7,620,848 *  8   3,932
+1,459  7,231,990 1,499  7,428,880 1,539  7,625,770 *  9   4,423
+*
+f     1,460  7,236,912 1,500  7,433,803 1,540  7,630,693 *
+1,461  7,241,835 1,501  7,438,725 1,541  7,635,615 *
+1,462  7,246,757  1,502  7,443,647 1,542  7,640,537 *
+1,463  7,251,679 1,503  7,448,569 1,543  7,645,459 *
+[     1,464  7,256,601 1,504  7,453,492 1,544  7,650,382 *
+1,465  7,261,524 1,505  7,458,414 1,545  7,655,304 *
+1,466  7,266,446 1,506  7,463,336 1,546  7,660,226 *
+ธี     1,467  7,271,368 1,507  7,468,258 1,547  7,665,148 *  fs ภิ งจ
+|      1,468  7,276,290 1,508  7,473,181 1,548   7,670,071    ๓ WY
+1,469   7,281,213 1,509   7,478,103 1,549   7,674,993    Mee
+[     1,470  7,286,135 1,510  7,483,025 1,550  7,679,915 “ๆว  เจ
+1,471 7,291,057 1,511 7,487,947 1,551 7,684,837 * ฉิ อ๕855 LE
+1,472   7,295,979 1,512  7,492,870 1,552  7,689,760 * SER Ae
+t     1,473 7,300,902 1,513 7,497,792 1,553 7,694,682 # 5๑948น
+'     1,474  7,305,824 1,514  7,502,714 1,554  7,699,604 *     /
+1,475  7,310,746 1,515  7,507,636 1,555  7,704,526 *
+.     1,476  7,315,668 1,516  7,512,559 12,556  7,709,449 *
+f     1,477  7,320,591 1,517  7,517,481 1,557  7,714,371 *
+1,478  7,325,513 1,518  7,522,403 1,558  7,719,293 *
+1,479  7,330,435 1,519  7,527,325 1,559  7,724,215 *
+;                                         *
+[           %ะ6ะ**%**%หว*%ววว    EERE KKK   *     ส%*% 1วะวะรป วร วทว๒ม 3% ๆวๆ
+”       Computed by   tin     ๕ D, ป %,      Approved by fie
+For SGS\(THATLAND) LIM{TED          EXCISE OFFICER
+ae
+§                      -=ะซั <              นายสุร ศักดิ์ จิตร านุถจภุล
+Certified by
+|                   For PTT GLOBAL CHEMICAL PUBLIC COMPANY LIMITED
+This document fs issued by the Company under its General Conditions of Service accessible at hitp:fheww.sgs.comterms_and_conditions_him. Attention is drawn to the limitation of liability, indemnification and jurisdiction issues defined therein,
+.  offenders may be prosecuted to the fullest extent of the law.
+SGS (Thailand) Limited | Industrial and Technical Staff Services 100 Nanglinchee Road Chongnonsee Yannawa Bangkok 10120
+[56รอาธาร6ยรยธารณ์ WWW.SQs.com
+[                                                                                                                                                                                                                                                               Member of the SGS Group
+
+--- Page 18 ---
+TANK CALIBRATION TABLE                                           TANK NO. T-5285
+PTT GLOBAL CHEMICAL, MAP TA PHUT
+ถู                                                  PAGE 15
+REKKEKEKEEKEEKEKEEKEEEKEEKEEEEKEEEEKEEKEK KEKE EERE EEE 0 3 0
+DIP          VOLUME       DIP          VOLUME       DIP          VOLUME *       FRACTION
+fj        CMS     LITRES   ๓ห5ร     LITRES   CMS     LITRES * MM.    LITRES
+_       KEKE EREEEKEEEREEKERKEEEK EERE EKER EEK EEE ไวว3
+*
+1,560    7,729,138   1,600    7,926,028   1,640    8,122,918 *
+ล        1,561    7,734,060   1,601   7,930,950   1,641   8,127,840 *
+1,562    7,738,982   1,602   7,935,872   1,642    8,132,762 *
+1,563    7,743,904   1,603   7,940,794   1,643    8,137,684 *
+ล       1,564   7,748,827  1,604   7,945,717  1,644   8,142,607 * FROM   0 CM
+1,565   7,753,749  1,605   7,950,639  1,645   8,147,529 * TO   1989 CMS
+1,566   7,758,671   1,606   7,955,561 1,646    8,152,451 *
+1,567    7,763,593   1,607    7,960,483   1,647    8,157,373 *
+fj        1,568   7,768,516   1,608   7,965,406   1,648    8,162,296 *
+        1,569    7,773,438   1,609    7,970,328   1,649    8,167,218 *
+*
+f        1,570    7,778,360 1,610    7,975,250 1,650    8,172,140 *
+;        1,571   7,783,282   1,611   7,980,172   1,651   8,177,062 *   1       491
+1,572    7,788,205   1,612    7,985,095   1,652    8,181,985 *   2       983
+1,573    7,793,127   1,613    7,990,017   1,653    8,186,907 *   3     1,474
+ล        1,574    7,798,049   1,614    7,994,939   1,654    8,191,829 *   4     1,966
+1,575   7,802,971   1,615    7,999,861 1,655    8,196,751 *   5     2,457
+1,576   7,807,894   1,616    8,004,784   1,656    8,201,674 *   6     2,949
+ถู        1,577    7,812,816 1,617    8,009,706 1,657    8,206,596 * 7     3,440
+1,578   7,817,738   1,618    8,014,628   1,658    8,211,518 *   8     3,932
+1,579    7,822,660   1,619    8,019,550   1,659    8,216,440 *   9     4,423
+*
+ล        1,580    7,827,583   1,620    8,024,473   1,660    8,221,363 *
+1,581   7,832,505   1,621    8,029,395   1,661    8,226,285 *
+1,582    7,837,427   1,622    8,034,317   1,662    8,231,207 *
+1,583    7,842,349   1,623    8,039,239   1,663    8,236,129 *
+ล        1,584    7,847,272   1,624    8,044,162   1,664    8,241,052 *
+1,585    7,852,194   1,625    8,049,084   1,665    8,245,974 *
+1,586    7,857,116   1,626   8,054,006   1,666    8,250,896 *   A      ya
+fj        1,587 7,862,038 1,627 8,058,928 1,667 8,255,818     จ
+1,588    7,866,961 1,628    8,063,851 1,668    8,260,741     SNe har ew BAT,   \
+1,589    7,871,883   1,629    8,068,773   1,669    8,265,663       ”
+1,590   7,876,805  1,630   8,073,695  1,670   8,270,585 * &  Ree JG
+1,591   7,881,727  1,631   8,078,617  1,671   8,275,507 * “ง EEE IEF WAS
+1,592    7,886,650 1,632    8,083,540 1,672    8,280,430 * SOY TGS
+ถู              1,593      7,891,572     1,633      8,088,462     1,673      8,285,352 *        นนนม
+1,594    7,896,494   1,634    8,093,384   1,674    8,290,274 *
+1,595    7,901,416   1,635    8,098,306   1,675    8,295,196 *
+1,596    7,906,339   1,636    8,103,229   1,676    8,300,119 *
+ถู     1,597   7,911,261  1,637   8,108,151  1,677   8,305,041 *
+1,598    7,916,183   1,638    8,113,073   1,678   8,309,963 *
+1,599    7,921,105   1,639    8,117,995   1,679    8,314,885 *
+*
+ถู       RKEKEKKKEEKKEEEETR  *  REKKEKE kk PRK BREAKER KKK KE
+ร569
+fj         Computed by             ) ๕ % ว ร ภ์    Approved by        +#« Be
+For SGS  HAITLAND) LIMITED         ยสงท์กดิ์ จิอราบก
+r                                               นายแรกกล จตรานุถกจผู๑
+Certified by    --<
+fj                   For PTT GLOBAL CHEMICAL PUBLIC COMPANY LIMITED
+This document is issued by the Company under its General Conditions of Service accessible at httpvyfwww.sgs.com/terms_and_conditions.htm. Atiention is drawn to the limitation of fiability, indemnification and jurisdiction issues defined therein.
+offenders may อ5 prosecuted fo the fullest extent of the law,
+SGS {Thailand} Limited | Industrial and Technical Staff Services 100 Nanglinchee Road Chongnonsee Yannawa Bangkok 10120
+t +66 (0)2 678 18 13 f +66 (0)2 678 1504 www.sgs.com
+[                                                                                                                                                                                                                                                               Member of the SGS Group
+
+--- Page 19 ---
+TANK CALIBRATION TABLE                                TANK NO. T-5285
+PTT GLOBAL CHEMICAL, MAP TA PHUT
+ล                                                  PAGE 16
+พนนัธิ นันศศธัย เธ น นนันนัพยนลัโตพ่พโณซัฑิโนโบ: 0 0 ด 0๐0
+DIP          VOLUME       DIP          VOLUME       DIP          VOLUME *       FRACTION
+ถู        cus     LITRES   cms     LITRES   CMs     LITRES * MM.    LITRES
+RHEEKKAEKKEKKKEEEEKEKEKCEKEEKEEK KEKE EEK KEKE ERE 33 53ล3งจงจ๐3รง๐ง๐ง0
+*
+1,680  8,319,808 1,720  8,516,771 1,760  8,713,840 *
+ถู     1,681  8,324,730 1,721  8,521,698 1,761  8,718,767 *
+1,682  8,329,652 1,722  8,526,624 1,762  8,723,694 *
+1,683   8,334,574 1,723   8,531,551 1,763   8,728,621 *
+[     1,684  8,339,497 1,724  8,536,478 1,764  8,733,547 * FROM   0 cM
+1,685  8,344,419 1,725  8,541,405 1,765  8,738,474 * TO  1989 CMS
+1,686   8,349,341 1,726   8,546,331 1,766   8,743,401 *
+1,687  8,354,263 1,727  8,551,258 1,767  8,748,328 *
+[     1,688  8,359,186 1,728  8,556,185 1,768  8,753,254 *
+1,689   8,364,108 1,729   8,561,112 1,769   8,758,181 *
+¥
+ถู     1,690  8,369,030 1,730  8,566,038 1,770  8,763,108 *
+1,691  8,373,952 1,731  8,570,965 1,771  8,768,035 * 1    491
+1,692  8,378,875 1,732  8,575,892 1,772  8,772,961 * 2    983
+1,693  8,383,797 1,733  8,580,818 1,773  8,777,888 * 3   1,474
+ล    1,694  8,388,719 1,734  8,585,745 1,774  8,782,815 * 4   1,966
+1,695  8,393,641 1,735  8,590,672 1,775  8,787,742 * 5   2,457
+1,696  8,398,564 1,736  8,595,599 1,776  8,792,668 * 6   2,949
+[    1,697  8,403,486 1,737  8,600,525 1,777  8,797,595 * 7   3,440
+1,698  8,408,408 1,738  8,605,452 1,778  8,802,522 * 8   3,932
+1,699  8,413,330 1,739  8,610,379 1,779  8,807,449 * 9   4,423
+*
+ล     1,700  8,418,253 1,740  8,615,306 1,780  8,812,375 *
+1,701  8,423,175 1,741  8,620,232 1,781  8,817,302 *
+1,702  8,428,097 1,742  8,625,159 1,782  8,822,229 *
+ถู     1,703  8,433,019 1,743  8,630,086 1,783  8,827,155 *
+1,704  8,437,943 1,744  8,635,013 1,784  8,832,082 *
+1,705  8,442,870 1,745  8,639,939 1,785  8,837,009 *
+1,706  8,447,796 1,746  8,644,866 1,786  8,841,936 *
+fj     1,707  8,452,723 1,747  8,649,793 1,787  8,846,862 *
+1,708  8,457,650 1,748  8,654,720 1,788  8,851,789 *   om A «th
+1,709  8,462,577 1,749  8,659,646 1,789  8,856,716 *  เ 5
+[     1,710 8,467,503 1,750 8,664,573 1,790 8,861,643 *   oe 4
+1,711 8,472,430 1,751 8,669,500 1,791 8,866,569 “เง GD Lm
+1,712 8,477,357 1,752 8,674,427 1,792 8, 871,496 * \SN Pans ๕
+ล    1,713  8,482,284 1,753  8,679,353 1,793  8,876,423 * “และซา
+1,714 8,487,210 1,754 8,684,280 1,794 8,881,350 *   “ปโขจม
+1,715  8,492,137 1,755  8,689,207 1,795  8,886,276 *
+1,716  8,497,064 1,756  8,694,134 1,796  8,891,203 *
+f     1,717  8,501,991 1,757  8,699,060 1,797  8,896,130 *
+1,718  8,506,917 1,758  8,703,987 1,798  8,901,057 *
+1,719  8,511,844 1,759  8,708,914 1,799  8,905,983 *
+*
+[      KEKREKEEKEKRKAREEKK fore RAEREKEKKEKEKEKEEHKEKEEKEKKKKKEEKEKKKKK KARR
+fj         Computed by   A    V    we. (ha q      Approved by         AT
+/ ธ๕ร      MAND    WETED           EXCISE OFFICER
+r                             | a:                     นายสุร ศักดิ์ จิตรานุถิจภูล
+Certified by    ณ์
+ก                   For PTT GLOBAL CHEMICAL PUBLIC COMPANY LIMITED
+This document |ร issued by tha Company under its General Conditions of Service accessible at http:/wvew.sgs.comutenns_and_conditions.htm. Attention is drawn 10 the limitation of liability, indemnification and jurisdiction issues defined therein,
+offenders may be prosecuted to the fullest extent of the law.
+905 (Thailand) Limited | Industrial and Technical Staff Services 10D Nanglinchee Road Chongnonsee Yannawa Bangkok 10120
+[หรพรเททาธารแระแพรยเทารณ WWW.S9S.coM
+[                                                                                                                                                                                                                                                               Member of the SGS Group
+
+--- Page 20 ---
+TANK CALIBRATION TABLE                                TANK NO. T-5285
+PTT GLOBAL CHEMICAL, MAP TA PHUT
+ถู                                                  PAGE 17
+แนใน นนนนนนนัฑ์ นันนนนนโคกัณันนโคก นั ณั ท ค เน น KREGER ๐๐๐
+DIP          VOLUME       DIP          VOLUME       DIP          VOLUME *       FRACTION
+f         CMS     LITRES   CMS     LITRES   CMS     LITRES * MM.    LITRES
+แลนในนนนัณ์ธ์นใดนันนโตวณ์ฑ์น 5๐๐5๐๐
+*
+1,800  8,910,910 1,840  9,107,980 1,880  9,305,049 *
+[     1,801  8,915,837. 1,841  9,112,906 1,881  9,309,976 *
+1,802  8,920,764 1,842  9,117,833 1,882  9,314,903 *
+1,803  8,925,690 1,843  9,122,760 1,883  9,319,829 *
+ถู     1,804  8,930,617 1,844  9,127,687 1,884  9,324,756 * FROM   0 CM
+1,805  8,935,544 1,845  9,132,613 1,885  9,329,683 * TO  1989 cMS
+1,806  8,940,471 1,846  9,137,540 1,886  9,334,610 *
+1,807  8,945,397 1,847  9,142,467 1,887  9,339,536 *
+ถู     1,808  8,950,324 1,848  9,147,394 1,888  9,344,463 *
+1,809  8,955,254 1,849  9,152,320 1,889  9,349,390 *
+*
+ถู     1,810  8,960,177 1,850  9,157,247 1,890  9,354,317 *
+1,811  8,965,104 1,851  9,162,174 1,891  9,359,243 * 1    A491
+1,812  8,970,031 1,852  9,167,101 1,892  9,364,170 * 2    983
+1,813  8,974,958 1,853  9,172,027 1,893  9,369,097 * 3   1,474
+fj    1,814  8,979,884 1,854  9,176,954 1,894  9,374,024 * 4   1,966
+1,815  8,984,811 1,855  9,181,881 1,895  9,378,950 * 5   2,457
+1,816  8,989,738 1,856  9,186,808 1,896  9,383,877 * 6   2,949
+f    1,817  8,994,665 1,857  9,191,734 1,897  9,388,804 * 7   3,440
+1,818  8,999,591 1,858  9,196,661 1,898  9,393,731 * 8   3,932
+1,819  9,004,518 1,859  9,201,588 1,899  9,398,657 * 9   4,423
+*
+ถู     1,820  9,009,445 1,860  9,206,514 1,900  9,403,584 *
+1,821  9,014,372 1,861  9,211,441 1,901  9,408,511 *
+1,822  9,019,298 1,862  9,216,368 1,902  9,413,438 *
+[     1,823  9,024,225 1,863  9,221,295 1,903  9,418,364 *
+1,824   9,029,152 1,864   9,226,221 1,904   9,423,291 *
+1,825  9,034,079 1,865  9,231,148 1,905  9,428,218 *
+1,826  9,039,005 1,866  9,236,075 1,906  9,433,145 *
+ถู     1,827  9,043,932 1,867  9,241,002 1,907  9,438,071 *  A  A ah
+1,828  9,048,859 1,868  9,245,928 1,908  9,442,998 4  เ
+1,829  9,053,786 1,869  9,250,855 1,909  9,447,925 *  จ7
+[    1,830 9,058,712 1,870 9,255,782 1,910 9,452,851 *\~) 6๕689 es
+1,831   9,063,639 1,871   9,260,709 1,911   9,457,778 * \QX\ Bees Ao
+1,832  9,068,566 1,872  9,265,635 1,912  9,462,705 * Qf
+ล     1,833  9,073,492 1,873  9,270,562 1,913  9,467,632 *  aed ag tS
+1,834  9,078,419 1,874  9,275,489 1,914  9,472,558 *
+1,835  9,083,346 1,875  9,280,416 1,915  9,477,485 *
+1,836  9,088,273 1,876  9,285,342 1,916  9,482,412 *
+ถู     1,837  9,093,199 1,877  9,290,269 1,917  9,487,339 *
+1,838  9,098,126 1,878  9,295,196 1,918  9,492,265 *
+1,839  9,103,053 1,879  9,300,123 1,919  9,497,192 *
+*
+fj    แตรหรนหรดหแจกะคจะบมยสจจจย23ร kKk* KERR KEKE
+/-
+[       Computed by  JA    ป ve ‘ Amy       Approved by       #« A
+For SGS\(THALYAND) LIMITED           EXCISE OFFICER
+r              Y                      ,            นายธุรสักด จิตรานุถิจผุ6
+Certified by
+ถู                  For PTT GLOBAL CHEMICAL PUBLIC COMPANY LIMITED
+This document is issued by the Company under its General Conditions of Service accessible at httpJiwww.sgs.comitenns_and_conditions htm. Altention is drawn fo the limitation of liability, Indemnification and jurisdiction issues defined thereln.
+offenders may be prosecuted to the fullest extent of the law.
+SGS (Thailand) Limited | Industrial and Technical Staff Services 100 Nanglinchee Road Chongnonsee Yannawa Bangkok 10120
+[ +66 (0]2 678 18 13 f +86 (0}2 678 1504 www.sgs.com
+ff                                                                                                                                                                                                                                                               Member of the SGS Group
+
+--- Page 21 ---
+TANK CALIBRATION TABLE                                           TANK NO. T-5285
+PTT GLOBAL CHEMICAL, MAP TA PHUT
+f                                                                        PAGE 18
+KREKKEKEKREEKKEEKEEKEKEEREREREREEEEE REECE KKK KKK GREK
+DIP       VOLUME     DIP       VOLUME     DIP       VOLUME *    FRACTION
+ธี            CMs       LITRES     cms       LITRES     CMs       LITRES * MM.      LITRES
+ERKEEEKEEEKEKEEKEEKE KEKE EEE EEE EERE EE EEE ERE EEE REKEEKEEKKEKE 5๐5๐0
+*
+1,920    9,502,119 1,960    9,699,188                      *
+[          1,921    9,507,046 1,961    9,704,115                       *
+1,922    9,511,972 1,962    9,709,042                      *
+1,923    9,516,899 1,963    9,713,969                      *
+         1,924    9,521,826 1,964    9,718,895                       * FROM     0 cM
+1,925    9,526,753 1,965    9,723,822                       * 0    1989 CMS
+1,926    9,531,679 1,966    9,728,749                      *
+1,927    9,536,606 1,967    9,733,676                      *
+f         1,928    9,541,533 1,968    9,738,602                      *
+1,929    9,546,460 1,969    9,743,529                      *
+*
+ถู         1,930    9,551,386 1,970    9,748,456                       *
+1,931    9,556,313 1,971    9,753,383                      * 4        491
+1,932    9,561,240 1,972    9,758,309                       * 2         983
+1,933    9,566,166 1,973    9,763,236                       * 3       1,474
+ถู         1,934    9,571,093 1,974    9,768,163                       * 4       1,966
+1,935    9,576,020 1,975    9,773,090                       * 5       2,457
+1,936    9,580,947 1,976    9,778,016                       * 6       2,949
+ลีอี         1,937    9,585,873 1,977    9,782,943                      * 7      3,440
+โ          1,938    9,590,800 1,978    9,787,870                       * 8       3,932
+1,939    9,595,727 1,979    9,792,797                       * 9       4,423
+*
+f         1,940    9,600,654 1,980    9,797,723                      *
+1,941    9,605,580 1,981    9,802,650                      *
+1,942    9,610,507 1,982    9,807,577                       *
+[         1,943    9,615,434 1,983    9,812,504                      *
+1,944    9,620,361 1,984    9,817,430                      *
+1,945    9,625,287 1,985    9,822,357                      *
+|         1,946    9,630,214 1,986    9,827,284                      *    Ge       >
+ถู          1,947     9,635,141 1,987     9,832,210                         *     Ce  A aa
+1,948    9,640,068 1,988    9,837,137                     |    Reg    ง
+1,949    9,644,994 1,989    9,842,064                       | 5
+[.          1,950     9,649,921                                                \    @ง599
+1,951   9,654,848                                   + 2055 EY)
+         1,952    9,659,775                                              x  Vere
+f                     1,953          9,664,701                                                                                                    *           “ee ESS
+1,954    9,669,628                                           *
+1,955    9,674,555                                           *
+1,956    9,679,482                                           *
+ถู          1,957     9,684,408                                                *
+1,958    9,689,335                                           *
+1,959    9,694,262    ee                               *
+‘                                 ”                                             *
+|        มมมดว7%74 ** KS วต5 “ a * *%  REREEEKKEKEKEREKEKEEREAEEKKEKKKKKRRKERK KKK EK
+ะซ์     ๑
+ถู         Computed by  fol ๕9,   Approved by         Le AR
+For 8๐8 Serko    MITED           EXCISE OFFICER
+a      a
+r     --              นายธุรศักดิ จิตรานุถึจภูล
+Certified by
+f                   For PTT GLOBAL CHEMICAL PUBLIC COMPANY LIMITED
+This document is issued by the Company under Its General Conditions of Service accessible at httpJiwww.sgs.convierms_and_conditions.htm. Attention is drawn ta the limitation of tiability, indemnification and jurisdiction issues defined therein.
+[    document does not exonerate partes 10 อ transaction tom exercising al thele ghts nd otigetons unser toe vareacton ง0บเกอทเร Ar แครบไทยเอว ลไรแด ง or val ester of oa sole responsiuly 1s ots Cnt and this
+offenders may de prosecuted to the fullest extent of the law.
+569 (Thatland) Limited | Industrial and Technical Staff Services 100 Nanglinchee Road Chongnonsee Yannawa Bangkok 10120
+[ +66 (0)2 678 18 13 f +66 (0}2 678 1504 พพมเพ.ร0ร.00เก
+[                                                                                                                                                                                                                                                               Member of the SGS Group
+
+--- Page 22 ---
+ถู                                                                           \
+TANK CALIBRATION TABLE                                              Mn 4 ร YANK NO. T-5285
+ถู          *       Effective height      |                 |     งด] อเลิตซี - Key     Total volume     *
+ซ้ @๑========-===== == --------------- | 0ในททธ/๓ท |     ๒รระ  |                      *
+* fromcms |     10 ๐5 | ':                   |        at each point       |             litres            *
+ล          OKRA ะ3ะ ฯ วะ3ะว9๐4:ตตะ ห ตะร่ะ2 9 OK 7เท่ะจ:ต:ะวะ3ด2ะชะต:ท: ว ๐422 2: ะ3ะว: OK
+*          0 |           0 |                |                      |           65,923.0230 *
+*          0 |           1 |      4,901.6381 |           4,901.6381 |           70,824.6611 *
+fj         *          1 |          10 |      4,900.6831 |          44,106.1479 |          114,930.8090 *
+*         10 |          18 |      4,901.2975 |           39,210.3800 |          154,141.1890 *
+|             *          18 |          19 |      4,901.1630 |            4,901.1630 |          159,042.3520 *
+*         19 |          29 |      4,901.6929 |           49,016.4290 |          208,058.7810 *
+ถู         *         29 |          36 |      4,901.9415 |          34,313.5905 |          242,372.3715 *
+*         36 |          38 |      4,902.9147 |            9,805.8294 |          252,178.2009 *
+*         38 |          39 |      4,903.4449 |            4,903.4449 |          257,081.6458 *
+ล         *         39 |          40 |      4,903.9750 |            4,903.9750 |          261,985.6208 *
+*         40 |          41 |      4,904.5020 |            4,904.5020 |          266,890.1228 *
+*         41 |          43 |      4,905.0290 |            9,810.0580 |          276,/00.1808 *
+f          *         43 |          48 |      4,903.3476 |           24,516.7380 |          301,216.9188 *
+*         48 |          49 |      4,903.1983 |           4,903.1983 |         306,120.1171 *
+*         49 |          50 |      4,903.0490 |            4,903.0490 |          311,023.1661 *
+fj         *         50 |         51 |      4,905.5231 |           4,905.5231 |         315,928.6892 *
+*         51 |          52 |      4,905.8588 |            4,905.8588 |          320,834.5480 *
+*         52 ]          53 |      4,906.1896 |            4,906.1896 |          325,740.7376 *
+f         *         53 |          62 |      4,906.3314 |           44,156.9826 |          369,897.7202 *
+*         62 |          63 |      4,906.1896 |           4,906.1896 |         374,803.9098 *
+*         63 |          64 |      4,906.7135 |            4,906.7135 |          379,710.6233 *
+ล         *         64 |          70 |      4,907.5683 |          29,445.4098 |         409,156.0331 *
+*         70 |          77 |      4,906.9965 |           34,348.9755 |          443,505.0086 *
+*         77 |          79 |      4,907.5683 |            9,815.1366 |          453,320.1452 *
+ล          *         79 |          80 |      4,907.0559 |            4,907.0559 |          458,227.2011 *
+*         80 |          81 |      4,906.2077 |            4,906.2077 |          463,133.4088 *
+*         81 |          98 |      4,905.8719 |           83,399.8223 |          546,533.2311 *
+*         98 |          99 |      4,905.3418 |            4,905.3418 |          551,438.5729 *
+f         *         99 |         101 |      4,904.8116 |           9,809.6232 |          561,248.1961 *
+*        101 |         102 |      4,904.2846 |            4,904.2846 |          566,152.4807 *
+*        102 |         110 |      4,903.7576 |           39,230.0608 |          605,382.5415 *
+f         *        110 |         111 |      4,902.6973 |           4,902.6973 |          610,285.2388 *
+*        111 |         124 |      4,901.6193 |          63,721.0509 |          674,006.2897 *
+*        124 |         279 [      4,901.6710 |          759,759.0050 |        1,433,765.2947 *
+ถู         *        279 |         280 |      4,908.1552 |           4,908.1552 |        1,438,673.4499 *
+*        280 |         565 |      4,908.8757 |        1,399,029.5745 |        2,837,703.0244 *
+*        565 |         566 |      4,911.5153 |            4,911.5153 |        2,842,614.5397 *
+ล         *        566 |         848 |      4,911.8086 |        1,385,130.0252 |        4,227,744.5649 *
+*        848 |         849 |      4,912.8326 |            4,912.8326 |        4,232,657.3975 *
+# 3ะ9ะร2จะ OK ACK EAE     สัน   KKKKKK OK KKK 7ะ92 KKKKKRKKKKKK K KKKKKEKKKKKKKKKKKKK K
+ถู            Computed by   Va     SOR,               Approved by              i
+For SGS     A ad ae                                  EXCISE : PEFICER,
+ถู                       2๕                     นายสุรกักดิ จิตรานุกิจกูล
+Certified by                   |
+f                                     For PTT GLOBAL CHEMICAL PUBLIC COMPANY LIMITED
+This document is issued by the Company under its General Conditions of Service accessible at http:/www.sgs.comvtenns_and_conditions.htm. Atlention [5 drawn to the limitation of tiability, indemnification and jurisdiction issues defined therein.
+Any holder of this document is advised that information contained hereon reflects the Company's findings at the time of its intervention only and within the limits of Client's instructions. if any. The Company's sole responsibility is to iis Client and this
+fj     เกวัตหาล mat be prosecuted ' aripdote เฟ่จอรงๆง เล กม all their rights and obligations under the transaction documents. Any unauthorized alteration, forgery or falsification of the content or อมมยลทอร of this document is unlawful and
+SGS (Thailand) Limited | Industrial and Technical Staff Services 100 Nanglinchee Road Chongnonsee Yannawa Bangkok 10120
+| t +66 (0]2 678 18 13 ร +66 (0)2 678 1504 wwwsgs.com
+a                                                                                                                                                                                                                                                               Member of the SGS Group
+
+--- Page 23 ---
+[                TANK CALIBRATION TABLE                                                                            TANK NO. T-5285
+r                PTT GLOBAL CHEMICAL, MAP TA PHUT                                                          PAGE 2 OF 2
+SUMMARY OF VOLUME
+ท OR % มชะ:ชะทท:ร: :% ปะ วะซะ4มชะชะชะชะชะม ok วชะวชะข่ะ4๐4ฟะฟะจะฟะระฟะฟะทะวะชะระ4 ok ซะชะชะฟะวะฟะฟะชะวะต่ะตะท่ะชะว(ตะ4 6
+ล               *           Effective height         |                         |         Total volume        |         Total volume        *
+ห @๑============== == =รรรรรรรรรร๓๓๓= | = Volume/cm |                      |                     *
+* ก๊๐ก ๐๓5 | tocms | -                 |       at each point      |            litres           *
+ล         2 GOR Ok 26ตฟะฟะชะฟะฟะตะว(ขะ ok oko 3: 3ะฟะชะชะขะฟะฟะวะชะชะชะดะชะตะระชะจะทะจ่ะ ob oO AK %
+*        849 |       1,134 |      4,915.2218 |        1,400,838.2130 |        5,633,495.6105 *
+*         1,134 |         1,135 |        4,916.0427 |               4,916.0427 |          5,638,411.6532 *
+ถู         *       1,135 |       1,421 |      4,917.9582 |        1,406,536.0452 |        7,044,947.6984 *
+*       1,421 |       1,422 |      4,919.2460 |            4,919.2460 |        7 ,049,866.9444 *
+*       1,422 |       1,703 |      4,922.2508 |        1,383,152.4748 |        8,433,019.4192 *
+*       1,703 |       1,704 |      4,923.5975 |            4,923.5975 |        8,437,943.0167 *
+*       1,704 |       1,989 |      4,926.7401 |        1,404,120.9285 |        9,842,063.9452 *
+a == =======๓๑==๓๓=========-------- ว
+* Proportional parts            | Volume/mm |                            |                            *
+[            *                |                |                     |                            |                            *
+*          0 |       1,989 |       491.4932 |                      |                      *
+*                |                         ~           |                            |                            *
+f          ROR ROK 7:ว:ต์:%        %# 9 % 6ปะ33ะวะฟะมะชะฟะฟะมะวะฟะชะระ วะ omc *
+Computed b        ,             ๕ด                  Approved b
+ee fe.   Aone        wae
+[                    For SGS (THAITA OP LIMITE                       EXCISE OFFICER
+p-     —                                 นายธุรกักดิ จิตรานุกิจกูล
+Certified by            me
+[                                      For PTT GLOBAL CHEMICAL PUBLIC COMPANY LIMITED
+(SA yy
+เจ
+ษ์ 5ระรถีรม
+พต 4
+This document is issued by the Company under its General Conditions of Service accessible at hitpJiwww.sgs.convterms_and_conditions.titm. Altention is drawn to the limitation of liability, Indemnification and jurisdiction issues defined therein.
+Any hoider of this document is advised that information contained hereon reflects the Company's findings at the time of its intervention only and within the limits of Culent’s instructions, if any. The Company's sole responsibility is to its Client and this
+fj      เกอกยเร way be presented Parties to 8 transaction f from exercising all their rights and obligations under the transaction documents. Any unauthorized alteration, forgery or falsification of the conlent or appaarance of this document is บทไสหรหั่น| and
+SGS (Thailand) Limited | Industrial and Technical Staff Services 100 Nanglinchee Road Chongnonsee Yannawa Bangkok 10120
+1 +66 (0)2 678 18 13 1 +66 (0)2 678 1504 www.sgs.com
+[                                                                                                                                                                                                                                                               Member of the SGS Group

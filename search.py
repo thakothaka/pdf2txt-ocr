@@ -4,7 +4,7 @@ import openpyxl
 
 # 📂 Folder paths
 txt_folder = Path(r"C:\Users\user\Desktop\pdf2txt\output")
-pdf_folder = Path(r"C:\Users\user\Desktop\pdf2txt\pdf_folder")
+pdf_folder = Path(r"C:\Users\user\Downloads\Tank Folder")
 excel_path = Path(r"C:\Users\user\Desktop\search_keywords.xlsx")
 filtered_root = Path(r"C:\Users\user\Desktop\pdf2txt\filtered")
 
