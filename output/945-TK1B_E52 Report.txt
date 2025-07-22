@@ -1,1011 +1,1535 @@
 
 --- Page 1 ---
 Intertek
-i
-i
-i
-2
 
-|
+PTT AROMATICS AND REFINING PUBLIC CO., LTD.
+TANK CALIBRATION TABLE
+TANK NO. 945-TK1B
+AT MAP TA PHUT, RAYONG
+REPORT NO. PTL/2402/2009
 
-|
+SEPTEMBER 2009
 
-PTT AROMATICS AND REFINING PUBLIC co., LTD.                                              |
-TANK CALIBRATION TABLE                                                                )      '
+iIntertek Testing Services (Thailand) Ltd.
 
-|
+uite 601 B, Monririn Building, 60/1 Phaholyothin 8, Phaholyothin Road, Samsaennai, Phayathai, Bangkok 10400, Thailand. Tel: +66 2 279-5040 {Auto12 Lines) Fax: +66 2 270-1878-9 www.intertek.com
 
-                      TANK NO. 945-TK1B                                                                         |
-AT MAP TA PHUT, RAYONG                                                                    |
+เนนล่แนแน์เต้นตับน์ตันนพนเนนแนน์พัน ต์น วเตนน์ แพอน วนสันตันโวเดินนนล์สาต    แนนอแลแอสตนแสชนสนแลสตอนออลน แคอานนนอสแนอนแนนวแอนสแสอนแลรณ ง ++์้ ย
 
-REPORT NO. PTL/2402/2009                                                            |
+อกกรุรมาทรหดหกยหททเสคุมควคชุจแลงชุวหลอรกยุกรหหบูรหคหศรรรอรอรุคจรยุจลจคหมุคนดคดดวหยุจาคสูหยุงหคดเภพหเคราทหนหหคบหหหิดเคอรนอลดคดเหรลดสกงดงรทกักทาทรทรหศาทูจคศัเตอจศศศรทหจรคลจคศศรจศศุจบุจุวทหนวศรเศขะวคงรทเหลครหุดแนทหยางทรนวแหพะภุครหญูหศพหรูกคคอททรกรรรศรหรจรพาศลมเจงจารค
+
+--- Page 2 ---
+ที่ กค 0622/  9ฮูยย์                                           กรมสรรพสามิต
+
+ถนนนครไชยศรี กรุงเทพฯ 10300
+
+7) ตุลาคม 2552
+เรือง อนุมัติให้ใช้ตารางคํานวณปริมาตรความจุประจําถังหมายเลข 945-TK1B
+เรียน กรรมการผู้จัดการใหญ่บริษัท ปตท. อะโรเมติกส์และการกลัน จํากัด (มหาชน)
+
+ฮ้างถึง หนังสือบริษัท ปตท. อะโรเมติกส์และการกลัน จํากัด (มหาชน) ที่ AM-MO 009/2559
+a  a     av
+ลงวันทิ 24 กันยายน 2552
+
+สิงทิส่งมาด้วย สําเนาตารางคํานวณปริมาตรความจุประจําถังหมายเลข 945-TK1B จํานวน 1 ชุด
+
+ตามหนังสือทีอ้างถึง บริษัทฯ ได้จัดส่งตารางคํานวณปริมาตรความจุประจําถังหมายเลข
+Py       wo 5) 9จ/                ๐        44        ส2น       72  ะ เนล์   ส๕ 7       a
+945-TK1B เพื่อขออนุมัติใช้เป็นเกณฑ์ในการคํานวณภาษีสรรพสามิต ณ คลังนํามันบริษัทฯ เลขที่ 11
+ถนนไอ-สี นิคมอุตสาหกรรมมาบตาพูด ตําบลมาบตาพุด อําเภอเมือง จังหวัดระยอง ความละเอียดแจ้งแล้ว
+a
+นัน
+กรมสรรพสามิตพิจารณาแล้ว อนุมัติให้บริษัทฯ ใช้ตารางคํานวณปริมาตรความจุประจําถัง
+อ       ม            -      ๐        ๕  as
+หมายเลข 945-TK1B เป็นเกณฑ์ในการคํานวณปริมาตรความจุเพื่อการคํานวณภาษีผลิตภัณฑ์ Benzene
+w al              ๐      =            wv & A ฯ๐               ay ซ & เณ ๆซ้
+ดังทีระบุไว้ในตารางคํานวณปริมาตรความจุได้ ทั้งนี่ มีกําหนดระยะเวลา 5 ปี นับตั้งแต่วันที่ลงนาม
+ในหนังสือนี และจะต้องไม่ทําการซ่อมแซมแก้ไขหรือเปลี่ยนแปลงใด ๆ ที่จะเป็นผลให้ตารางคํานวณ
+<=           ๐ Qa Ww  ง        ฆ้      al        a  bad  Aer,     & A
+ปริมาตรความจุประจําถังตดังกล่าว คลาดเคลือนไปจากทีกรมสรรพสามิตได้อนุมัติให้ในครั้งนี
+
+<Q at             r=
+จงเรยนมาเพอทราบ
+
+qa ล
+ขอแสดงความนบถอ
+
+« เลียงสมบัติ)
+รองอธิบดี ฟฏิบัติราชการแทบ
+อธิบดีกรมสรรพสามิต
+
+กลุ่มพัฒนาและตรวจสอบทางเทคนิค
+Ini. 0 2241 5600-19 ต่อ 55833
+โทรสาร 0 2248 8912
+สําเนาส่ง 1. สํานักงานสรรพสามิตภาคที่ 2
+2. สํานักงานสรรพสามิตพื้นที่ระยอง 1
+3. สํานักงานสรรพสามิตควบคุมคลังน้ามันบริษัท ven. อะโรเมติกส์และการกลั่น จํากัด (มหาชน)
+
+--- Page 3 ---
+' ไทเลเอ๑
+
+Page             1
+
+Aw                 a ¢          ง7   ๐ 07
+Lyn ปตท.  อะโรเมติกส์และการกลัน DING (มหาชนบน)
+
+ตารางคํานวณปริมาตรความจูประจําถังหมายเลข          945-1%18
+
+ฑซ
+จ
+
+a
+สถานทตง :
+
+ซ                                 :
+คลังนํามันของบริษัทฯ เลขที 11 ถ. ไอ-4 นิคมอุตสาหกรรมมาบตาพุด ต.มาบตาพุด อ.เมือง จ.ระยอง
+
+ฆ7 3                     VY 0๐2 A ฉ7 a      a
+1. ตรวจวดเตด้นรอบวงภายนอกและตรวจลอบสภาพถนถงเมอวนท     20 ลงหาคม 2552
+
+2. การคํานวณ
+
+2.1 คํานวณตามวิธีการของ ASTM STANDARD D 1220
+
+2.2 คํานวณโดยใช้ DENSITY @ 15Deg.C = _0.8000-0.9000
+2.3 คํานวณปริมาตรสําหรับผลิตภัณฑ์           Benzene
+๐               y      |     a                 a
+2.4 คํานวณความยาวของเส้นรอบวงทีอุณหภูมิ            30.0 °C
+\
+3. ปริมาตรความจูทังหมดของถัง= 0            1,425,855 ลิตร         (นายธนา ปลังอน)
+วิศวกรชํานาญการพิเศษ
+
+4. ระดับสูงสุดของถัง ณ จุดทิึงดิง(@?๐๐ท๐๒๐๐ Height) =           12.715 เมตร
+
+คํานวณโดย                                                                                          ตรวจสอบโดย              Saw
+เพ             Ps
+เจ้าหน้าที่สรรพสามิต
+บริษัท อินเตอร์เทค Mand เซอร์วิสเซส (ประเทศไทย) จํากัด                     (นายมานะ ฉินทองประเสวริฐ)
+วิศวกรโยชา ชํานาญการ
+รับรองโดย                                                                                                                     -
+is”
+
+2 -
+
+aA w                     a e¢             as   o Ww
+บรษาท ปตท.  อะโรเมติกส์และการกลัน จากด (มหาชบ
+
+f,
+๑
+
+aap      -
+เณ cssssensessses es soends
+
+จ๑จอ999ขอมแลจะขอแขบ
+
+ง
+ฆมูเชยวชาญ!เฉพาะตดต้ว                  ad
+“                                      ะตานวศว                         af
+Intertek Testing Services (Thailand) Ltd.          1 ๑»                           กรรมทัวไ WW
+Suite 601 B, Monririn Building, 60/1 Phaholyothin 8, Phaholyothin Road, Samsaennai, Phayathai, Bangkok 10400, Thailand. Tel: +66 2 279-รถไ4ดไดไนเอแนดษตรวกรูกหดาพลกเจตรนวิวท
+
+--- Page 4 ---
+Intertek
+
+PTT. Aromatics and Refining , Map Ta Phut                                                              Page        2
+          Tank No.          945-TK1B
+
+|                            DIRECTION FOR USING THE TANK CALIBRATION TABLE
+
+A. The Deduction Volume for Displacement of Floating Roof
+
+1.When the floating roof supports stand on the bottom plates (The gross dip is
+131.8 cms or lower ) the figure which is read from the tank calibration table
+must be deducted by the figure obtained from " THE DEDUCTION TABLE FOR
+DISPLACEMENT OF FLOATING ROOF " attached.
+2.When the floating roof has been freely floated (The gross dip is higher than
+
+5 eee
+
+131.8 cms.) the displacement volume of floating roof calculated by the formular :
+
+1617.62
+Kilograms/ Litre @ 15 deg.c x multiplier at observed temperature
+
+= Volume in litres at observed temperature
+
+For Kilograms/Litre @ 15 deg.c see ASTM-IP TABLE 56        \ \ 6:
+
+For Muitiplier at observed temperature see ASTM-JP Table No. 54B                  ed
+
+The figure which is read from the tank calibration table must be deducted
+by the displacement of floating roof calculated by the above formular.
+3.The Volume of product in the zone from             116.8 cms to                   131.8 cms.
+
+The need for gauging in this zone should be avoid.
+B. The Weight of Floating Roof is                              1617.62 Kilograms
+
+C. The Deduction Table for Displacement of Floating Roof is made on condition that
+
+the floating roof columns are on the low position.
+
+EXCISE-OFFICER -
+Intertek Testing Services (ไทลเร้ผิยโวเมต        เนายมานะ ฉนทองบระเสรฐ)
+
+Certified By
+
+PTT. Aromatics and Refining Public Co., Ltd.
+
+Intertek Testing Services (Thailand) Ltd.
+
+Suite 601 8, Monririn Building, 60/1 Phaholyothin 8, Phaholyothin Road, Samsaennai, Phayathai, Bangkok 10406, Thailand. Tel: +66 2 279-5040 (Auto12 Lines) Fax: +66 2 270-1878-9 www.intertek.com
+
+
+--- Page 5 ---
+I Intertek
+
+PTT. Aromatics and Refining , Map Ta Phut                                                      Page        3
+Tank No.      945-TK1B
+“ The Deduction Table for Displacement of Floating Roof ”
+To Use This Deduction Table When The Floating Roof Supports Rest on The
+
+Bottom Plates. (The Gross Dip :       131.8 cms or Lower )
+Dip        Volume       Dip        Volume        Dip        Volume *
+cms          Litres      cms          Litres       cms          Litres *
+EXKKKHRERRERERERIER EERE ERE EER ERE AIT IEEE ERE RIES IKKE TR RR a a a Ra AR a a HR RM I Ra a a
+
+0.0             0      41.0             3       82.0             6 *
+
+1.0             0      42.0             3       83.0             6 *
+
+2.0             0      43.0             3       84.0             6 *
+
+3.0             0      44.0             3       85.0             6 *
+
+4.0             0      45.0             3       86.0             6 *
+
+5.0            0     46.0            3      87.0            6 *
+
+6.0             0      47.0             3       88.0             6 *
+
+7.0             0      48.0             3       89.0             6 *                          .
+8.0             1      49.0             3       90.0             6 *                          '
+9.0             1      50.0            3      91.0             6 *                        ก
+10.0             1      51.0             4       92.0             6 *                         :
+11.0             1      52.0             4       93.0              7 *                          |
+12.0             1      53.0             4       94.0             7 *                         .
+13.0             1      54.0             4       95.0             7 *                          |
+14.0             1      55.0             4       96.0             7 *                          '
+15.0             1      56.0             4       97.0             7 *                          |
+16.0             1 570             4       98.0             7 *                         |
+17.0             1      58.0             4       99.0             7 *                          |
+18.0             1      59.0             4      100.0              7 *
+
+19.0             1      60.0             4      101.0              7 *                          |
+20.0              1      61.0              4 102.0              7 *                            |
+21.0             1      62.0             4      103.0             7*
+22.0             2      63.0             4      104.0             7 *                         |
+23.0              2      64.0              4      105.0              7 *                           |
+24.0             2      65.0              5      106.0              7 *
+
+25.0             2      66.0              5      107.0              7 *
+
+26.0             2      67.0             5      108.0             8 *
+
+27.0             2      68.0             5      109.0             8 *                         |
+28.0              2      69.0              5      110.0               8 *
+29.0              2      70.0              5      111.0               8 *                            |
+30.0             2      71.0             5      112.0             8 *
+
+31.0             2      72.0             5      113.0             8 *
+
+32.0            2     73.0            5     114.0            8 * .
+
+33.0             2      74.0              5      115.0              8 *
+
+34.0             2      75.0             5      116.0             8 *
+
+35.0             2      76.0             5      117.0             8 *
+
+36.0             3      77.0             5      118.0            20 *
+
+37.0              3      78.0              5      119.0             47 *
+
+38.0           3     79.0           6     120.0          91 *
+
+39.0             3      80.0             6      121.0           150 *
+
+40.0             3      81.0             6      122.0           226 *
+
+ฝี  Pi    KRRERKRRERIRRERERE KER EERE ERE KEE ERR EEE IN KERIKERI ARES
+
+Approved By    iy /
+EXCISE OFFICER
+
+(นายมานะ ฉินทองประเสริฐ)
+วิศวกรโยชา ชํานาญการ
+
+วสว 5
+a
+
+th, >
 
 7
 
-SEPTEMBER 2009                                                                                   |
-
-i
-
-i
-
-|
-
-;                                           |
-
-|
-
-|
-
-|
-
-|
-
-Hy
-
-|
-
-i
-
-|
-
-t
-
-i
-
-4
-
-i
-
-|
-
-|
-
-|
-
-i
-
-|
-
-|
-
-|
-
-i
-
-                                                                                                                                                                                                                  |
-Intertek Testing Services (Thailand) Ltd.                                                                       i
-
-แกไฮ 601 B, Monririn Building, 60/1 Phaholyothin 8, Phaholyothin Road, Samsaennai, Phayathai, Bangkok 10400, Thailand. Tel: +66 2 279-5040 {Auto12 Lines) Fax: +66 2 270-1878-9 www.intertek.com                    i
-
---- Page 2 ---
-nna 06227 13548                 :          กรมสรรพสามิต
-!                                                                          ถนนนครไชยศรี กรุงเทพฯ 10300
-|                                                        7  ตุลาคม 2552
-         เรือง อนุมัติให้ใช้ตารางคํานวณปริมาตรความจุประจําถังหมายเลข 945-TK1B
-เรียน กรรมการผู้จัดการใหญ่บริษัท ปตท. อะโรเมติกส์และการกลั้น จํากัด (มหาชน)
-|              อ้างถึง หนังสือบริษัท ปตท. อะโรเมติกส์และการกลัน จํากัด (มหาชน) ที่ AM-MO 009/2552
-Mu a     aw
-!                    ลงวันที 24 กันยายน 2552
-สิงที่ส่งมาด้วย สําเนาตารางคํานวณปริมาตรความจุประจําถังหมายเลข 945-TK1B จํานวน 1 ชุด
-'                     ตามหนังสือที่อ้างถึง บริษัทฯ ได้จัดส่งตารางคํานวณปริมาตรความจุประจําถังหมายเลข
-al       warty 9                °        a        ES       we we ae       a
-945-TK1B เพื่อขออนุมัติใช้เป็นเกณฑ์ในการคํานวณภาษีสรรพสามิต ณ คลังนํามันบริษัทฯ เลขที่ 11
-           ถนนไอ-สี นิคมอุตสาหกรรมมาบตาพุด ตําบลมาบตาพุด อําเภอเมือง จังหวัดระยอง ความละเอียดแจ้งแล้ว
-|            นัน
-กรมสรรพสามิตพิจารณาแล้ว อนุมัติให้บริษัทฯ ใช้ตารางคํานวณปริมาตรความจุประจําถัง
-หมายเลข 945-TK1B เป็นเกณฑ์ในการคํานวณปริมาตรความจุเพื่อการคํานวณภาษีผลิตภัณฑ์ Benzene
-        ดังที่ระบุไว้ในตารางคํานวณปริมาตรความจุได้ ทั้งนี่ มีกําหนดระยะเวลา 5 ปี นับตั้งแต่วันที่ลงนาม
-ในหนังสือนี และจะต้องไม่ทําการซ่อมแซมแก้ไขหรือเปลี่ยนแปลงใด ๆ ที่จะเป็นผลให้ตารางคํานวณ
-ต               ๐ ๑ ง   ง           a         al           a   y   eon       & qf
-ปริมาตรความจุประจําถังดังกล่าว คลาดเคลื่อนไปจากที่กรมสรรพสามิตได้อนุมัติให้ในครังนี่
-:       จึงเรียนมาเพื่อทราบ
-as ๑๓
-ขอแสดงความนับถือ
-- « shen
-รองธธชิษดี ษ่ฏิบัติรายการแทน
-อธิบดีกรมสรรพสามิต
-'            กลุ่มพัฒนาและตรวจสอบทางเทคนิค
-Ins. 0 2241 5600-19 da 55833                          |
-:            โทรสาร 0 2243 8912
-สําเนาส่ง 1. สํานักงานสรรพสามิตภาคที 2
-|                     2. สํานักงานสรรพสามิตพืนที่ระยอง 1
-3. สํานักงานสรรพสามิตควบคุมคลังนํามันบริษัท ปตท. อะโรเมติกส์และการกลัน จํากัด (มหาชน)
-
---- Page 3 ---
-Intertek
-:                                                                                    Page      1
-                           Aw          J   a  ถ่        ew  ๐ 0๑7
-.                               บรบษท ปตท. อะเรเมตกสและการกลน DING (มหาชนบน)
-.                       ตารางคํานวณปริมาตรความจูประจําถังหมายเลข      945-TKIB
-|
-az
-|       สถานทีตัง :
-|          คลังนํามันของบริษัทฯ เลขที่ 11 ถ. ไอ-4 นิคมอุตสาหกรรมมาบตาพูด ต.มาบตาพุด อ.เมือง จ.ระยอง
-!        1. ตรวจวัดเส้นรอบวงภายนอกและตรวจสอบสภาพถันถังเมือวันที่     20 สิงหาคม 2552
-I.
-i     2. การคํานวณ
-2.1 คํานวณตามวิธีการของ ASTM STANDARD D 1220
-ต           };
-|           2.2 คํานวณโดยใช้ DENSITY @ 15Deg.C = 0.8000-0.9000                     Se
-2.3 คํานวณปริมาตรสําหรับผลิตภัณฑ์          Benzene                     OP  St Ay
-.                           :                                                    ซิรมณ์
-2.4 คํานวณความยาวของเส้นรอบวงทีอุณหภูมิ            30.0 °C
-3. ปริมาตรความจูทั้งหมดของถัง =                 1,425,855 ลิตร          ane, บา FY
-วิศวกรชํานาญการพิเศษ
-”             4. ระดับสูงสุดของถัง ณ จุดทิงดิง(@%๐๕๐๓๐๒๑๐ Height) =           12.715 เมตร
-คท
-FS
-น          คํานวณโดย                            5 จค     ตรวจสอบโดย
-AN cal    re
-a      RS)
-จังผุทรม                           ข   y ot        a
-.                                                                           เจ้าหน้าทีสรรพสามิต
-. ปบริษัท อินเตอร์เทค เทศติง เซอร์วิสเซส (ประเทศไทย) จํากัด        (นายมานะ ฉินทองประเสวิฐ)
-วิศวกรโยชาชํานาญการ
-รับรองโดย                                                Eun
-gE          ON
-         อ  ¢ 5        %
-บริษัท ปตท. อะโรเมติกส์และการกลัน จํากัด (มหาชา0          โรวธารรณะ
-ie                                                               ep
-;                                                                                         WIUTN 5
-ผู้เชี้ยวชา       .    0272จยะ9ร5อะ39
-ย      ญเฉพาะตํานวิศวกรรมทัวไป
-i                           Intertek Testing Services (Thailand) Ltd.    1              มทัวไป
-Suite 601 B, Monririn Building, 60/1 Phaholyothin 8, Phaholyothin Road, Samsaennai, Phayathai, Bangkok 10400, Thailand. Tel: +66 2 279-50hd ลนน หดะ6รวสก9าพพนเนจซอนวิ22กา
-
---- Page 4 ---
-:           Intertek
-           PTT. Aromatics and Refining , Map Ta Phut                                                             Page        2
-           Tank No.            945-TK1B
-|
-|                           DIRECTION FOR USING THE TANK CALIBRATION TABLE
-|
-'             A. The Deduction Volume for Displacement of Floating Roof
-i                 1.When the floating roof supports stand on the bottom plates (The gross dip is
-                          131.8 cms or lower ) the figure which is read from the tank calibration table
-                  must be deducted by the figure obtained from " THE DEDUCTION TABLE FOR
-DISPLACEMENT OF FLOATING ROOF " attached.
-                  2.When the floating roof has been freely floated (The gross dip is higher than
-131.8 cms.) the displacement volume of floating roof calculated by the formular :
-1617.62
-Kilograms/ Litre @ 15 deg.c x multiplier at observed temperature                                 .
-LINC hy WY
-                               = Volume in litres at observed temperature                                             ee ว LE
-.                              For Kilograms/Litre @ 15 deg.c see ค8ธ1ไ| - !5 TABLE 56              \          ง
-'                              For Multiplier at observed temperature see ASTM-IP Table No. 548  Cpr AY,
-ป                                                                            ใวรพมด
-The figure which is read from the tank calibration table must be deducted
-by the displacement of floating roof calculated by the above formular.
-3.The Volume of product in the zone from            116.8 cms to                  131.8 cms.
-The need for gauging in this zone should be avoid.                                                           )
-B. The Weight of Floating Roof is                           1617.62 Kilograms
-C. The Deduction Table for Displacement of Floating Roof is made on condition that
-the floating roof columns are on the low position .
-Computed By                              (ช่พด \ Approved By                        /
-EAN        ¥                    EXCISE Ot ICES a
-          Intertek Testing Services (Thailakitbiwtted               (นายมานะ  ฉนทองบระเดรฐ)
-วิสวกรโยธาชํานาญการ
-                                                                             ฮะโมมติกอัแอะกวรก >
-             Certified By                                                           KF     ๒
->                      a
-PTT. Aromatics and Refining Public Co., Ltd.        a             a
-.                                                      ;                                % เซ  LY                     ;
-.                                                                                                        %จคณ Public Compa® ว
-'                                                               Intertek Testing Services (Thailand) Ltd.
-Suite 601 8, Monririn Building, 60/1 Phaholyothin 8, Phaholyothin Road, Samsaennai, Phayathai, Bangkok 10400, Thailand. Tel: +66 2 279-8040 (Auto12 Lines) Fax: +66 2 270-1878-9 www.intertek.com
-
---- Page 5 ---
-Intertek
-PTT. Aromatics and Refining , Map Ta Phut                                                 Page       3
-Tank No.      945-TK1B
-" The Deduction Table for Displacement of Floating Roof ”
-To Use This Deduction Table When The Floating Roof Supports Rest on The                  |
-Bottom Plates. (The Gross Dip :       131.8 cms or Lower )
-Dip        Volume       Dip        Volume         Dip         Volume *
-cms          Litres      cms          Litres       cms          Litres *
-0.0             0      41.0             3       82.0             6 *
-1.0             0      42.0             3       83.0             6 *
-2.0             0      43.0             3       84.0             6 *                     -
-3.0             0      44.0             3       85.0             6 *
-4.0             0      45.0             3       86.0             6 *
-5.0            0     46.0            3      87.0            6 *
-6.0            0     47.0             3       88.0             6 *
-7.0             0      48.0             3       89.0             6 *                         |
-8.0             1      49.0             3       90.0             6 *                         i
-9.0             1      50.0             3       91.0             6 *                        |
-10.0             1      51.0             4       92.0             6 *                         i
-11.0             1      52.0             4       93.0             ร7*                         i
-12.0             4      53.0             4       94.0             7*
-13.0             1      54.0             A       95.0             7 *                         |
-14.0             1      55.0             4       96.0             7 *
-15.0             1      56.0             4       97.0             7*
-16.0             1 570             4       98.0             7*                         |
-17.0             1      58.0             4       99.0             7 *
-18.0             1      59.0             4      100.0             7 *                 ล
-19.0            1 60.            4 101.0            7*      NC ay SY       |
-20.0              1       61.0              4      102.0              7 *          |
-21.0         1    62.0         4    103.0         7*     ” 4     |
-24.0              2      65.0              5      106.0              15 ซอ»
-25.0             2      66.0              5      107.0              7*        วรพ
-26.0             2      67.0             5      108.0             8 *
-27.0             2      68.0             5      109.0             8 *
-28.0              2      69.0              5      110.0               8 *                            |
-29.0              2      70.0              5      111.0              8 *                          |
-30.0             2      71.0             5      112.0             8*                         |
-31.0             2      72.0             5      113.0             8 *                         |
-32.0             2      73.0             5      114.0             8 *                         |
-33.0             2      74.0              5      115.0              8 *
-34.0             2      75.0             5      116.0             8 *                         i
-35.0             2      76.0             5      117.0             8 *                         |
-36.0             3      77.0             5      118.0            20 *
-37.0             3      78.0              5      119.0             47 *
-38.0          3     79.0           6     120.0          91 *                     i
-39.0            3     80.0            6     121.0           150 *                        ;
-40.0             3      81.0      6      122.0           226 *
-Computed By    >         (ey,    Approved By    aed                    |
-—                          EXCISE OFFICER
-Intertek Testing Services (โทลแชพตเฟช์            (นายมานะ ฉินทองประเสริฐ)             i
-ea- --. วิศวกรโยธาชํานาญการ                     |
-Certified By                                                   ศั๒                                            1
-9                                      |
-ก กรรรรพรุสรีน                            ก]
 Intertek Testing Services (Thailand) Ltd.
-Suite 601 8, Monririn Building, 60/1 Phaholyothin 8, Phaholyothin Road, Samsaennai, Phayathai, Bangkok 10400, Thailand. Tel: +66 2 279-5040 (Auto12 Lines) Fax: +66 2 270-1878-8 www.intertek.com                1
+
+Suite 601 8, Monririn Building, 60/1 Phaholyothin 8, Phaholyothin Road, Samsaennai, Phayathai, Bangkok 10460, Thailand. Tel: +66 2 279-5040 (Auto12 Lines) Fax: +66 2 270-1878-3 www.intertek.com
+
+แออร7เกทุภรหดดลทหคุงหอทบัระกรรจวรรกททยุงดูเรจนรครรหคคลจหคจพรูแรอุรคพหหภทดเาหแรทหภักรหหอหหหแวดรไคชัหคศรเหรหเตยูรูกรทรงทรทบาหหตเรหศกคคย7รภะเทคคองยยพรุจจตยยหยุวงงหลอจหรูคหรรรทกรูงกคุรูจจดสรรพรคคหจดคดูดสๆหระจดรงหดหนยจุตบหงเแชคแซดคระเศจ-
 
 --- Page 6 ---
-Intertek
-PTT. Aromatics and Refining , Map Ta Phut                                                 Page       4
+' ไทเลเอ1<
+
+PTT. Aromatics and Refining , Map โล Phut                                                    Page       4
 Tank No.         945-TK1B
-“ The Deduction Table for Displacement of Floating Roof "
+” The Deduction Table for Displacement of Floating Roof "
 To Use This Deduction Table When The Floating Roof Supports Rest on The
-Bottom Plates. (The Gross Dip :       131.8 cms or Lower)
-Dip        Volume       Dip        Volume        Dip        Volume *
-cms         Litres      cms         Litres       cms          Litres *
-123.0             318 ก '                               |
-124.0             A426                                                            *
-125.0             550                                                            *
-126.0             690                                                            *
-127.0             846                                                            *       ;
-128.0           1,019                                                            *
-129.0           1,207                                                            *
-130.0           1,412               *
-131.0           1,633                                                            *
-131.8           1,821                                                            *
-ก                                                                   แน 8ด 0ญู
-SATE NERS          ร่
-o>.  CS
-. รรพ์ณ์3            |
-*                               |
-i
-*                               |
-ว
--                                             *                               |
-i
-*                               |
-*                               )
-*                               |
-KREKKKEKKEKEKKKRERER REE REEER ERE KERR ERKIEREERERKEERERS ธั259 ว วร่อตระซะววว่ะระ วะต้อวว6ว่อระหว่อร่ว่6ระวแวงะว่อะเร่ะว่ะรระวะวะหะว่ะวเกพัร่อ 9436วะรห            |
-4 8                ว B
-Computed By   ภ๊ว,            ศา3        pproved By     Dw /                           |
-ฉิ:         «3                                                                   |
-x       S                       EX®1SE, OFFICER                         |
-SV                             wv            wigs                       i
-Intertek Testing Services (Thailane##imited               - (นายมานะ  คินทองประเสริฐ)                    |
-geste com wns                         '
-Certified By                                                 ae}            Xa)                                    !
-TT. Aromatics and Refining Public Co., Ltd.                               ย                                       )
-oN      fife 2
-.                                                                      200 Reining Poo
+
+Bottom Plates. (The Gross Dip :       131.8 cms or Lower )
+Dip        Volume       Dip        Volume         Dip        Volume *
+cms          Litres      cms          Litres       cms          Litres *
+
+123.0          318
+
+124.0         426
+
+125.0         550
+
+126.0         690
+
+127.0         846
+
+128.0        1,019
+
+129.0        1,207
+
+130.0        1,412
+
+131.0        1,633
+
+131.8        1,821
+
++ + £ FS SF FF FF FF F FF FF HF FF HF FF HF HF %
+
+i ee 2
+
+*
+
+Approved By       Duy /
+EXe1S                ER
+
+๒ OFFICER .
+(นายมีานะ  ฉินทองประเสริฐ)
+
+<1 Refining Pup
+
 Intertek Testing Services (Thailand) Ltd.
-Suite 601 B, Monririn Building, 60/1 Phaholyothin 8, Phaholyothin Road, Samsaennai, Phayathai, Bangkok 10400, Thailand. Tel: +66 2 279-5040 (Auto12 Lines) Fax: +66 2 270-1878-9 www.intertek.com            i
+
+Suite 601 B, Monririn Building, 60/1 Phaholyothin 8, Phaholyothin Road, Samsaennai, Phayathai, Bangkok 10400, Thailand. Tel: +66 2 279-5040 (Auto12 Lines) Fax: +66 2 270-1878-9 www.intertek.com
+
+เคกหนางก7จ0หเจเรุงอหลงวนากหหนงหดหจวดสัจัหรกรกรุหรศรกรกคหกกยุคนดหอวคหภดหรจคพรุคดหรรหบร9เหงศกหวิงงอกกรรองงรงดัมรททาดกรทาททุทคราศพตทครุยูกทรทหทศยูเทคคนเทศุตูหหจกคระจะหภจงะวทรบรจจงเหออเกรูหลูหูจทัจกังทู้จหรทัหรมรุกมรรรุเรราจคอุจกหคลนหนทลบนารรชะเหยุจครรรงทร(ระ DSS ORT PID EIS ILLS TRILL IE FE EIS FA LAA Ra ha รรารา5
+
+วค้วะรหะจะวรรกหยจคกาทายหทศรเคศาจะทาคุดควหเดศารวทชูศาาละแรคง<
+
+PRET EH eH NE
 
 --- Page 7 ---
-.              Intertek
-‘            PTT. Aromatics and Refining , Map Ta Phut                                                Page          5
-:           Tank No.      945-TK1B
-ว                          Dip            Volume          Dip            Volume          Dip            Volume *               Fraction
-|       น          cms          Litres      cms          Litres      cms          Litres *
-                            0               2,807           40             50,308           80             97,877 *
-                            1               3,995           41             51,496           81             99,066 *
-                         2             5,183          42           52,684          82          100,255 *
-3               6,371            43             53,872            83           101,445 * From             0 cms
-3                         4               7,559            44             55,060           84           102,634 *       To        1196 cms
-|                            5               8,747            45             56,249           85           103,824 *
-6             9,935          46           57,439          86          105,013 *
+Intertek
+
+PTT. Aromatics and Refining , Map Ta Phut
+
+Page        5
+Tank No.    945-TK1B
+Dip        Volume       Dip        Volume       Dip        Volume *          Fraction
+cms          Litres      cms          Litres      cms          Litres *
+ล                 0         2,807       40        50,308       80        97,877 *
+|                  1          3,995       41        51,496       81        99,066 *
+'                 2         5,183       42        52,684       82       100,255 *
+               3        6,371      43       53,872      83      101,445 * From       0 cms
+|                 4         7,559       44        55,060       84       102,634 *    To     1196 cms
+|                 5         8,747       45        56,249       85       103,824 *
+6         9,935       46        57,439       86       105,013 *
 7        11,123       47        58,628       87       106,202 *
-|                8        12,311       48        59,817       88      107,392 *                 |
-9             13,499           49             61,007           89           108,581 * mm.        Litres
-|               10        14,687       50       62,196       90      109,770 *     1      119
-|               11        15,875       51        63,385       91       110,960 *     2     238
-12                17,063              52                64,575              92              112,149 *           3            357
-ข้                       13            18,250           53            65,764           93           113,338 *        4         476
-น                       14            19,437          54            66,953          94          114,528 *        5         595
-15             20,624            55             68,143           95           115,717 *         6          714
-:                 16        21,811        56        69,332       96       116,907 *      7      833
-    17        22,998       57        70,521        97       118,096 *      8      952
-                 18        24,185       58        71,711        98       119,285 *      9     1071
+8        12,311       48        59,817       88       107,392 *
+9        13,499       49        61,007       89       108,581 * mm.     Litres
+|                 10        14,687       50        62,196       90       109,770 *      1      119
+                 11         15,875       51         63,385       91        110,960 *      2      238
+12        17,063       52        64,575       92       112,149 *     3      357
+|“ee               13        18,250       53        65,764       93       113,338 *      4      476
+7                14        19,437       54        66,953       94       114,528 *      5      595
+15        20,624       55        68,143       95       115,717 *      6      714
+16        21,811       56        69,332       96       116,907 *     7      833
+17        22,998       57        70,521       97       118,096 *      8      952
+ห                18        24,185       58        71,711       98       119,285 *      9     1071
 19        25,372       59        72,900       99       120,475 *
-|                       20           26,559          60           74,089         100          121,664 *
-21            27,747          61            75,279         101          122,853 *
-!                          22             28,934           62             76,468          102           124,043 *
-                 23        30,121        63        77,658      103       125,232 *
-                    24          31,308         64          78,847       104         126,421 *
+20        26,559       60        74,089      100       121,664 *
+21       27,147      61       15,279 ©    101      122,853 *
+22        28,934       62        76 468      102       124,043 *
+23        30,121       63        77,658      103       125,232 *
+24      31,308      64      78,847     104      126,421 *
 25        32,494       65        80,036      105       127,610 *
-26            33,682           66            81,226         106          128,798 *               ว
-'                          27             34,870           67             82,415          107           129,986 *          NYE ath
-28             36,057           68             83,604          108           131,174 *           เจ ดว
-ก.                          29             37,245           69             84,794          109           132,362 *            [ก
-|                          30             38,432           70             85,983          110           133,550 *   ey :   - Se   £&
-31             39,620           71             87,172          111            134,737 * Noi
-32           40,808          72           88,362         112          135,925 *         รรมพอ
-33           41,995          73           89,551         113          137,113 *
-34         43,183        74         90,741       114     - 138,301 *
-35           44,371          75           91,930         115          139,489 *
-.                 36        45,558       76        93,119      116       140,677 *
-37             46,746           77             94,309          117           141,865 *
-38            47,933           78            95,498         118          143,053 *
-39          49,121         79          96,687        119         144,241 *
-ต ด” &       วออลลลม
-Computed By     ภี), 4 iy          <a, Approved By     Zw
-|                                                   ซ์ B             EXCISE. OFFIGER
-Intertek Testing Services (ThailaN@>pimiteg           (นายมานะ ฉนทองประเสรฐ)
-แลนน          ees        ธาชํานาญการ
-ke       ร            “ey
-Certified By           อ  pe \
-,               i                  ๑          a3)         by
-PTT. Aromatics and Refining Public Co., Ltd a=             <<
-น                                                                                         Refining Puig Coe”
-อ                                                              Intertek Testing Services (Thailand) Ltd.
-Suite 601 B, Monririn Building, 60/1 Phaholyothin 8, Phaholyothin Road, Samsaennai, Phayathai, Bangkok 10400, Thailand. Tel: +66 2 279-5040 {Auto12 Lines) Fax: +66 2 270-1878-9 www.intertek.com
+26        33,682       66        81,226      106       128,798 *
+27        34,870       67        82,415      107       129,986 *
+28        36,057       68        83,604      108       131,174 *
+29        37,245       69        84,794      109       132,362 *
+30        38,432       70        85,983      110       133,550 *
+314        39,620       74        87,172      111       134,737 *
+32        40,808       72        88, 362      112       135,925 *
+33        41,995       73        89,551       113       137,113 *
+34      43,183      74       90,741     114      138,301 *
+35        44 371       15        91,930      115       139,489 *
+36        45,558       76        93,1149      116       140,677 *
+37        46,746       7?        94,309      117       141,865 *
+38        47,933       18        95,498      118       143,053 *
+39      49,121      79                119      144,241 *
+
+Suite 601 6, Monririn Building, 60/1 Phaholyothin 8, Phaholyothin Road, Samsaennai, Phayathai, Bangkok 10400, Thailand. Tel: +66 2 279-5040 (Auto12 Lines) Fax: +66 2 270-1878-9 www.intertek.com
+
+96,687
+
+Approved By  Zw
+ก           EXCISE. OFFIGER «
+cette yd ae
+
+PTT. Aromatics and Refining Public Co., Ltd.
+
+(นายมานะ ฉันทองประเสริฐ)
+
+intertek Testing Services (Thailand) Ltd.
+
 
 --- Page 8 ---
-Intertek
-PTT. Aromatics and Refining , Map Ta Phut                                                Page          6
-Tank No.        945-TK1B
-Dip            Volume           Dip             Volume           Dip             Volume *                Fraction                         |
-cms                Litres          cms                Litres          cms                Litres *                                                     |
-120                145,428              160                192,944              200                240,459 *
-121        146,616       164        194,132       201        241,647 *
-122        147 804       162        195,320      202        242,835 *
-123          148,992         163          196,507         203          244,023 * From            0 cms
-124        150,180       164        197,695       204        245,211 *     To      1196 cms
-125        151,368       165        198,883       205        246,399 *
-126        152,556       166        200,071       206        247 587 *
-127        153,744       167        201,259       207        248,774 *
-128        154,931       168        202,447       208        249,962 *
-129        156,119       169        203,635      209        251,150 * mm.     Litres                 i
-130        157,307       170        204 823       210        252,338 *      1       119                 |
-131              158,495            171              206,011            211              253,526 *           2            238
-132        159,683       172        207,198       212        254,714 *      3       357
-133        160,871       173        208,386       213        255,902 *      4       476                 |
-134        162,059       174        209,574       214        257,090 *      5       595
-135        163,247       175        210,762       215        258,277 *      6       714                 |
-136        164,435       176        211,950       216        259,465 *      7       833                  i
-137        165,622       177        213,138       217        260,653 *      8       952
-138        166,810       178        214,326       218        261,841 *      9      1071                  |
-139        167,998       179        215,514       219        263,029 *                                  |
-140        169,186    ' 180        216,701       220        264,217 *                                  '
-141        170,374       181        217,889       221        265,405 *                                   |
-142        171,562       182        219,077       222        266,593 *
-143        172,750       183        220,265       223        267,781 *                                   |
-144                173,938               184                221,453              224                268,968 *                        -
-145                175,126              185                222,641              225                270,156 *
-146        176,313       186        223,829       226        271,344 *
-147        177,501       187        225,017       227        272,532 *        ฝุ           J      |
-148        178,689       188        226,205       228        273,720 *       <2              |
-149               179,877             189               227,392             229               274,908 *                ee wet AE                             |
-150                181,065              190                228,580             230                276,096 *      4)        pe       ES
-151              182,253            191             229,768           231             277,284 * “OSES TAS
-152            183,441           192            230,956          232            278,472 *          ๕อรรณ์2
-153            184,629           193            232,144          233            279,659 *                 2ว                             |
-154        185,816       194        233,332       234        280,847 *                                  |
-155              187,004             195              234,520            235              282,035 *                                                                |
-156        188,192       196        235,708       236        283,223 *
-157        189,380       197        236,896       237        284,411 *                                  i
-158        190,568       198        238,083       238        285,599 *                                  |
-159        191,756       199        239,271       239        286,787 *                                  |
-Computed B                                                           ™ Approved B                                                                                 |
-spect           EXCISE, OFFICER
-In                 |             i              หรดร           ad                                 gy                  ะ                                                  !
-tertek Testing Services (โทลปซุธุ         DHS                   CaN   .  จนทอง   ระเสรฐ)                                          ๊
-Ket        รยวิส9โขธาชํานาญการ                                              '
-hy                          Son
-Certified B                                              i
-PTT. Aromatics and Refining Public Co., Ltd.      “๒       Fi, จ  Lo
-ก Retinng pane Co
-intertek Testing Services (Thailand) Ltd. —                                                               i
-Suite 604 B, Monririn Building, 60/1 Phaholyothin 8, Phaholyothin Road, Samsaennai, Phayathai, Bangkok 10400, Thailand. Tet: +66 2 279-5040 (Auto12 Lines) Fax: +66 2 270-1878-9 www.intertek.com                i
+แทเลเห๑|<
+
+PTT. Aromatics and Refining , Map โล Phut                                                  Page          6
+
+Tank No.    945-TK1B
+Dip        Volume       Dip        Volume       Dip        Volume *           Fraction
+cms          Litres       cms          Litres      cms          Litres *
+120       145,428      160       192,944      200       240,459 *
+121        146,616       161        194,132       201        241,647 *
+422       147 804      162       195,320      202       242,835 *
+123       148,992      163       196,507      203       244,023 * From        0 cms
+124      150,180      164       197,695     204      245,211 *    To     1196 cms
+125       151,368       165       198,883      205       246,399 *
+126       152,556      166       200,071      206       247 587 *
+127       153,744      167       201,259      207       248,774 *
+128       154,931      168       202,447      208       249,962 *
+129       156,119      169       203,635      209       251,150 * mm.     Litres
+130       157,307      170       204 823      210       252,338 *     1      119
+131       158,495      171       206,01 1      211       253,526 *      2      238
+132       159,683      172       207,198      212       254,714 *      3      357
+133       160,871       173       208,386      213       255,902 *      4      476
+134       162,059       174       209,574      214       257,090 *      5      595
+135       163,247       175       210,762      215       258,277 *      6      714
+136       164,435      176       211,950      216       259,465 *      7      833
+137       165,622      177       213,138      217       260,653 *      8      952
+438     166,810     178     214,326     218     261,841 *    9    4071
+139       167,998      179       215,514      219       263,029 *
+140       169,186    ~ 180       216,701      220       264,217 *
+141       170,374      181       217,889      221       265,405 *
+142       171,562      182       219,077      222       266,593 *
+143      172,750     183      220,265     223      267,781 *
+144       173,938      184       221,453      224       268,968 *
+145       175,126      185       222,641      225       270,156 *
+146       176,313      186       223,829      226       271,344 *
+147       177,501      187       225,017      227       272,532 *
+148       178,689      188       226,205      228       273,720 *
+149       179,877      189       227,392      229       274,908 *
+150       181,065      190       228,580      230       276,096 *
+151        182,253      191       229,768      231       277,284 *
+152       183,441       192       230,956      232       278,472 *
+153       184,629      193       232,144      233       279,659 *
+154       185,816      194       233,332      234       280,847 *
+155       187,004      195       234,520      235       282,035 *
+156       188,192      196       235,708      236       283,223 *
+157      189,380     197      236,896     237      284,411 *
+158       190,568      198       238,083      238       285,599 *
+159       191,756      199       239,271      239       286,787 *
+
+RREKKEKEREKRKEEKERERERRERERERRERERIEERE RERKEEEE RRR IR    RK EKKEKRIKAGKER ERE KERR ERE RERERERRREREREIEI ARK ICK *%ชว วะร ป6มาตร่วววะง
+
+Computed By   Yo?                  Approved By    IW
+a
+EXCISE_ OFFICER
+
+Intertek Testing Services (Thailays                     (นายมานะ Runoswsetasq)
+oo cag oe Pr)   ขํานาญการ
+
+Certified By
+
+PS PALA rk nd Seen PG EV, 8 BN BANSAL BRITE RNY © YIP PLSD BONAR rth A ir rr yn OR ANALY        ME ETE ETT OTH:                            เร            rere                  ว                                            ว                                         —           nen ery:                             -               -       อ         +      >            ค                                nee,
+
+PTT. Aromatics and Refining Public Co., Ltd.
+
+intertek Testing Services (Thailand) Ltd.
+
+Suite 604 B, Monririn Building, 60/1 Phaholyothin 8, Phaholyothin Road, Samsaennai, Phayathai, Bangkok 10400, Thailand. Tel: +66 2 279-5040 (Auto12 Lines} Fax: +66 2 270-1878-9 www.intertek.com
+
+RE ree ry, ELLIO DP INI OIE ILIAE TA
 
 --- Page 9 ---
 Intertek
-PTT. Aromatics and Refining , Map Ta Phut                                                Page          7
-Tank No.      945-TK1B
-RK KEK KKK KE RIK KKK EK EKER KR BRE IER EEE KARRI RE RAE EKER IER ERE ETERS EA IRIN IIKISIKR ERS REINA KIER IR IC a a I: a I AA a I
+
+PTT. Aromatics and Refining , Map Ta Phut                                                  Page          7
+Tank No.    945-TK1B
+REKKKEKKKKKEKEREKEKERE EERE RRERTER EEE EERIE RRR RUE KER EER RRR RIERA REESE EER AK EAMES RC RRR mR a a a aKa A จ้องะ ร่อระระ วะ"
 Dip        Volume       Dip        Volume       Dip        Volume *          Fraction
-cms          Litres      cms          Litres      cms          Litres *                   ,             |
-240       287,975    . 280       335,565      320       383,159 *                              |
-241        289,162      281        336,755       321        384,349 *
+cms          Litres      cms          Litres      cms          Litres *                   |
+240     287 975   . 280     335,565     320     383,159 *
+241        289,162       281        336,755       321        384,349 *
 242       290,350      282       337,944      322       385,539 *
 243       291,540      283       339,134      323       386,729 * From        0 cms
 244       292,730      284       340,324      324       387,919 *    To     1196 cms
-245          293,919         285          341,514         325          389,109 *
+245       293,919      285       341,514      325       389,109 *
 246       295,109      286       342,704      326       390,299 *
 247       296,299      287       343,894      327       391,488 *
-248       297,489      288       345,084      328       392,678 *
-249       298,679      289       346,274      329       393,868 * mm.    Litres
-250       299,869      290       347,463      330       395,058 *     1      119
-251       301,059      291       348 653      331       396,248 *      2      238
-252       302,248      292       349,843      332       397,438 *      3      357
-' 253          303,438        293          351,033        333          398,628 *        4        476                     |
-254          304,628         294          352,223         334          399,818 *        5         595                      |
-255       305,818      295       353,413      335       401,007 *      6      714                i
-256          307,008         296          354,603         336          402,197 *        7         833                      |
-257       308,198      297       .355, 792      337       403,387 *      8      952               i
+248       297 489      288       345 084      328       392,678 *
+249       298,679      289       346,274      329       393,868 * mm.     Litres
+250       299,869      290       347,463      330       395,058 *      1       119
+251       301,059      291       348,653      331       396,248 *      2      238
+252        302,248       292        349 843 .      332        397,438 *      3       357
+253       303,438      293       351,033      333       398,628 *      4      476
+254       304,628      294       352,223      334       399,818 *      5      595
+255       305,818      295       353,413      335       401,007 *      6      714
+256       307 ,008      296       354,603      336       402,197 *      7      833
+257       308,198      297       355,792      337       403,387 *      8      952
 258       309,388      298       356,982      338       404,577 *      9     1071
-259       310,578      299       358,172      339       405,767 *                                i
-260         311,767        300         359,362        340         406,957 *                                      |
-261          312,957         301           360,552         341          408,147 *                                            |
-262 314,147        302          361,742         342          409,336 *                                           |
-263       315,337      303       362,932      343       410,526 *                               |
-264         316,527        304          364,122        344         411,716 *
-265         317,717        305         365,311        345         412,906 *
-266       318,907      306       366,501      346       414,096 *                   ,           |
-267          320,096        307          367,691         347          415,286 *           ie m Ty
-268       321,286      308       368,881      348       416,476 *        เจ            |
-269       322,476      309       370,071      349       417,666 *         ped :
-270          323,666        310          371,261         350          418,855* ON eRe / &
-. 271       324,856      311       372,451      351       420,045 *     C7,   AS
-272          326,046         312          373,640         352          421,235 *            ชรร : 5                  |
+259       310,578      299       358,172      339       405,767 *
+260       311,767      300       359,362      340       406,957 *
+261       312,957      301       360,552      341       408,147 *
+262    . 314,147     302      361,742     342      409,336 *
+263       315,337      303       362,932      343       410,526 *
+264       316,527      304       364,122      344       411,716 *
+265       317,717      305       365,311      345       412,906 *
+266       318,907      306       366,501      346       414,096 *
+267       320,096      307       367,691      347       415,286 *
+268       321,286      308       368,881      348       416,476 *
+269       322, 476      309       370,071      349       417,666 *
+270       323,666      310       371,261      350       418,855 *
+271      324,856     311      372,451     351      420,045 *
+272       326,046      312       373,640      352       421,235 *
 273       327,236      313       374,830      353       422,425 *
-274       328,426      314       376,020      354       423,615 *                               |
-275       329,615      315       377,210      355      424,805 *
-276       330,805      316       378,400      356      425,995 *                            |
-277          331,995        317          379,590        357          427,184 *
-278       333,185      318       380,780      358       428,374 *                            |
-279       334,375      319       381,970      359 -      429 564 *                              i
-Computed By    Yd            Ey                Approved By                                   |
-เล                       เอณ์  OFFICER                                    |
-Intertek Testing Services (ไทลโด eh) Liggied               (นายมานะ ฉินทองประเสริฐ)                               |
-«๕552วิศร์สัตโยธาชํานาญการ                                    1
-Certified ds)       iy Ab          ๑                                           ก)
-PTT. Aromatics and Refining Public Co., Ltd.    % LT fA? ye
-Satin Pape coe
-i
-intertek Testing Services (Thaiiand) Ltd.                                                                     |
-Suite 601 B, Monririn Building, 60/1 Phaholyothin 8, Phaholyothin Road, Samsaennai, Phayathal, Bangkok 10400, Thailand. Tel: +66 2 279-5040 (Auto12 Lines) Fax: +66 2 270-1878-9 www.intertek.com               |
+274       328, 426      314       376,020      354       423,615 *
+275       329,615      315       377,210      355       424,805 *
+276       330,805      316       378,400      356       425,995 *
+277       331,995      317       379,590      357       427,184 *
+278       333,185      318       380,780      358       428 374 *
+279       334,375      319       381,970      359 -      429 564 *
+
+REKKARKERERERAKEEKERER KEE RRREKRERIREEKEREREKERARKE ER SS
+
+Computed By      2
+J
+
+Intertek Testing Services (Thaitahe
+
+PTT. Aromatics and Refining Public Co., Lid.
+
+Intertek Testing Services (Thailand) Ltd.
+
+Suite 601 B, Monririn Building, 60/1 Phaholyothin 8, Phaholyothin Road, Samsaennai, Phayathal, Bangkok 10400, Thailand. Tel: +66 2 279-5040 (Auto12 Lines) Fax: +66 2 270-1878-9 www.intertek.com
+
+HHH KK KIKKK KE EKKEREKE HEE REE ERE EE ERE EIR IEREERERRERREREEERERREIKEEKERERE:
+
+Approved By    ) )    i
+EXCISE OFFICER
+
+(นายมานะ ฉินทองประเสริฐ)
+
+ง
+นาง421135116 แวง๕,บย
+
+UOT LS ONE EYEE NTE YE PELE NAMA INP ED YP ANY ION NAN RDS te OEP EIA YY FE
 
 --- Page 10 ---
-Intertek                                                                  |
-PTT. Aromatics and Refining , Map Ta Phut                        Page           8
+Intertek
+
+PTT. Aromatics and Refining , Map Ta Phut                              .                           Page            8
+
 Tank No.    945-TK1B
 Dip        Volume       Dip        Volume       Dip        Volume *          Fraction
-cms         Litres      cms         Litres      cms         Litres *
-360       430,754      400       478,349      440       525,943 *
-361       431,944      401       479,539      441       527,133 *
+cms          Litres      cms          Litres      cms          Litres *
+360       430,754      400       478,349      440 .     525,943 *
+361       431,944.      401       479,539      441       527,133 *
 362       433,134      402       480,729      442       528,323 *
-363       434,324      403       481,918      443       529,513 * From        0 cms
-364       435,514      404       483,108      444       530,703 *    To     1196 cms          ]
-365       436,703      405       484,298      445       531,893 *                               |
-366       437,893      406       485,488      446       533,083 *
+363      434,324      403      481,918      443       529,513 * From        0 cms
+364       435,514      404       483,108      444       530,703 *    To     1196 cms
+365       436,703      405       484 298      445       531,893 *
+366       437,893      406       ‘485,488      446       933,083 *
 367       439,083      407       486,678      447       534,273 *
-368       440,273      408       487 868      A448       535,462 *
-369      441,463      409      489,058      449       536,652 * mm.    Litres
+368       440,273      408       487 868      448       535,462 *
+369       441,463      409       489,058      449       536,652 * mm.     Litres
 370       442,653      410       490,247      450       537,842 *      1       119
 371       443,843      411       491,437      451       539,032 *      2      238
 372       445,033      A12       492,627      452       540,222 *     3      357
-373       446,222      413       493,817      453       541,412 *      4      476
-374       447,412      414    ' 495,007      454       542,602 *      5      595
-375     448,602     415     496,197     455      543,791 *    6     714
-376      449,792     A16     497,387     456      544,981 *    7     833
-377     450,982     417     498,577     457      546,171 *    8     952
-378     452,172     418     499,766     458     547,361 *    9    1071
-379     453,362    419    _ 500,956    A459     548,551 *
+373       446 222      413       493,817      453       541,412 *      4      476
+374       447,412      414    ~ 495 007      454       542,602 *      5      595
+375      448,602     415      496,197     455      543,791 *    6     714
+376      449,792     416      497 387     456      544,981 *    7     833
+377      450,982     417      498,577     457      546,171 *    8     952
+378     452,172     418     499,766     458      547,361 *    9    1071
+379       453,362      419     . 500,956      459       548,551 *
 380     454,551     420      502,146     460      549,741 *
-381      455,741     421      503,336     461      550,931 *                        [
+381      455,741     421      903,336 | 461      550,931 *
 382      456,931     422     504,526     462      552,121 *
-383       458,121      423       505,716      463       553,310 *
-384       459,311      424       506,906      464       554,500 *             |
-385      460,501      425      508,095      465      555,690 *                    i
-386       461,691      426       509,285      466       556,880 *                         |
-387       462,881      427       510,475      467       558,070 *         ล    A    }
-388       464,070    - 428       511,665      468       559,260 *         at  a 2          |
-389       465,260      429       512,855      469       560,450 *         we {2            |
-.            |
-390       466,450      430       514,045      470       561,639 *     “)   fe     |
-391       467,640      431       515,235      471       562,829 *     จ4 NY,
-392       468,830      432       516,425      A472       564,019 *       ๕๑ะ NY        |
-393         470,020       433         517,614        473         565,209 *             ร              |
+383       458,121       423       505,716      463       553,310 *
+384       459,311      424       506,906      464       554,500 *
+385       460,501      425       508,095      465       555,690 *
+386       461,691      426       509,285      466       556,880 *
+387       462,881      427       510,475      467       558,070 *
+388       464,070    . 428       511,665      468       559,260 *
+389       465,260      429       512,855      469       560,450 *
+390       466,450      430       514,045      470       561,639 *
+391        467,640      431.       §15,235       471        562,829 *
+392       468,830      432       516,425      472       564,019 *
+393       470,020      433       517,614      473       565,209 *
 394       471,210      434       518,804      474       566,399 *
-395       472,399      435       519,994      475       567,589 *                               1
-396      473,589      436      521,184      476       568,779 *
+395       472,399      435       519,994      475       567,589 *
+396      473,589      436       521,184      A476       568,779 *
 397       474,779      437       522,374      477       569,969 *
-398       475,969      438       523,564      478       571,158 *                               .
-399       477,159      439       524,754      479       572,348 *                               |
-ร 6วะระวะระวววเวววววว หาซ์จวะรเว6วะวว่วเวเรววหวารงวะวว ววอรร่ะระร่ร่อรแร่อร์(วัะว์6วดร่๒ร่อร่อรร่อ่ง(ร่อร่อร์6ร่อจแร่อร่ะวแว่อว่ะว่ะรแวอระอะข่ว่ะร์ะว่ะว่ะวแว่ยร6ระจ่ะระระรแร่ะรถร่อร่อรว่ะ
-Computed By  Yo?        ps Sz,     Approved By =                      |
-3           ปร                                      Vv
-1 กรุ ล             EX€1SE_ OFFICER _
-Intertek Testing Services (ไห้ผ่เสัทซีอง         (นายมานะ ฉินทองประเสริฐ)                   ก
-ee”           ธะดรสดิสรญูโยธาชํานาญการ                          )
-Se         Sa                                   .
-Certified By -          อ                  fF             XQ                           |
-Oz
-      PTT. Aromatics and Refining Public Co., Ltd.                                                  |
-romat           g               ~   ‘FIR? 2
-;                                                                                                        ๒ กร Purine COM
-Intertek Testing Services (Thailand) Ltd.                                                            |
-Suite 601 B, Monririn Building, 60/1 Phaholyothin 8, Phaholyothin Road, Samsaennai, Phayathai, Bangkok 10400, Thailand. Tel: +66 2 279-5040 (Auto12 Lines)  Fax: +66 2 270-1878-9 www.intertek.com                 ;
+398       475,969                             478       571,158 *
+399       477,159                             479       572,348 *
+
+Computed By    ra
+
+Intertek Testing Services (Tha
+
+Approved By ร .
+EXCISE OFFICER
+
+(นายมานะ ฉินทองประเสริฐ)
+
+Certified By -
+
+PTT. Aromatics and Refining Public Co., Ltd.
+
+Intertek Testing Services (Thailand) Ltd.
+
+Suite 601 B, Monririn Building, 60/1 Phaholyothin 8, Phaholyothin Road, Samsaennai, Phayathai, Bangkok 10400, Thailand. Tel: +66 2 279-5040 (Auto12 Lines)  Fax: +66 2 270-1878-9 www.intertek.com
+
+PINS NE ORI RN ETM IY IL EL VILL, OPINED FIP EAN SEL LN BN EM OOP SE SEL HUN NBN IA CRIA BADLY WANA AN IN RD I pet A PM PSE
 
 --- Page 11 ---
-Intertek
-PTT. Aromatics and Refining , Map Ta Phut                                                  Page          9                    |
-Tank No.      945-TK1B                                                                                                   |
-Dip            Volume           Dip             Volume           Dip             Volume *                Fraction                  .
-cms                Litres          cms                Litres          ems                Litres *
-480            573,538           520            621,124          560            668,708 *
-481          574,728         521           622,314         561           669,898 *
-482          575,918         522          623,503         562          671,088 *
-483            577,108           523            624,693          563            672,277 * From              0 cms
-             484         578,298        524          625,882        564          673,467 *      To       1196 cms
-485            579,487           525            627,072          565            674,656 *
-486            580,677           526            628,262           566            675,846 *
-487            581,867           527            629,451           567            677,036 *
-488            583,056           528            630,641 ~— 568            678,225 *
-489          584,246         529          631,830         569          679,415 * mm.       Litres
-490            585,436           530             633,020           570             680,604 *          1            119                          |
-491           586,625         531           634,210         571           681,794 *        2         238                      '
-492          587,815         532          635,399         572           682,984 *        3         357                      |
-493          589,004         533          636,589         573          684,173 *        4         476                     i
-494           590,194          534           637,779          574           685,363 *         5          595
-495            591,384           535            638,968          575            686,553 *         6           714                          |
-496          592,573         536          640,158         576          687,742 *        7         833                     |
-497            593,763           537            641,347          577            688,932 *         8           952
-498        994,953       538        642,537       578        690,121 *      9      1071
-:       499        596,142       539        643,727       579        691,311 *
-500        597,332       540        644,916       580         692,501 *
-501          598,521         541           646,106         581           693,690 *                                            |
-502          599,711 .      542          647,295         582          694 880 *
-503            600,901           543            648,485           583            696,069 *
-504            602,090           544            649,675          584            697,259 *                               .                     |
-505            603,280           545            650,864          585            698,449 *                                                    |
-506            604,469           546            652,054          586            699,638 *                                 .                   |
-507            605,659           547            653,243          587            700,828 * f        Ae &y                   |
-508            606,849           548            654,433          588            702,017 *             ie
-509            608,038           549            655,623          589            703,207 *                Ne poe                      ง
-:    Ceo // |
-510                609,228              550                656,812              590                704,397 *       ey     =       เฉท                 |
-511            610,417           551             658,002          591             705,586 *          ey     ca”   a                |
-512          611,607         552           659,192         592           706,776 *            ช๊รรมณ์                   1
-513          612,797         553          660,381         593          707,966 *               |                             |
-514            613,986           554            661,571           594            709,155 *
-515       615,176       555        662,760       595        710,345 *                                 |
-516            616,366           556             663,950           596             711,534 *
-517       617,555       557        665,140       597        712,724 *                                 |
-518       818,745       558        666,329       598        713,914 *                                 |
-519       619,934       559        667,519       599        715,103 *
-Computed By     2                   2 Approved By      ๒                     ก                     ป
-ธ์  a                        EXCISE OFFICER                                            1
-Intertek Testing Services (Thafaad) โช้6                 (นายมานะ  ฉินทองประเสริฐ)                               1
-๒๕7                    <i   วิศวกรโยชาชํานาญการ                                          |
-Certified 2 Aw __         ๒                                                                1
-TT. Aromatics and Refining Public Co., Ltd.    ‘a   @                                              |
- ๕6 2                 5.
-.                                                                  Ld Re Puke Cos any
+' ไทเลเหล!«
+
+PTT. Aromatics and Refining , Map Ta Phut                                                   Page           9                    |
+Tank No.    945-TK1B                                                                         |
+Dip        Volume       Dip        Volume       Dip        Voiume *          Fraction
+cms          Litres      cms          Litres      cms          Litres *
+480       573,538      520       621,124      560       668,708 *
+481       574,728      521       622,314      561       669,898 *
+482       575,918      522       623,503      562       671,088 *
+483      577,108      523      624 693     563      672,277 * From       0 cms
+484       578,298       524        625,882       564        673,467 *     To      1196 cms
+485       579,487      525       627,072      565       674,656 *
+A486       580,677      526       628,262      566       675,846 *
+487        581,867       527        629,451       567        677,036 *
+488        583,056       528        630,641       568        678,225 *
+489         584,246        529         631,830        569         679,415 * mm.      Litres
+490         585,436         530          633,020        570          680,604 *        1         119
+491        586,625       531        634,210       571        681,794 *      2       238
+492       587,815      §32       635,399      572       682,984 *      3      357
+493       589,004      533       636,589      573       684,173 *      4      476
+494        590,194       534        637,779       574        685,363 *      5       595
+495        591,384       535        638,968       575        686,553 *      6       714
+496        592,573       536        640,158       576        687,742 *     7       833
+497       593,763      537       641 347      577       688,932 *      8      952
+498      594,953     538      642,537     578      690,121 *     9    1071
+499         596,142        539         643,727       579         691,311 *
+500         597,332        540         644,916       580         692,501 *
+501       598,521       541       646,106      581       693,690 *
+502       599,711       542       647,295      582       694,880 *
+503       600,901       543       648,485      583       696,069 *
+504       602,090      544       649,675      584       697,259 *
+505       603,280      545       650,864      585       698,449 *
+506       604,469      546       652,054      586       699.638 *
+507        605,659       547        653,243       587        700,828 *
+508        606,849       548        654,433       588        702,017 *
+509        608,038       549        655,623       589        703,207 *
+510        609,228       550        656,812       590        704,397 *
+511         610,417        551          658,002        591          705,586 *
+512       611,607      552       659,192      592       706,776 *
+513       612,797      553       660,381      593       707,966 *
+514       613,986      554       661,571      594       709,155 *
+515       615,176      555       662,760      595       710,345 *
+516         616,366        556         663,950        596         711,534 *
+517       617,555       557       665,140      597        712,724 *
+518       618,745                               598        713,914 *
+519       619,934                                599        715,103 *
+
 Intertek Testing Services (Thailand) Ltd.
-Suite 601 B, Monririn Building, 60/4 Phahelyothin 8, Phaholyothin Road, Samsaennai, Phayathai, Bangkok 10400, Thailand. Tel: +66 2 279-5040 (Auto#2 Lines) Fax: +66 2 270-1878-9 www.intertek.com               i
+
+Suite 601 B, Monririn Building, 60/4 Phaholyothin 8, Phaholyothin Road, Samsaennai, Phayathai, Bangkok 10400, Thailand. Tei: +66 2 279-5040 (Autot2 Lines) Fax: +66 2 270-1878-9 www.intertek.com
+
+EXCISE OFFICER
+(นายมานะ นินทองประเสริฐ)
+
+/
+
 
 --- Page 12 ---
 Intertek
-PTT. Aromatics and Refining , Map Ta Phut                                                Page         10
-Tank No.      945-TK1B
+
+PTT. Aromatics and Refining , Map Ta Phut                |                                    Page         10
+
+Tank No.    945-TK1B
 Dip         Volume       Dip         Volume        Dip         Volume *           Fraction
-cms          Litres      cms           Litres      cms           Litres *                                  |
-600             716,293           640             763,877           680            811,468 *
-601           717,482         641           765,067         681           812,659 *
-602               718,672            642               766,256             682               813,849 *
-603           719,862          643           767,446          683           815,039 * From             0 cms
-604              721,054            644              768,636            684              816,230 *        To          1196 cms
-605          722,241         645           769,825         685          817,420 *
-606          723,430         646           771,015         686          818,610 *
-607          724,620         647           772,205         687          819,800 *
-608         725,810       648         773,394        688         820,991 *
-609        726,999       649         774,584       689        822,181 * mm.      Litres
-610        728,189      650        775,773      690       823,371 *      1       119
-611            729,379          651            776,963          691            824 561 *         2          238
-612               730,568             652               778,153             692               825,752 *            3             357
-613          731,758         653          779,342         693          826,942 *        4         476                     j
-614               132,947             654               780,532             694               828,132 *            5             595
-615        734,137      655        781,721       695        829,322 *      6      714
-616             735,327           656             782,911           696            830,513 *          7           833
-617           736,516          657           784,101          697           831,703 *         8          952                        |
-618        737,706      658       °785,290      698       832,893 *      9     1071
-619          738,895         659          786,480         699          834,084 *
-*                                                é
-620       740,085      660        787,669      700        835,274 *
-621            741,275          661            788,859          701            836,464 *                                                |
-622       742,464      662        790,049      702        837,654 *                                |
-623           743,654          663           791,238          703           838,845 *
-624           744,843         664           792,428          704           840,035 *                                                |
-625          746,033         665          793,618         705          841,225 *
-626          747 223        666         -794,807        706          842,415 *             ์             }             |
-627        748,412       667         795,997       707        843,606 *           Rit   at ย           |
-628           749,602          668           797,186          708           844,796 *                Soe
-629           750,792 669           798,376 709           845,986 *                 C5                  |
-630           751,981          670           799,566          710           847,177 *       Cy  % 53  Es
-631          753,171        671          800,756        711          848,367 *          Vay ก           |
-632            754,360           672             801,946           712            849,557 *                    e ว                    i
-633           755,550         673           803,137          713 |         850,747 *                                                |
+cms          Litres      cms           Litres      cms          Litres *
+600          716,293        640          763,877        680          811,468 *
+601        717,482      641        765,067      681        812,659 *
+602       718,672      642        766,256      682       813,849 *
+603       719,862      643       167,446      683       815,039 * From        0 cms
+604       721,051      644       768,636      684       816,230 *    To     1196 cms
+605       722,241      645       769,825      685       817,420 *
+606       123,430      646       771,015      686       818,610 *
+607       724,620      647       172,205      687       819,800 *
+608         725,810       648         173,394       688         820,991 *
+609         726,999       649         114,584       689         822,181 * mm.      Litres
+610         728,189       650         775,773       690         823,371 *       1        119
+611        129,379       651        776,963       691        824 561 *      2       238
+612       730,568      652       778,153      692       825,752 *      3      357
+613       731,758      653       779,342      693       826,942 *      4      476
+614       132,947      654       780,532      694       828,132 *      5      595
+615       734,137      655       781,721      695       829 322 *      6      114
+616         735,327        656          782,911         696         830,513 *       7        833
+617       736,516      657       784,101      697       831,703 *      8      952
+618       737,706      658       ‘785,290      698       832,893 *      9     1071
+619       738,895      659       786,480      699       834,084 *
+620       740,085      660        787,669      700       835,274 *
+621       741,275      661       788,859      701       836,464 *
+622       742,464      662       190,049      702       837,654 *
+623       743,654      663       791,238      703       838,845 *
+624       744 843      664       792,428      704       840,035 *
+625       146,033      665       793,618      705       841,225 *
+626       147,223      666       ‘794,807      706       842,415 *
+627       748,412      667       795,997      707       843,606 *
+628       749,602      668       197,186      708       844,796 *
+629       750,792      669       798,376      709       845,986 *
+630       751,981       670       799, 566      710       847,177 *
+631        753,171       671        800,756      711        848 367 *
+632        754,360      672        801,946       712        849 557 *
+633       755,550      673       803,137      713 ©      850,747 *
 634       756,740      674        804,327      714       851,938 *
-635        757,929      675        805,517      715       853,128 *
-636       759,119      676        806,707      716       854,318 *
-637          760,308         677          807 898         717          855,508 *
-638       761,498      678        809,088      718       856,699 *                                |
-639           762,688          679           810,278          719           857,889 *                                                |
-Computed By      1D              LF               Approved By         Sy /                                     |
-6๒                          EXCISE OFFICER
-Intertek Testing Services (Th RED LGD ed               (นายมานะ ฉินทอ งประเสริฐ)                              ก!
-เสศรดดิมิงฏรโยชาชํานาญการ                                       .
-conte) _ ku) —                EA A           eo
-PTT. Aromatics and Refining Public Co.,Ltd. |    Ae
-                                                                  eS       oA x SY                                     |
-Refining Puntic CO"
-Intertek Testing Services (Thailand) Ltd.                                                                        า
-Suite 601 B, Monririn Building, 60/1 Phaholyothin 8, Phaholyothin Road, Samsaennai, Phayathai, Bangkok 10400, Thailand, Tel: +66 2 279-5040 (Auto12 Lines) Fax: «66 2 270-1878-9 www.intertek.com               i
+635        757,929      675        805,517       715        853,128 *
+636        759,119      676        806,707       716        854,318 *
+637       760,308      677       807,898      717       855,508 *
+638       761,498      678        809,088      718       856,699 *
+639       762,688      679       810,278      719       857,889 *
+
+วร่อะแว่อรอว่อร่อแวัดะข์(เอข่อรเร6ว6วไอวอว่อรอว่อรอะ ต้ะ ร่อววะ ว่ะว่ว๒ว ร่ยว๒ร(ร ร่ะชะ ว่อว่อรแวร์ว่ะวอร                           KEKKKKKIAEKKEEKERERRKAKEKKERREEREKEEEEEERTRIRERRRERREREREKEKREREERRREREREREE
+
+ / ERD
+Computed By   YD       ๕5%  4    Approved By
+
+Intertek Testing Services (Thana) ed
+
+/
+EXCISE OFFICER
+(นายมานะ ฉินทองประเสริฐ)
+
+Certified By                                                    " 7 ถี          ร
+ 1 . Aromatics and Refining Public Co., Ltd.      \         \ อื ott
+
+aS
+
+Intertek Testing Services (Thailand) Ltd.
+
+Suite 601 B, Monsirin Building, 66/1 Phaholyothin 8, Phaholyothin Road, Samsaennai, Phayathai, Bangkok 10400, Thailand. Tel: +66 2 279-5040 (Autoi2 Lines) Fax: +66 2 270-4878-9 www.intertek.com
+
 
 --- Page 13 ---
 Intertek
-PTT. Aromatics and Refining , Map Ta Phut                                                        Page          11
-Tank No.      945-TK1B
-Dip        Volume       Dip        Volume       Dip        Volume *          Fraction
-cms          Litres       cms          Litres       cms           Litres *
-720          859,079         760          906,690         800          954,301 *
-721          860,270         761          907,880         801          955,491 *
-722          861,460         762          909,071         802          956,681 *
-723       862,650      763       910,261       803       957,872 * From         0 cms
-724         863,840        764         911,451         804          959,062 *      To       1196 cms
-125       865,031       765       912,641       805       960,252 *
-726         866,221         766         913,832        806          961,443 *
-727             867,411            767              915,022            807              962,633 *
-728          868,601          768          916,212         808           963,823 *
-729               869,792             769               917,403             809               965,013 * mm.          Litres
-730        870,982       770        918,593       810        966,204 *      1       119
-731             872,172           771             919,783           811             967,394 *          2           238
+
+PTT. Aromatics and Refining , Map Ta Phut                                                             Page           11
+
+Tank No.    945-TK1B
+Dip        Volume       Dip        Volume       Dip        Volume *           Fraction
+cms          Litres       cms          Litres       cms          Litres *
+720      859,079     760      906,690     800      954,301 *
+721      860,270     761      907,880     801      955,491 *
+722      861,460     762      909,071     802      956,681 *
+723       862,650      763       910,261      803       957,872 * From        0 cms
+724       863,840      764       911,451      804       959,062 *    To     1196 cms
+725       865,031       765       912,641       805       960,252 *
+726       866,221      766       913,832      806       961,443 *
+727       867,411       767       915,022       807        962,633 *
+128       868,601       768       916,212       808        963,823 *
+729       869,792      769       917,403      809       965,013 * mm.     Litres
+730       870,982      770       918,593      810       966,204 *      1       119
+731        872,172      771       919,783      811        967,394 *      2      238
 732       873,363      772       920,973      812       968,584 *      3      357
-733          874,553         773          922,164         813          969,774 *        4         476
-734       875,743       774       923,354       814        970,965 *      5      595
-735          876,933         775          924,544         815          972,155 *        6         714
-736       878,124      176       925,734      816       973,345 *      7      833
-737          879,314         777          926,925         817          974,535 *        8         952
-738        880,504       778        928,115       818        975,726 *      9      1071
-739          881,694         779          929,305         819          976,916 *
-740          882,885         780          930,495         820           978,106 *
+733       874,553      173       922,164      813       969,774 *      4      476
+734        875,743       774        923,354       814        970,965 *      5       595
+735       876,933      775       924,544      815       972,155 *      6      714
+736       878,124      776       925,734      816       973,345 *      7      833
+137       879,314      777       926,925      817       974,535 *      8      952
+738       880,504      778       928,115      818       975,726 *      9     1071
+739       881,694      779       929,305      819       976,916 *
+740       882,885       780       930,495       820        978,106 *
 741        884,075       781        931,686       821        979,297 *
 742       885,265       782       932,876       822        980,487 *
-743       886,455       783       -934, 066       823        981,677 *                                 |
-744 .    887 646      784       935,257      824       982,867 *                “
+743       886,455       783       934,066       823        981,677 *
+744 . 887,646      784       935,257      824       982,867 *
 745       888,836      785       936,447      825       984,058 *
-746       890,026      786       937,637      826       985,248 *        |
-747          891,217         787          938,827         827          986,438 *         hue dy    if}
-748          892,407         788          940,018         828          987,628 *         “og
-749       893,597 789       941,208 829       988,819 *        ) "               1
-750       894,787      790       942,398      830       990,009 *    fe  / ey)        |
-751          895,978         791          943,588         831          991,199 * So SG EN              |
-752       897,168      792       944,779      832       992390 *  Navysaq ee
-753          898,358         793          945,969         833          993,580 *              emma
+746       890,026      786       937 637      826       985,248 *
+747       891,217      787       938,827      827       986,438 *
+748       892,407      788       940,018      828       987,628 *
+749       893,597      789       941,208      829       988,819 *
+750       894,787      790       942,398      830       990,009 *
+751        895,978       791        943,588       831        991,199 *
+752       897,168      792       944,779      832       992,390 *
+753        898,358       793        945,969       833        993,580 *
 754        899,548       794        947,159       834        994,770 *
 755       900,739      795       948,350      835       995,960 *
-756          901,929         796          949,540         836          997,151 *
-757        903,119       797        950,730       837        998,341 *
-758          904,310         798          951,920         838          999,531 *
-759        905,500       799        953,111       839      1,000,721 *
-RREREERKER KEE KEKREEER ERE ER ERE REE ETERERE REE IKE EK IER RRR ER ERERETRERERERRERERIE KEK ERR EEE ER ERKKE RK IRIEER ER ER 96ปววะวว6ว่ะรวะๆะจะว3           i
-Computed By    “a                Approved By                      WY                                  |
-                 sok OFFICER |                 |
-Intertek Testing Services (Thala) เษต              (นายมานะ ฉินทองประเสริฐ)                               |
-6 1 วิธีวิกรโชธงผู้งญาญการ
-Certified 9 ka ——          1   @ pit                                            |
-T. Aromatics and Refining Public Co., Ltd.      จ                cy                                             i
-Sand Refining Pubic                                             i
+756     901,929     796     949,540     836      997,151 *
+757     903,119     797     950,730     837      998,341 *
+758     904,310     798     951,920     838      999,531 *
+759     905,500     799     953,111     839    1,000,721 *
+
+ave
+
+EXCISE OFFICER _
+ฉินทองประเสริฐ)
+
 Intertek Testing Services (Thailand) Ltd.
-Suite 601 B, Monririn Building, 60/1 Phaholyothin 8, Phahotyothin Road, Samsaennai, Phayathai, Bangkok 10400, Thailand, Tel: +66 2 279-5040 {Auto12 Lines) Fax: +66 2 270-1878-9 www.intertek.com               i
+
+Suite 601 8, Monririn Building, 60/1 Phaholyothin 8, Phaholyothin Road, Samsaennai, Phayathai, Bangkok 10400, Thailand. Tel: +66 2 279-5040 {Auto12 Lines) Fax: +66 2 270-1878-9 www.intertek.com
 
 --- Page 14 ---
 Intertek
-PTT. Aromatics and Refining , Map Ta Phut                                                Page         12
-Tank No.    945-TK1B
-Dip        Volume       Dip        Volume       Dip        Volume *          Fraction
-cms          Litres      cms          Litres      cms           Litres *
-840      1,001,912      880      1,049,555      920      1,097,214 *
-841      1,003,102      881      1,050,746      921      1,098,406 *
-842      1,004,292      882      1,051,938      922      1,099,597 *
-843     1,005,483      883     1,053,129      923     1,100,789 * From        0 cms
-844      1,006,673      884      1,054,321       924      1,101,980 *    To     1196 cms          |
-845      1,007,863      885      1,055,512      925      4,103,172 *
-846      1,009,053      886      1,056,704      926      1,104,363 *
-847      4,010,244      887      1,057,895      927      1,105,555 *
-848      4,011,434      888      1,059,087      928      1,106,746 *
-849      1,012,624      889      1,060,278      929      1,107,938 * mm.     Litres
-850      1,013,814       890      1,061,470       930      1,109,129 *      1       119
-851     1,015,005     891     1,062,661     931     1,110,321 *     2     238
-852      1,016,195      892      1,063,853      932      1,111,512 *      3 . 357
-853      1,017,385       893      1,065,044       933      1,112,704 *      4       476
-854       1,018,576        894       1,066,236        934       1,113,895 *       5        595
-855      4,019,767      895      1,067 427      935      1,115,087 *      6      714
-856        1,020,959        896        1,068,619        936        1,116,278 *       7        833
-857      4,022,150      897      1,069,810      937      1,117,470 *      8      952
-858     1,023,342     898     1,071,002     938     1,118,661 *    9    1071
-859      1,024,533      899      1,072,193      939      1,119,853 *
-860      1,025,725       900      1,073,384       940      1,121,044 *
-861       1,026,916       901       1,074,576       941       1,122,236 *
-862      1,028,108       902      1,075,767       942      1,123,427 *                                  |
-863      1,029,299       903      1,076,959       943      1,124,619 *
-864      1,030,491       904      1,078,150      944      1,125,810 *                                i
-865      1,031,682      905      1,079,342      945      1,127,002 *                   ก!
-866      1,032,874      906      1,080,533      946      4,128,193 *                                |
-867      1,034,065      907      1,081,725      947      1,129,385 *
-868      1,035,257      908      1,082,916      948      1,130,576 *       ง   ah    y
-870      1,037,640       910      1,085,299       950      1,132,959 *         (ว
-871       1,038,831       911       1,086,491       951       1,134,151 *   A)    ว    &
-872      4,040,023       912      1,087,682       952      1,135,342 *     Os  ESS  aN
-873       4,041,214        913       1,088,874        953       1,136,534 *        “ธรรม2
-874      1,042,406       914      1,090,065       954      1,137,725 *                    |
-875      1,043,597       915      1,091,257       955      1,138,917 *
-876      1,044,789      916      1,092,448      956      1,140,108 *                               |
-877      1,045,980      917      1,093,640      957      1,141,300 *                                |
-878     1,047,172     918     1,094,831     958     1,142,491 *
-879      1,048,363      919      1,096,023      959      1,143,683 *
-KRREKEEEKE RIK IRK RRR ERER EERE 6ะจะร696ร่เว่ะรช่(9% ว63วทารเว3ะ2 ณันนวนแลนลนนน3้3้3้ากา III I
-oy in
-Computed By         )    GN   Approved By   Jou                    i
-3       «     อ เป                                              .
-เอ           EXC  | รันทองประ =                  '
-Intertek Testing Services (Thaifajad) บเทรชิต          เนายมานะ ฉนทองบประเสรฐ)                    |
-0ไ0 ฏรโยธา ชํานาญการ                                   1
-Certified By                 ?                             fe |           >                                        |
-. Aromatics and Refining Public Co., Ltd. *ุ en         AR  “
-Saigo                                     |
-Intertek Testing Services (Thailand) Ltd.         a                                                      |
-Suite 601 B, Monririn Building, 60/1 Phaholyothin 8, Phaholyothin Road, Samsaennai, Phayathal, Bangkok 10400, Thailand. Tel: +66 2 279-5040 (Auto12 Lines) Fax: +66 2 270-1878-9 www.intertek.com          i
+
+PTT. Aromatics and Refining , Map Ta Phut
+945-TK1B
+
+Tank No.
+
+Page      12
+
+HRREKE REE ERKIEK EE EERE EKER LER EE RIERA KEE EIR RENEE EER ERE PEREIRA Ra Ra I A a a a a az HREKEKEEK:
+
+Dip
+cms
+
+Volume
+Litres
+
+Dip
+cms
+
+Volume
+Litres
+
+Dip
+cms
+
+Volume *                  Fraction
+
+Litres *
+
+KEK HKKK KKK KREME EKER EKEKREEER ER ERIE ERE RERERKEIER RUEE EERE ERE ER TR REESE ICI aa Ra ac a aaa IR a a a I: a KEERKR ERE KEKE RKCEKEKE:
+
+840
+841
+842
+843
+844
+845
+846
+847
+848
+849
+
+850
+851
+852
+853
+854
+855
+856
+857
+858
+859
+
+860
+861
+862
+863
+864
+865
+866
+867
+8638
+869
+870
+871
+872
+873
+874
+875
+876
+877
+878
+879
+
+RRRKKKEKKE REE RREKERERERREKRRER TREE KERERERRR IR ERRREREEY REE ERE ETE ER EERIE ASIII IAI R RITES INI SRE NARS AINK INEST:
+
+Computed By       >
+4
+
+Certified By
+
+1,001,912
+1,003,102
+1,004,292
+1,005,483
+1,006,673
+1,007,863
+1,009,053
+4,010,244
+1,011,434
+1,012,624
+
+1,013,814
+1,015,005
+1,016,195
+1,017,385
+1,018,576
+1,019,767
+1,020,959
+4,022,150
+1,023,342
+1,024,533
+
+4,025,725
+1,026,916
+7,028,108
+1,029,299
+1,030,491
+1,031,682
+1,032,874
+1,034,065
+1,035,257
+1,036,448
+
+1,037,640
+1,038,831
+1,040,023
+4,041,214
+1,042,406
+1,043,597
+1,044,789
+1,045,980
+1,047,172
+1,048,363
+
+880
+881
+882
+883
+884
+885
+886
+887
+888
+889
+
+890
+891
+892
+893
+894
+895
+896
+897
+898
+899
+
+900
+901
+902
+903
+904
+905
+906
+907
+908
+909
+
+910
+911
+912
+913
+914
+915
+916
+917
+918
+919
+
+Intertek Testing Services (Thailand) Ltd.            2
+
+Suite 601 B, Monririn Building, 60/1 Phaholyothin 8, Phahotyothin Road, Samsaennai, Phayathal, Bangkok 10400, Thailand. Tel: +66 2 279-5040 (Auto12 Lines) Fax: +66 2 270-1B78-9 www.intertek.com
+
+1,049,555
+1,050,746
+1,051,938
+1,053,129
+1,054,324
+1,055,512
+1,056,704
+1,057,895
+1,059,087
+1,060,278
+
+1,061,470
+1,062,661
+1,063,853
+1,065,044
+1,066,236
+1,067 427
+1,068,619
+1,069,810
+1,071,002
+1,072,193
+
+1,073,384
+1,074,576
+1,075,767
+1,076,959
+1,078,150
+1,079,342
+1,080,533
+1,081,725
+1,082,916
+1,084,108
+
+4,085,299
+1,086,491
+1,087,682
+1,088,874
+1,090,065
+1,091,257
+1,092,448
+4,093,640
+1,094,831
+1,096,023
+
+. Aromatics and Refining Public Co., Ltd.
+
+920
+921
+922
+923
+924
+925
+926
+927
+928
+929
+
+930
+931
+932
+933
+934
+935
+936
+937
+938
+939
+
+959
+
+Approved By
+
+a"
+
+a>
+
+(นายมานะ ฉินทองประเสริฐ)
+
+-_
+
+65
+at
+
+am
+
+1,097,214 *
+
+1,098,406 *
+
+1,099,597 *
+
+1,100,789 * From
+1,101,980 *     To
+1,103,172 *
+1,104,363 *
+1,105,555 *
+1,106,746 *
+1,107,938 *
+1,109,129 *
+1,110,321 *
+1,111,512 *
+1,112,704 *
+1,113,895 *
+1,115,087 *
+1,116,278 *
+1,117,470 *
+1,118,661 *
+1,119,853 *
+
+0 cms
+1196 cms
+
+Litres
+
+mm.
+
+1
+2
+3
+4
+5
+6
+7
+8
+9
+
+119
+238
+357
+476
+095
+714
+833
+952
+1071
+
+1,121,044 *
+1,122,236 *
+1,123,427 *
+1,124,619 *
+1,125,810 *
+1,127,002 *
+1,128,193 *
+1,129,385 *
+1,130,576 *
+1,131,768 *
+1,132,959 *
+1,134,151 *
+1,135,342 *
+1,136,534 *
+1,137,725 *
+1,138,917 *
+1,140,108 *
+1,141,300 *
+1,142,491 *
+1,143,683 *
+
+V
+EXCISE OFFICER
+
+แสนาแลนตแนแนสํนเหอนตส่แอลสนอนรแลแลนานต้นนนสนวอแสนอสตอลนวอนออแอดานะอแสลนอะณา๒๒ษพพ ษัฐ พ นา ้จ้นวน3น3นาน3น3น3น3น3น3า3นาน3น3น31งัไนญไวไวไวัจัวจวงวงวงวงวงวโววโวโวโวโโโอเอเอเเเอเเเอน้(ห้(5ญ(ท้ 0
+
+a PANT ย๊ธา STUNTS
+
+เศรุคลรบจคคุรกอวราคอ
+
+ภุศรร“รครจารกแคคดกคคุรร
+
+PRY LOT OOTY COCAINE:
 
 --- Page 15 ---
-Intertek
-PTT. Aromatics and Refining , Map Ta Phut                                                       Page          13
-Tank No.      945-TK1B
-Dip             Volume           Dip             Volume           Dip            Volume *                Fraction
-cms                Litres          cms                Litres          cms                Litres *
-960      1,144,874      1000       1,192,534      1040      1,240,191 *
-961      1,146,066      1001      1,193,725      1041      1,241,381 *
-962      1,147,257      1002       1,194,917      1042      1,242,571 *
-:               963        1,148,449        1003        1,196,108       1043        1,243,761 * From            0 cms
-964         1,149,640         1004          1,197,300         1044         1,244,951 *        To         1196 cms                   |
-965     1,150,832     1005     1,198,491     1045     1,246,142 *
-966      1,152,023     1006      1,199,683     1046      1,247,332 *
-967        1,153,215       1007        1,200,874       1047        1,248,522 *
-968     1,154,406     1008     1,202,066     1048     1,249,712 *
-969        1,155,598       1009        1,203,257       1049        1,250,902 * mm.       Litres
-970         1,156,789         1010          1,204,449         1050         1,252,092 *          1           119
-971        1,157,981        1011         1,205,640        1051         1,253,283 *        2         238
-972         1,159,172         1012          1,206,832         1052         1,254,473 *          3          357
-973      1,160,364     1013      1,208,023     1053      1,255,663 *      4      476
-974         1,161,555         1014          1,209,215         1054         1,256,853 *          5          595
-975      1,162,747     1015      1,210,406     1055      1,258,043 *      6      714
-976      1,163,938     1016      1,211,598     1056      1,259,233 *      7      833
-977         4,165,130         1017         1,212,789         1057         1,260,423 *          8          952
-978      1,166,321      1018      1,213,981      1058      1,261,614 *      9     1071
-979      1,167,513     1019      1,215,172      1059      1,262,804 *                                |
-980      1,168,704     1020      1,216,364     1060      1,263,994 *
-981      1,169,896     1021      1,217,555      1061      1,265,184 *                                |
-982      1,171,087     1022      1,218,747     1062      1,266,374 *                                |
-983      1,172,279     1023      1,219,938     1063      1,267,564 *
-984      1,173,470     1024      1,221,130     1064      1,268,755 *                                i
-985     1,174,662     1025     1,222,321     1065     1,269,945 *         |
-986      1,175,853     1026      1,223,513     1066      1,271,135 *                                |
-987      1,177,045     1027      1,224,704     1067      1,272,325 *         ‘        4)           |
-988           1,178,236          1028           1,225,896          1068           1,273,515 *                 Se   ES    |                     |
-989         1,179,428         1029         1,227,087         1069         1,274,705 *                     !
-.                  é ก                      i
-990 1,180,619 1030 1,228,279 1070 1,275,895* “๑๐      oe
-991       1,181,810       1031        1,229,470       1071        1,277,086 *       ค     ซา5  NY,
-992        1,183,002       1032        1,230,662       1072        1,278,276 * ๕อ3-: เซ             า
-993 1,184,193 - 1033 1,231.853 1073 1,279,466 *                   0                       |
-994       1,185,385       1034       1,233,045       1074       1,280,656 *
-995         1,186,576         1035         1,234,236         1075         1,281,846 *                                                     |
-996         1,187,768         1036         1,235,428         1076         1,283,036 *                                                     |
-997         1,188,959         1037         1,236,619         1077         1,284,227 *          |
-998     41,190,151     1038 ~~ 1,237,810     1078     1,285,417 *
-999         4,191,342         1039         1,239,001         1079         1,286,607 *
-REESE, > ไตตตตุตัน         1
-Computed By       7”ีว               %)          อ Approved By       ro /                                             1
-  FS                       EXCISE OFFICER                                            |
-Intertek Testing Services (Thal ๑บ6              เนายมานะ ฉินทองประเสริฐ)                            '
-SE oe             จงนาญการ                                              ก.
-น guid)              '”                                                    1
-:                                                                            !
-PTT. Aromatics and Refining Public Co., Ltd.     ง ว   C)  G     ๕                                         กา
-Ww 2nd Refinina Pubic                                                           |
-Intertek Testing Services (Thailand) Ltd. ,.                                                                i
-Suite 601 B, Monririn Building, 60/1 Phaholyothin 8, Phaholyothin Road, Samsaennai, Phayathai, Bangkok 10406, Thailand, Tel: +66 2 279-5040 (Autot2 Lines) Fax: +66 2 270-1878-9 www.intertek.com                |
+แหทเลไล
+
+PTT. Aromatics and Refining , Map โล Phut                                                          Page          13
+
+Tank No.      945-TKiB
+
+REKKKKEKKEKEREREEREERKEEREERERERER ERIE RE EEER REE IER KERR REE EERE TIKI ES TAI RE AEE RRR RIERA KIRIN RAISER SIERRA EREERE:
+Dip        Volume       Dip        Volume       Dip        Volume *           Fraction
+cms          Litres      cms          Litres       cms          Litres *
+
+HEKEKKKREKEEKRRERERER EERE KERR RE REI ERE RERE EEK ER REE RR IKI IKE EIE EEE EER REE RERER ERE REIKI SKITS III IIT IASI IRIS SIEM ISIE
+
+960      1,144,874      1000      1,192,534     1040      1,240,191 *
+961           1,146,066          1001           1,193,725          1041           1,241,381
+962      1,147,257      1002      1,194,917      1042      1,242,571
+963      1,148,449      1003      1,196,108      1043      1,243,761
+964      1,149,640      1004      1,197,300      1044      1,244 951
+965      1,150,832     1005      1,198,491      1045      1,246,142
+966             1,152,023            1006             1,199,683            1046             1,247,332
+967            1,153,215            1007             1,200,874            1047            1,248,522
+968            1,154,406           1008            1,202,066           1048            1,249,712
+
+From              0 cms
+To         1196 cms
+
+969      1,155,598     1009      1,203,257     1049      1,250,902     mm.     Litres
+970      1,156,789     1010      1,204,449     1050      1,252,092        1       119
+971             1,157,981             1011              1,205,640            1051             1,253,283                 2              238
+972             1,159,172            1012             1,206,832            1052             1,254,473                 3              357
+973              1,160,364             1013              1,208,023             1053              1,255,663                  4               476
+974          1,161,555          1014          1,209,215          1054          1,256,853              5           095
+975      1,162,747     1015      1,210,406     1055      1,258,043        6      114
+976      1,163,938     1016      1,211,598     1056      1,259,233        fd      833
+977          1,165,130          1017          1,212,789          1057          1,260,423              8           952
+978      1,166,321      1018      1,213,981      1058      1,261,614        9     1071
+
+979      1,167,513     1019      1,215,172      1059      1,262,804
+
+980      1,168,704     1020      1,216,364     1060      1,263,994
+981           1,169,896          1021           1,217,555          1061           1,265,184
+982          1,171,087          1022          1,218,747          1062          1,266,374
+983      1,172,279      1023      1,219,938      1063      1,267,564
+984      1,173,470     1024      1,221,130      1064      1,268, 755
+985      1,174,662     1025      1,222,321      1065      1,269,945
+986      1,175,853     1026      1,223,513      1066      1,271,135
+987      1,177,045     1027      1,224,704     1067      1,272,325
+988      1,178,236     1028      1,225,896      1068      1,273,515
+989              1,179,428             1029              1,227,087              1069              1,274,705
+
+990      1,180,619      1030      1,228,279      1070      1,275,895
+991             1,181,810            1031             1,229,470            1071             1,277,086
+992          1,183,002         1032          1,230,662         1072          1,278,276
+993      1,184,193 .+- 1033      1,231,853      1073      1,279,466
+994             1,185,385            1034             1,233,045            1074             1,280,656
+995           1,186,576            1035             1,234,236            1075             1,281 846
+996             1,187,768            1036             1,235,428            1076             1,283,036
+997      1,188,959      1037      1,236,619      41077      1,284,227
+998          1,190,151          1038 , 1,237,810         1078          1,285,417
+999             1,191,342             1039              1,239,001             1079              1,286,607 *
+
+RIKKEKAKERER EERE RERREREREREEEEIIREREERERE RETR R RR: G              KH KKKEKFCKEKEREREEERERIE REE EE ERERRERERER วั6วร่6รอร์อวดวอรว่อร่องว่ถว่อรไอร์6ว6รัอร่อร่อรแว่อรไดวอวรอรอรวีแระงะว์ะอร”
+
+Computed By        ภ์)
+
+เสสล้ญินณณณณ ซ้ษ เษ ซ้ ณัวง ร โโันโ โ 11.13: 3531ไฝ็ฝซโขชขป7ป็ิืจ
+
+%*
+
+i
+EXCISE OFFICER
+
+Intertek Testing Services (Thailand) Ltd.
+
+Suite 6017 B, Monririn Building, 60/1 Phaholyothin 8, Phaholyothin Road, Samsaennai, Phayathai, Bangkok 10406, Thailand. Tel: +66 2 279-6040 (Autot2 Lines) Fax: +86 2 270-1878-9 www.intertek.com
+
+.
+
+VPRO IN He Dt tet Smtr Beem NE NOE YE IY EINES OMY ELIS IG TRIM IM AMES ANA ALG On
 
 --- Page 16 ---
 Intertek
-PTT. Aromatics and Refining , Map Ta Phut                                                   Page         14
-Tank No.      945-TK1B
-Dip        Volume       Dip        Volume       Dip        Volume *          Fraction
-cms          Litres      cms          Litres      cms          Litres *
-KKK KEKEKK KEKE KK EK KEK EERE REE ERIE ERR EE KERRIER A KE EEK KE EE REKEK EEE TE KEEEEK ระว่ะร่ะว๊ะ THK KEK KEE RE KEK REET REE EEE KERR ERE EE EERE RRR EREEE
-1080      1,287,797      1120      1,335,403      4160      1,383,010 *
-1081      1,288,987      1121       4,336,593      1161       1,384,200 *
-1082      1,290,177      1122      4,337,784      1162      1,385,390 *
-1083      1,291,368     1123      1,338,974     1163      1,386,580 * From        0 cms          |
-1084     1,292,558     1124      1,340,164     1164      1,387,770 *    To     1196 cms
-1085      4,293,748      1125      1,341,354     1165      1,388,960 *
-1086      1,294 938     1126      1,342,544     1166      1,390,150 *
-1087       1,296,128       1127       1,343,734       1167       1,391,341 *
-1088       1,297,318       1128       1,344,925       1168       1,392,531 *
-1089       1,298,508       1129       1,346,115       1169       1,393,721 * mm.      Litres
-1090     1,299,699     1130     1,347,305     1170     1,394,911 *     1      119
-1091     1,300,889     1131     1,348,495     1171     1,396,101 *     2      238
-1092           1,302,079          1132           1,349 685          1172           1,397,291 *           3            357
-4093     4,303,269     1133     1,350,875     1173     1,398,482 *     4      476
-1094           1,304,459          1134           1,352,065          1174           1,399,672 *           5            595
-1095        1,305,649       1135        4,353,256       1175        1,400,862 *        6         714
-1096        4,306,840       1136        1,354,446       1176        1,402,052 *        7         833
-1097      1,308,030     1137      1,355,636     1177      41,403,242 *      8      952
-1098      4,309,220     1138      4,356,826     1178      1,404,432 *      9     1071
-1099      1,310,410      1139      1,358,016      1179      1,405,623 *                                  |
-1100      1,311,600      1140      1,359,206      1180      1,406,813 *
-1101        1,312,790        1141         1,360,397        1184         1,408,003 *
-4102        41,313,980        1142        1,361,587        1182        1,409,193 *
-1103        1,315,171        1143        1,362,777       1183        1,410,383 *
-1104        1,316,361        1144        1,363,967       14184        1,411,573 *
-4105        1,317,551        1145        1,365,157       1185        1,412,763 *                                          |
-1106      1.318,741      1146      1,366,347      1186      1,413,954 *                                  |
-4107       1,319,931       1147       1,367,538       1187       1,415,144 *        ป     a  J
-1108      1,321,121      1148      1,368,728     1188      1,416,334 *,      ห สง 2              ก.
-1109      1,322,312      1149      1,369,918      1189      1,417,524 *                ก]
-1111        1,324,692       1151        1,372,298       1191        1,419,904 * \&   SERS  62%            |
-1112        1,325,882        1152        1,373,488        1192        1,421,095 *      Uae OA               |
-1113      1,327,072     1153      1,374,678     1193      1,422,285 *         oN                ;
-1114      4,328,262      1154      1,375,869     1194      1,423,475 *
-1115      1,329,453      1155      1,377,059     1195      1,424,665 *
-1116      1,330,643      1156      1,378,249     1196      1,425,855 *
-1117       1,331,833       1157       1,379,439                               *
-1118         1,333,023         1158          1,380,629                                         *
-4119     1,334,213     1159     4,381,819                      *                            |
-เพพันไฟ่เฟ่ฟ์น่นีนน่นนปนนผ่ฟันน่นพ่ฟนผ่นนนต่แพ่นนนมซนนนเลย £S Cort ป ฏารรรศรสรล   ป# ร่ว6ว3 วะ96วเว่ะรวเว่ะวะ*%ววาเราหาว6* วะ7:            |
-Computed By                           Gf Na = Approved By      ba /                               |
-ง         จ                    EXCISE OFFICER                                 |
-Intertek Testing Services (โทลาัคตุปู)ไซร์หอย           เนายมานะ  ฉินทองประเสริฐ)                    !
-Fone ere GLE ชํานาญการ                         !
-og                              ด                        ๕5   ว           ๒@                                       |
-cened sy fa) __       6 ptt                                              |
-PTT. Aromatics and Refining Public Co., Ltd.     a          AR  9                                        |
-ว Refining บบน                                               .
-Intertek Testing Services (Thailand) Ltd.                                                                  |
-Suite 601 B, Monririn Building, 60/1 Phaholyothin 8, Phaholyothin Road, Samsaennai, Fhayathai, Bangkok 10400, Thaitand. Tel: +66 2 279-5040 {Auto12 Lines) Fax: +66 2 270-1878-9 www.intertek.com
+
+PTT. Aromatics and Refining , Map Ta Phut                                                       Page          14
+Tank No.         945-TK1B
+Dip             Volume            Dip             Volume            Dip             Volume *                 Fraction
+
+cms                Litres          cms                 Litres          cms                 Litres *
+1080     1,287,797     1120     1,335,403     1160     1,383,010 *
+1081            1,288,987           1121             1,336,593           1161             1,384,200 *
+1082           1,290,177          1122           1,337,784          1162           1,385,390 *
+1083           1,291,368          1123           1,338,974          1163           1,386,580 * From                0 cms
+1084           1,292,558          1124           1,340,164          1164           1,387,770 *         To          1196 cms
+1085           1,293,748          1125           1,341,354          1165           1,388,960 *
+1086          1,294 938          1126          1,342,544         1166          1,390,150 *
+1087     1,296,128     1127     1,343,734     1167     1,391,341 *
+1088     1,297,318     1128     1,344,925     1168     1,392,531 *
+1089            1,298,508           1129            1,346,115           1169            1,393,721 * mm.           Litres
+1090            1,299,699           1130            1,347,305           1170            1,394,911 *            1              119
+1091     1,300,889     1131     1,348,495     1171      1,396,101 *     2      238
+4092           1,302,079          1132           1,349 685          1172           1,397,291 *           3            357
+1093            1,303,269           1133            1,350,875           1173            1,398,482 *           4             476
+1094            1,304,459           1134            1,352,065           1174            1,399,672 *            5             595
+1095            1,305,649           1135            1,353,256 .         1175            1,400,862 *            6             714
+1096            1,306,840            1136             1,354,446            1176             1,402,052 *            7              833
+1097          1,308,030          1137           1,355,636          1177           1,403,242 *          8            952
+1098           1,309,220           1138            1,356,826           1178            1,404,432 *            9           1071
+
+1099      1,310,410      1139      1,358,016     1179      1,405,623 *
+
+1100           1,311,600          1140           1,359,206          1180           1,406,813 *
+
+1101      1,312,790      1141      1,360,397     118%      1,408,003 *
+41102      1,313,980      1142      1,361,587     1182      1,409,193 *
+1103      1,315,171      1143      1,362,777      1183      1,410,383 *
+1104      1,316,361      1144      1,363,967     1184      1,411,573 *
+1105      1,317,551      1145      1,365,157     1185      1,412,763 *
+1106      1,318,741      1146      1,366,347     1186      1,413,954 *
+1107      1,319,931      1147      1,367,538     1187      1,415,144 *
+1108      1,321,121      1148      1,368,728     1188      1,416,334 *,
+1109      1,322,312      1749      1,369,918     1189      1,417,524 *
+1110      1,323,502      1150      1,371,108     1190      1,418,714 *'
+1111           1,324,692          1151           1,372,298          1191           1,419,904 * —
+1112          1,325,882          1152           1,373,488          1192           1,421,095 *
+1113          1,327,072          1153           1,374,678          1193           1,422,285 *
+1114          4,328,262          1154           1,375,869          1194           1,423,475 *
+1115           1,329,453          1155           1,377,059          1195           1,424,665 *
+1116          1,330,643          1156           1,378,249          1196           1,425,855 *
+1117      1,331,833      1157      1,379,439                         *
+1118          1,333,023          1158           1,380,629                                              *
+1119      1,334,213      1159      1,381,819                         .
+
+RARER RRR EERE REE EERE REREREITEEREKEKEREERKE KKK
+
+PK IESE Deed ศรรคสตชตครชโรจ าไวปปัปไล์สไรรนรรรรรรรนวทนทบวรทรด
+ง»  1
+Computed By     ”ีว)                       /(-:             Approved By             g              ป
+
+|             EXCISE OFFICER
+Intertek Testing Services (ไทลลั           เนายมานะ ฉินทองประเสริฐ)
+
+พต
+
+รณะอ9และวิญรจัคโยธาชํานาญการ
+
+ด
+
+Certified By
+
+PTT. Aromatics and Refining Public Co., Ltd.
+
+Intertek Testing Services (Thailand) Ltd.
+
+Suite 601 B, Monririn Building, 60/1 Phaholyothin 8, Phaholyothin Road, Samsaennal, Phayathai, Bangkok 10400, Thailand. Tel; +66 2 279-5040 (Auto12 Lines) Fax: +66 2 270-1878-9 www.intertek.com
+
+SF PPLE NAIL OG PINAL DILTON III ON OU NN P PLY LIN OEY ES FLOP INI ESAS AL ALT AOD IOYY TE NENT ADE RANE POS NIE PID IROL OTE TID FUT TOPLAS ANA ONLY YL HA ALS HARNED EAD PAOD Wm pn IVE FTE VI
+
+BROOM IND TT YETI ITE IO IOV IIIT III LO ST:        เคตภคญูจอย2ภะ"7จะ7        rR
 
 --- Page 17 ---
-Intertek                                                 fi          ~                           |
-SUMMARY OF VOLUME    Dow    Page 1 of 2
-PTT. Aromatics and Refining , Map Ta Phut                       Cs
-Tank No. — 945-TK1B                            D\ pie / me                            |
-KKK KKKK IRE KEE IKKE EK RR IRIE IER EKER EIR ERIKA KIKI KK RIS EKA III IC  Re   ‘ cee ERY KKK REK KER EEK EEK   .
-Effective Height *       Net Volume *         Total   es    Total Volume
-*                               *                                      gs
-cms *    cms *           Lts/cms *         At Each Level *                   Litres
+Intertek
+
+PTT. Aromatics and Refining , Map Ta Phut
+Tank No.      945-TK1IB
+
+HEKKKKKKE KE KIKI IKK KEIR ERIE KEE REE ERRERIKIKRIKE KERIKERI
+
+RREREKRKEKKEKEREEKRERE
+
+Effective Height *       Net Volume *          Total                    Total Volume
+cms *     cms *           Lts/cms *         At Each Level! *                   Litres
 0 *      0 *                 *                    *            2,807.0000
-0 *      12 *       1,187.9662 *          14,255.5944 *            17 ,062.5944
-12 *     13 *       1,187.5250 *          1,187.5250 *            18,250.1194
-13 *     14 *       1,187.0656 *          1,187.0656 *           19,437.1850
-14 *     15 *       1,187.0656 *          1,187.0656 *           20,624.2506
-15 *     16 *      1,187.0451 *         1,187.0451 *          21,811.2957
-16 *     18 *       1,187.0365 *          2,374.0730 *            24, 185.3687
-18 *      19*       1,187.0365 *           1,187.0365 *            25,372.4052               i
+0 *      12 *        1,187.9662 *          14,255.5944 *            17,062.5944
+12 *      43 *       1,187.5250 *           1,187.5250 *            18,250.1194
+13 *      14 *        1,187.0656 *           1,187.0656 *            19,437.1850
+14 *      15 *        1,187.0656 *           1,187.0656 *            20,624.2506
+15 *     16 *       1,187.0451 *          1,187.0451 *           21,811.2957
+16 *      18 *       1,187.0365 *           2,374.0730 *            24, 185.3687
+13 *      19 *        1,187.0365 *           1,187.0365 *            25,372.4052
 19 *     20 *        1,186.6672 *           1,186.6672 *            26,559.0724
-20 *    21 *      1,187.4891 *         1,187.4891 *         27,746.5615            |
-21 *    22 *      1,187.4891 *         1,187.4891 *         28,934.0506           |
-22 *     23 *       1,186.8106 *           1,186.8106 *            30,120.8612              :
-23 *     24 *       1,186.8106 *     ,     1,186.8106 *           31,307.6718              |
-24 *     25 *       1,186.7586 *          1,186.7586 *           32,494.4304              |
-25 *     26 *       1,187.5888 *          1,187.5888 *           33,682.0192              |
-26 *     30 *       1,187.5888 *          4,750.3552 *            38, 432.3744
-30 *     31 *       1,187.3964 *          1,187.3964 *           39,619.7708
-31 *     32 *       1,187.7657 *           1,187.7657 *            40,807.5365
-32 *     35 *       1,187.7657 *          3,563.2971 *            44,370.8336              |
-35 *     36 *      1,187.4731 *         1,187.4731 *          45,558.3067             |
-36 *     40 *       1,187.4731 *          4,749.8924 *            50,308.1991      “         !
-40 *     41 *       1,187.8147 *           1,187.8147 *            §1,496.0138              |
-41 *     43 *       1,187.8147 *          2,375.6294 *            53,871.6432              |
-43 *     44 *       1,188.5274 *           1,188.5274 *            55,060.1706
-44 *     52 *       1,189.2939 *          9,514.3512 *            64,574.5218              |
-52 *     53 *       1,189.3643 *          1,189.3643 *            65,763.8861               |
-53 *     104 *       1,189.3643 *          60,657.5793 *           126,421.4654
-104 *    105 *       1,188.6516 *           1,188.6516 *           127 610.1170              |
-105 *    106 *       1,187.8851 *          1,187.8851 *          128,798.0021             |
-106 *    242 *       1,187.8851 *        161,552.3736 *           290,350.3757              |
-242 *    243 *       1,189.2725 *           1,189.2725 *           291 ,539.6482              |
-243 *    485 *       1,189.8671 *        287 ,947.8382 *           579,487.4864              |
-A85 *    486 *       1,189.6878 *           1,189.6878 *           580,677.1742               |
-486 *    669 *       1,189.6110 *        217, 698.8130 *           798,375.9872
-669 *    670 *       1,189.7429 *           1,189.7429 *           799,565.7301               |
-670 *    853 *       1,190.2705 *        217,819.5015 *         1,017,385.2316
-853 *    854 *       1,190.5153 *           1,190.5153 *         1,018,575.7469
-854 * 1037 *       1,191.4945 *    218,043.4935 *         1,236,619.2404
-1037 * 1038 *       1,191.2269 *           1,191.2269 *         1,237,810.4673               |
-0 * 1196 *        1,189.9755 *                      *
-KREKEREREKE EE KHKEKRER ER EERE IR ERR KKK EKE KEE RE ต้อขะว่6วแว่ะว่ะว่6 ว6วะ: FR RAKE EERE ERE BEKELE IK IKE IRE EG IS KIKI REE EER ERIE                                   t
-Computed By  / )         gf       Approved By            7บบ/                  |
-(x)                   EXCISE OFFICER                |
-Intertek Testing Services (TR@and) Hiptited          .นายมานะ ฉินทองประเสริฐ)         เ
-น                                      San               - เลธ์ด6นะรคดัริฐฐทรโยชาชํานาญการ                         |
-PTT. Aromatics and Refining Public Co., Ltd. 1                       hy,                                !
-See”        ป
-, wes and Refining PUBS                                       :
-Intertek Testing Services (Thailand) Ltd.                                                                 |
-Suite 601 B, Monririn Building, 60/1 Phaholyothin 8, Phaholyothin Road, Samsaennai, Phayathal, Bangkok 10400, Thailand. Tel: +66 2 279-5040 (Auto12 Lines) Fax: +66 2 276-1878-9 www.intertek.com                 [
+20 *    21 *      1,187.4891 *         1,187.4891 *         2/, 146.5615
+21 *    22 *      1,187.4891 *         1,187.4891 *         28,934.0506
+22 *      23 *        1,186.8106 *          ~1,186.8106 *            30,120.8612
+23 *     24 *        1,186.8106 *     |     1,186.8106 *            31,307.6718
+24 *      25 *        1,186.7586 *           1,186.7586 *            32,494.4304
+25 *     26 *        1,187.5888 *           1,187.5888 *            33,682.0192
+26 *      30 *        1,187.5888 *           4,750.3552 *            38, 432.3744
+30 *      31 *        1,187.3964 *           1,187.3964 *            39,619.7708
+31 *      32 *        1,187.7657 *           1,187.7657 *            40,807.5365
+32 *     35 *       1,187.7657 *           3,563.2971 *            44,370.8336
+35 *     36 *       1,187.4731 *         1,187.4731 *          45,558.3067
+36 *     40 *        1,187.4731 *           4,749.8924 *            50,308.1991
+40 *     41 *        1,187.8147 *           1,187.8147 *            51,496.0138
+41 *      43 *        1,187.8147 *           2,375.6294 *            53,871.6432
+43 * 44 *       1,188.5274 *           1,188.5274 *            55,060.1706
+44 *     52 *       1,189.2939 *           9,514.3512 *            64 574.5218
+52 *     53 *       1,189.3643 *           1,189.3643 *            65, 763.8861
+53 *     104 *        1,189.3643 *          60,657.5793 *           126 421.4654
+404 *     105 *       1,188.6516 *           1,188.6516 *           127,610.1170
+105 *    406 *       1,187.8851 *          1,187.8851 *          128,798.0021
+106 *    242 *        1,187.88514 *         161,552.3736 *           290 ,350.3757
+242 *     243 *        1,189.2725 *           1,189.2725 *           291 539.6482
+243 *    485 *        1,189.8671 *         287 947.8382 *           579, 487.4864
+A85 *    A86 *       1,189.6878 *           1,189.6878 *           580,677.1742
+486 *    669 *       1,189.6110 *         217,698.8130 *           798,375.9872
+669 *    670 *       1,189.7429 *           1,189.7429 *           799 565.7301
+670 *    853 *       1,190.2705 *         217,819.5015 *         1,017,385.2316
+853 *    854 *       1,190.5153 *           1,190.5153 *         1,018 575.7469
+854 *    1037 *       1,191.4945 *    218,043.4935 *          1,236,619.2404
+1037 *    1038 *       1,191.2269 *           1,191.2269 *         1,237 ,810.4673
+Q *    1196 *        1,189.9755 *                       *
+
+KRAKKEKREREKEE KICKER ERERERIR ERR ERE REE IE ไง
+
+Computed By    / 2
+2
+
+Intertek Testing Services (ไฟ้อ ant
+
+Certified By
+|      PTT. Aromatics and Refining Public Co., Ltd.
+
+Intertek Testing Services (Thailand) Ltd.
+
+Suite 601 B, Monririn Building, 60/1 Phaholycthin 8, Phaholyothin Road, Samsaennai, Phayathal, Bangkok 10400, Thailand. Tel: +66 2 279-5040 (Auto12 Lines) Fax: +66 2 276-1878-9 www.intertek.com
+
+PETITE RNEASY PEE AITP WOEMEE I MESA ERY AIRY RY DEANE WE INE OY I Ot แสนนอสลอบ แลนณานองแออออยั้ี้้ี้้ี้้้งจาวาวงวงว1น1น1ว1ว1ว1วฟนไนไนวไววไว03ท3535ท5ทจป71พ1 นอนอนหอ0 3 A 3333353า35า5รรา5า133้35ร้5้๐ 0!ว    sone                                                                                  meee 07
+
+กวกตัจผุด2=ามหกท     ห
 
 --- Page 18 ---
-Intertek.
-SUMMARY OF VOLUME                               Page 2 of 2
+§ intertek
+
+SUMMARY OF VOLUME
+
 PTT. Aromatics and Refining , Map Ta Phut
-Tank No.      945-TK1B
-เศศศออล ลล IRI RIOR SII I AI TIT I THORS A IT TIES IRE ATES ATT S SATII IIASA III IATA TA                     |
-Effective Height *       Net Volume *         Total Volume *            Total Volume
-oe eee *                                                                   *                                                                               *
-Cms *    Cms *           Lts/Cms *          At Each Level *                    Litres
-๓ ลอคัจงแน
-1038 * 1196 *        1,190.1564 *          188,044.7112 *          1,425,855.1785
-*             เล                           *                                *
-*             %                           *                                *
-*             *                           *                               *
-*             *                          *                                *
-*             *                           *                                *
-*             *                           *                               ¥*
-*             *                          *                               *
-*             *                          *                                *
-*             *                           *                                *
-*             *                          *                               *
-*             *                          *                               *                                                      i
-*             *                          *                               *                                                      |
-*             *                          *                                *
-*             เล                          *                               *                                                      i
-*             *                          *                               ซ                                                      |
-*             *                          *                                *
-}
-*             *                          *                               *                              ล                       a
-*                     *                   .                        *                                                    *            <n      a 7.    oo &                            |
-ว AND                    ก
-*                          *                               *               al    -   เศด
-อ                                                                                       ญรรมณ์                         |
-*             *                          *                               *                                                     จั้
-*             *                          *                               *                                                     |
-*             *                     .     *                               *                                                     |
-*             *                          *                            *
-*             *                          *                               *                                                     |
-*             *                          *                               *                                                     |
-*             *                          *                               *                                                     |
-*             *                          *                               *
-*             *                          *                               *                                                     |
-*             *                          *                               *                                                     i
-*             *                          *                               *
-*             *                          *                               %                                                    |
-*             *                          *                               *
-*             *                          *                               *                                                    ร
-*             *                          *                               *
-ฉั๐หง๐ยยตณุณับพมมิตตน                  :
-0 *    1196 *        1,189.9755 *                     *
-- 00ไ00ลม ง HIER ICI ICI II II RIOR SIO RII III IRI SIR IK II IIIS SAA IAAT ISIAH                  i
-APR                                                                                )
-Computed By                                        “Approved By                                  /
-7,         ล                                                                            |
-5ละ๕ ๕
-ะ(ช์ 5                            EXCISE OFFICER                       |
-Intertek Testing Services (Tata        uted                 ft       ะ ณิ          ะเสริ:                   i
-g             (ด6                 ต์เลสมปะ  ฉินทองประเสริฐ)                 |
-e                                                               5             วิศวหรชาชําบาญการ                     i
-Certified By                                                       ay                           *                         i
-PTT. Aromatics and Refining Public Co., Ltd. aA. ซ้ ( }   Ax  ky                                  |
-.                                                                     . “๕                -    SS                                                  |
-.                                                                กรรรรรร์ด                               i
-intertek Testing Services (Thailand) Ltd.                                                                     i
-Suite 601 B, Monririn Building, 60/1 Phaholyothin 8, Phaholyothin Road, Samsaennai, Phayathai, Bangkok 10400, Thailand. Tel: +66 2 279-5040 (Auto12 Lines) Fax: +66 2 270-1 878-9 www.intertek.com            ว
+
+Tank No.
+
+Se dete Hee ARIANA IE TISAI AAA ASSIS SAIS IISA SSSI NIE IA SSA IESE TERE ERE EERE
+
+945-TK1B
+
+*
+
+Effective Height *       Net Volume *          Total Volume
+
+Cms *
+
+"ล IIIA FAIA INS DSA IKI SA SVAN SSS AS IIS AIAA ISI SIAS AAI SA SISA AS ASSIS IAAI IS SSI IA
+
+1038 *
+
+*
+*
+*
+
+*
+
+เก อ + : 33: & SF H
+
++
+
+* *
+
++ ££ * & ”
+
++
+
+*
+*
+
+KREKKREREK
+
+Certified By
+
+Suite 601 B, Monririn Building, 60/1 Phaholyothin 8, Phaholyothin Road, Samsaennai, Phayathai, Bangkok 10400, Thailand. Tel: +66 2 279-5040 (Auto12 Lines) Fax: +66 2 270-1 878-9 www.intertek.com
+
+0ทาร *             Lts/Cms *           At Each Level
+
+1196 *        1,190.1564 *         188,044.7112
+*                            ว
+*                            *
+*                            *
+*                            *
+*                            *
+*                            *
+*                            *
+*                            *
+*                            *
+*                            *
+*                            x
+*                            *
+*                            *
+*                            *
+*                            *
+*                            *
+*                            *
+*                            x
+*                            *
+
+*                            *
+*                            *
+*                            *
+*                            *
+*                            *
+*                            *
+*                            *
+*                            *
+*                            x
+*                            *
+*                            *
+*                            *
+*                            *
+*
+
+*                            *
+*                            *
+*                            *
+*                            *%
+*                            *
+
+PTT. Aromatics and Refining Public Co., Ltd.   \
+
+intertek Testing Services (Thailand) Ltd.
+
+*
+
+*
+
+*
+
+*
+*
+*
+
+*
+
+*
+
++ * + & + % & * F
+
+t+ + + *
+
+*
+
+*%
+*
+*
+
+*
+
+ %
+
+Page 2 of 2
+
+Sete de AICI TIRE IEEE RIEKREREERERER SERRE EEE
+
+Total Volume
+
+Litres
+
+เร เวเดนล็นโนวนวอตโซลนเนนโนลม่
+
+1,425,855.1785
+
+2 2 ICIP EI SII III IARI TIT RII IIIS INI AIA TORII SIA IAS AN INS IIT ISIS ATA ISSA TISAI SAI IAT IA IIIA
+
+0 * 1196 *        1,189.9755 *
+
+SIAR IEA ARPA ER EERE EERE EERE EER oy
+
+Computed By   Za?      ST |
+
+Intertek Testing Services (TK
+
+ek HAE KIA IAAI IA ASIII IASI AAI ASSII ISI IAAI SIAN AIA ARI IAA
+
+/
+EXCISE OFFICER
+/ ฉินทองประเสวริฐ)
+ชา ชําบาญการ
+
+2งคงรรหคุมเหคอคเคหคุหภรากทหลงหเอเกหรวดรแนเคภาหครรหสจรกททรเหคุคดเหเหขวารทเภททหศางคเลอหภางทรูกรเยตคศุฑาศนคอล
+F                     Oe OTTER? Fe fe                       เคตล
+ม   OOTP AT WPA pr Tm NR SN
+
+เสัทคศพศุดคคคลอรุจ
+
+LISI ALN ILM OLS OOD PD RIND
+
+เภดแวกหจลกหรจรองาเสหรกะททรงง48ครุจอรกรทุจคอกรคตาคกรพากภาคคตอรทยอรเรค
